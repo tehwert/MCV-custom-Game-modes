@@ -1,0 +1,184 @@
+				"dualies" // Team-based gungame
+				{
+					"value"				"00"
+					"nameID"			"#vietnam_GameMode_dualies"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_hdm"
+							}
+						}
+						"category1"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_m1895"
+							}
+						}
+						"category2"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_m1911"
+							}
+						}
+						"category3"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_m1917"
+							}
+						}
+						"category4"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10"
+							}
+						}
+						"category5"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10_sog"
+							}
+						}
+						"category6"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mk22"
+							}
+						}
+						"category7"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mk22_mod0"
+							}
+						}
+						"category8"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mle1935"
+							}
+						}
+						"category9"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_p38"
+							}
+						}
+						"category10"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_pb"
+							}
+						}
+						"category11"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_pm"
+							}
+						}
+						"category12"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_swm12"
+							}
+						}
+						"category13"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_tt33"
+							}
+						}
+						"category14"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_type14"
+							}
+						}
+						"category15"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_type67"
+							}
+						}
+						"category16"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_vz61e"
+							}
+						}
+						"category17"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_vz61e_sog"
+							}
+						}						
+					}
+				}
