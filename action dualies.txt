@@ -1,0 +1,346 @@
+				"action dualies" // Team-based gungame
+				{
+					"value"				"00"
+					"nameID"			"#vietnam_GameMode_action dualies"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_hdm"
+								"1" "weapon_dual_hdm"
+								"2" "weapon_dual_hdm"
+								"3" "weapon_dual_hdm"
+								"4" "weapon_dual_hdm"
+								"5" "weapon_dual_hdm"
+								"6" "weapon_dual_hdm"
+								"7" "weapon_dual_hdm"
+								"8" "weapon_dual_hdm"
+								"9" "weapon_dual_hdm"
+							}
+						}
+						"category1"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_m1895"
+								"1" "weapon_dual_m1895"
+								"2" "weapon_dual_m1895"
+								"3" "weapon_dual_m1895"
+								"4" "weapon_dual_m1895"
+								"5" "weapon_dual_m1895"
+								"6" "weapon_dual_m1895"
+								"7" "weapon_dual_m1895"
+								"8" "weapon_dual_m1895"
+								"9" "weapon_dual_m1895"
+							}
+						}
+						"category2"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_m1911"
+								"1" "weapon_dual_m1911"
+								"2" "weapon_dual_m1911"
+								"3" "weapon_dual_m1911"
+								"4" "weapon_dual_m1911"
+								"5" "weapon_dual_m1911"
+								"6" "weapon_dual_m1911"
+								"7" "weapon_dual_m1911"
+								"8" "weapon_dual_m1911"
+								"9" "weapon_dual_m1911"
+							}
+						}
+						"category3"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_m1917"
+								"1" "weapon_dual_m1917"
+								"2" "weapon_dual_m1917"
+								"3" "weapon_dual_m1917"
+								"4" "weapon_dual_m1917"
+								"5" "weapon_dual_m1917"
+								"6" "weapon_dual_m1917"
+								"7" "weapon_dual_m1917"
+								"8" "weapon_dual_m1917"
+								"9" "weapon_dual_m1917"
+							}
+						}
+						"category4"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10"
+								"1" "weapon_dual_mac10"
+								"2" "weapon_dual_mac10"
+								"3" "weapon_dual_mac10"
+								"4" "weapon_dual_mac10"
+								"5" "weapon_dual_mac10"
+								"6" "weapon_dual_mac10"
+								"7" "weapon_dual_mac10"
+								"8" "weapon_dual_mac10"
+								"9" "weapon_dual_mac10"
+							}
+						}
+						"category5"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10_sog"
+								"1" "weapon_dual_mac10_sog"
+								"2" "weapon_dual_mac10_sog"
+								"3" "weapon_dual_mac10_sog"
+								"4" "weapon_dual_mac10_sog"
+								"5" "weapon_dual_mac10_sog"
+								"6" "weapon_dual_mac10_sog"
+								"7" "weapon_dual_mac10_sog"
+								"8" "weapon_dual_mac10_sog"
+								"9" "weapon_dual_mac10_sog"
+							}
+						}
+						"category6"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mk22"
+								"1" "weapon_dual_mk22"
+								"2" "weapon_dual_mk22"
+								"3" "weapon_dual_mk22"
+								"4" "weapon_dual_mk22"
+								"5" "weapon_dual_mk22"
+								"6" "weapon_dual_mk22"
+								"7" "weapon_dual_mk22"
+								"8" "weapon_dual_mk22"
+								"9" "weapon_dual_mk22"
+							}
+						}
+						"category7"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mk22_mod0"
+								"1" "weapon_dual_mk22_mod0"
+								"2" "weapon_dual_mk22_mod0"
+								"3" "weapon_dual_mk22_mod0"
+								"4" "weapon_dual_mk22_mod0"
+								"5" "weapon_dual_mk22_mod0"
+								"6" "weapon_dual_mk22_mod0"
+								"7" "weapon_dual_mk22_mod0"
+								"8" "weapon_dual_mk22_mod0"
+								"9" "weapon_dual_mk22_mod0"
+							}
+						}
+						"category8"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_mle1935"
+								"1" "weapon_dual_mle1935"
+								"2" "weapon_dual_mle1935"
+								"3" "weapon_dual_mle1935"
+								"4" "weapon_dual_mle1935"
+								"5" "weapon_dual_mle1935"
+								"6" "weapon_dual_mle1935"
+								"7" "weapon_dual_mle1935"
+								"8" "weapon_dual_mle1935"
+								"9" "weapon_dual_mle1935"
+							}
+						}
+						"category9"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_p38"
+								"1" "weapon_dual_p38"
+								"2" "weapon_dual_p38"
+								"3" "weapon_dual_p38"
+								"4" "weapon_dual_p38"
+								"5" "weapon_dual_p38"
+								"6" "weapon_dual_p38"
+								"7" "weapon_dual_p38"
+								"8" "weapon_dual_p38"
+								"9" "weapon_dual_p38"
+							}
+						}
+						"category10"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_pb"
+								"1" "weapon_dual_pb"
+								"2" "weapon_dual_pb"
+								"3" "weapon_dual_pb"
+								"4" "weapon_dual_pb"
+								"5" "weapon_dual_pb"
+								"6" "weapon_dual_pb"
+								"7" "weapon_dual_pb"
+								"8" "weapon_dual_pb"
+								"9" "weapon_dual_pb"
+							}
+						}
+						"category11"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_pm"
+								"1" "weapon_dual_pm"
+								"2" "weapon_dual_pm"
+								"3" "weapon_dual_pm"
+								"4" "weapon_dual_pm"
+								"5" "weapon_dual_pm"
+								"6" "weapon_dual_pm"
+								"7" "weapon_dual_pm"
+								"8" "weapon_dual_pm"
+								"9" "weapon_dual_pm"
+							}
+						}
+						"category12"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_swm12"
+								"1" "weapon_dual_swm12"
+								"2" "weapon_dual_swm12"
+								"3" "weapon_dual_swm12"
+								"4" "weapon_dual_swm12"
+								"5" "weapon_dual_swm12"
+								"6" "weapon_dual_swm12"
+								"7" "weapon_dual_swm12"
+								"8" "weapon_dual_swm12"
+								"9" "weapon_dual_swm12"
+							}
+						}
+						"category13"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_tt33"
+								"1" "weapon_dual_tt33"
+								"2" "weapon_dual_tt33"
+								"3" "weapon_dual_tt33"
+								"4" "weapon_dual_tt33"
+								"5" "weapon_dual_tt33"
+								"6" "weapon_dual_tt33"
+								"7" "weapon_dual_tt33"
+								"8" "weapon_dual_tt33"
+								"9" "weapon_dual_tt33"
+							}
+						}
+						"category14"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_type14"
+								"1" "weapon_dual_type14"
+								"2" "weapon_dual_type14"
+								"3" "weapon_dual_type14"
+								"4" "weapon_dual_type14"
+								"5" "weapon_dual_type14"
+								"6" "weapon_dual_type14"
+								"7" "weapon_dual_type14"
+								"8" "weapon_dual_type14"
+								"9" "weapon_dual_type14"
+							}
+						}
+						"category15"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_type67"
+								"1" "weapon_dual_type67"
+								"2" "weapon_dual_type67"
+								"3" "weapon_dual_type67"
+								"4" "weapon_dual_type67"
+								"5" "weapon_dual_type67"
+								"6" "weapon_dual_type67"
+								"7" "weapon_dual_type67"
+								"8" "weapon_dual_type67"
+								"9" "weapon_dual_type67"
+							}
+						}
+						"category16"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_vz61e"
+								"1" "weapon_dual_vz61e"
+								"2" "weapon_dual_vz61e"
+								"3" "weapon_dual_vz61e"
+								"4" "weapon_dual_vz61e"
+								"5" "weapon_dual_vz61e"
+								"6" "weapon_dual_vz61e"
+								"7" "weapon_dual_vz61e"
+								"8" "weapon_dual_vz61e"
+								"9" "weapon_dual_vz61e"
+							}
+						}
+						"category17"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_vz61e_sog"
+								"1" "weapon_dual_vz61e_sog"
+								"2" "weapon_dual_vz61e_sog"
+								"3" "weapon_dual_vz61e_sog"
+								"4" "weapon_dual_vz61e_sog"
+								"5" "weapon_dual_vz61e_sog"
+								"6" "weapon_dual_vz61e_sog"
+								"7" "weapon_dual_vz61e_sog"
+								"8" "weapon_dual_vz61e_sog"
+								"9" "weapon_dual_vz61e_sog"
+							}
+						}
+					}
+				}
