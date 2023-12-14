@@ -34,7 +34,7 @@
 						"all"	"0"
 					}
 
-"weaponprogression"
+					"weaponprogression"
 					{
 						"category0"
 						{
@@ -69,6 +69,5 @@
 								"0" "weapon_fists"
 							}
 						}
- 
 					}
 				}
