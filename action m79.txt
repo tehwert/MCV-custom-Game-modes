@@ -1,4 +1,3 @@
-//DOESN'T AUTORELOAD SO SAME AS REGULAR M79
 "action m79" // Team-based gungame
 				{
 					"value"				"79"

@@ -1,7 +1,7 @@
-				"template" // Team-based gungame
+				"boomy" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_template"
+					"nameID"			"#vietnam_GameMode_boomy"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -41,7 +41,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m203"
 							}
 						}
 						"category1"
@@ -49,7 +49,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_rpg7"
 							}
 						}
 						"category2"
@@ -57,7 +57,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m72"
 							}
 						}
 						"category3"
@@ -65,7 +65,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_csg2"
 							}
 						}
 						"category4"
@@ -73,7 +73,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_mk3a2"
 							}
 						}
 						"category5"
@@ -81,7 +81,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m79"
 							}
 						}
 						"category6"
@@ -89,7 +89,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_china_lake"
 							}
 						}
 						"category7"
@@ -97,7 +97,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_c4"
 							}
 						}
 						"category8"
@@ -105,112 +105,16 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m26"
 							}
-						}
-						"category9"
+							"category9"
 						{
 							"kills" "10"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_molotov"
 							}
-						}
-						"category10"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category11"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category12"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category13"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "
-							}
-						}
-						"category14"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category15"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category16"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category17"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category18"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category19"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category20"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category21"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
+						}						
 					}
 				}
+			}
