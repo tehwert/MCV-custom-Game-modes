@@ -1,0 +1,528 @@
+				"gungame revamped" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_gungame revamped"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1a1"
+							}
+						}
+						"category1"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_mp40"
+							}
+						}
+						"category2"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_mas38"
+							}
+						}
+						"category3"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_mat49"
+							}
+						}
+						"category4"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_k50m"
+							}
+						}
+						"category5"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_pps43"
+							}
+						}
+						"category6"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m45"
+							}
+						}
+						"category7"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m3a1"
+							}
+						}
+						"category8"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_uzi"
+							}
+						}
+						"category9"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm76"
+							}
+						}
+						"category10"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_stenmk2"
+							}
+						}
+						"category11"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_ppsh41"
+							}
+						}
+						"category12"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_vz61e"
+							}
+						}
+						"category13"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_mac10"
+							}
+						}
+						"category14"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_ppsh41d"
+							}
+						}
+						"category15"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1928"
+							}
+						}
+						"category16"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10"
+							}
+						}
+						"category17"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_dual_vz61e"
+							}
+						}
+						"category18"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_type64"
+							}
+						}
+						"category19"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_stenmk2_sog"
+							}
+						}
+						"category20"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_uzi_sog"
+							}
+						}
+						"category21"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m45_sog"
+							}
+						}
+						"category22"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m3a1_sog"
+							}
+						}
+						"category23"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_mac10_sog"
+							}
+						}
+						"category24"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_mat49_sog"
+							}
+						}
+						"category25"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m870"
+							}
+						}
+						"category26"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category27"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1897"
+							}
+						}
+						"category28"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m37"
+							}
+						}
+						"category29"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+							}
+						}
+						"category30"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1g"
+							}
+						}
+						"category31"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_sks"
+							}
+						}
+						"category32"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1c"
+							}
+						}
+						"category33"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1c_sog"
+							}
+						}
+						"category34"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_type17"
+							}
+						}
+						"category35"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_type63"
+							}
+						}
+						"category36"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_svt40"
+							}
+						}
+						"category37"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "wweapon_m14"
+							}
+						}
+						"category38"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m2c_sog"
+							}
+						}
+						"category39"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1903"
+							}
+						}
+						"category40"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_kar98k"
+							}
+						}
+						"category41"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m38"
+							}
+						}
+						"category42"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m91"
+							}
+						}
+						"category43"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_stg44"
+							}
+						}
+						"category44"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_ak47"
+							}
+						}
+						"category45"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_type56"
+							}
+						}
+						"category46"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_akm"
+							}
+						}
+						"category47"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_md63"
+							}
+						}
+						"category48"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_t223"
+							}
+						}
+						"category49"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m16a1"
+							}
+						}
+						"category50"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_car15"
+							}
+						}
+						"category51"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m607"
+							}
+						}
+						"category52"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_vz58"
+							}
+						}
+						"category53"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1918"
+							}
+						}
+						"category54"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_xm177"
+							}
+						}
+						"category55"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_svd"
+							}
+						}
+						"category56"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_stoner63"
+							}
+						}
+						"category57"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_rpk"
+							}
+						}
+						"category58"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m79"
+							}
+						}
+						"category59"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_dual_m1911"
+							}
+						}
+						"category60"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type30_bayonet"
+							}
+						}
+					}
+				}
