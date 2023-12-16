@@ -1,7 +1,7 @@
-				"bolt action" // Team-based gungame
+				"machine gun party" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_bolt action"
+					"nameID"			"#vietnam_GameMode_machine gun party"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -41,15 +41,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m38"
-							}
-						}
-												"category0a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_m38"
+								"0" "weapon_bren"
 							}
 						}
 						"category1"
@@ -57,15 +49,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_kar98k"
-							}
-						}
-												"category1a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_kar98k"
+								"0" "weapon_m1918_bar"
 							}
 						}
 						"category2"
@@ -73,15 +57,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m1903"
-							}
-						}
-												"category2a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_m1903"
+								"0" "weapon_m60b"
 							}
 						}
 						"category3"
@@ -89,15 +65,15 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m91"
+								"0" "weapon_rpd_sog"
 							}
 						}
-											"category3a"
+						"category4"
 						{
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m91"
+								"0" "weapon_dp28"
 							}
 						}
 						"category5"
@@ -105,16 +81,48 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m40"
+								"0" "weapon_rp46"
 							}
-						}	
-						"category5a"
+						}
+						"category6"
 						{
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m40"
+								"0" "weapon_m60"
 							}
-						}							
+						}
+						"category7"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_stoner63"
+							}
+						}
+						"category8"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_rpd"
+							}
+						}
+						"category9"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_rpk"
+							}
+						}
+						"category10"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_tul1"
+							}
+						}
 					}
 				}

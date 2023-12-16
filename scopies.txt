@@ -1,6 +1,6 @@
 "Scopies" // Team-based gungame
 				{
-					"value"				"00"
+					"value"				"07"
 					"nameID"			"#vietnam_GameMode_Scopies"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
