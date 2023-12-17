@@ -1,0 +1,136 @@
+"Rifle Grenade Training" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Rifle Grenade Training"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{				
+						"category0"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_kar98k_riflegrenade"
+							}
+						}
+						"category1"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_kbkg60_riflegrenade"
+							}
+						}
+						"category2"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m1c_riflegrenade"
+							}
+						}
+						"category3"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m1g_riflegrenade"
+							}
+						}
+						"category4"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m2c_riflegrenade"
+							}
+						}
+						"category5"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m14_riflegrenade"
+							}
+						}
+						"category7"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m38_riflegrenade"
+							}
+						}
+						"category8"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m91_riflegrenade"
+							}
+						}
+						"category9"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m1903_riflegrenade"
+							}
+						}
+						"category10"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_mas49_riflegrenade"
+							}
+						}
+						"category11"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_sks_riflegrenade"
+							}
+						}
+						"category12"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_type63_riflegrenade"
+							}
+						}									
+					}
+				}		
