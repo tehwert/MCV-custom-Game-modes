@@ -112,7 +112,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_molotov"
+								"0" "weapon_xm202"
 							}
 						}						
 					}
