@@ -38,83 +38,43 @@
 					{
 						"category0"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
 								"0" "weapon_m38"
 							}
-						}
-												"category0a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_m38"
-							}
-						}
+						}					
 						"category1"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
 								"0" "weapon_kar98k"
 							}
-						}
-												"category1a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_kar98k"
-							}
-						}
+						}												
 						"category2"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
 								"0" "weapon_m1903"
 							}
-						}
-												"category2a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_m1903"
-							}
-						}
+						}												
 						"category3"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
 								"0" "weapon_m91"
 							}
-						}
-											"category3a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_m91"
-							}
-						}
+						}											
 						"category5"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
 								"0" "weapon_m40"
 							}
-						}	
-						"category5a"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_m40"
-							}
-						}							
+						}										
 					}
 				}
