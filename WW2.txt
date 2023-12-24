@@ -1,0 +1,215 @@
+				"WW2" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_WW2"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1c"
+								"1" "weapon_m1c_sog"
+								"2" "weapon_m2c"
+								"3" "weapon_m2c_sog"
+								"4" "weapon_type17"
+							}
+						}
+						"category1"
+						{
+							"kills" "9"
+							"weapons"
+							{
+								"0" "weapon_m1a1"
+								"1" "weapon_m3a1"
+								"2" "weapon_m1928"
+								"3" "weapon_mas38"
+								"4" "weapon_mp40"
+								"5" "weapon_pps43"
+								"6" "weapon_ppsh41"
+								"7" "weapon_ppsh41d"
+								"8" "weapon_stenmk2"
+							}
+						}
+						"category2"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_m1a1_sog"
+								"1" "weapon_m3a1_sog"
+								"2" "weapon_stenmk2_sog"
+							}
+						}
+						"category3"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_kar98k"
+								"1" "weapon_m38"
+								"2" "weapon_m1903"
+								"3" "weapon_stg44"
+							}
+						}
+						"category4"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_kar98k_riflegrenade"
+								"1" "weapon_m1c_riflegrenade"
+								"2" "weapon_m1g_riflegrenade"
+								"3" "weapon_m2c_riflegrenade"
+								"4" "weapon_m38_riflegrenade"
+								"5" "weapon_m91_riflegrenade"
+								"6" "weapon_m1903_riflegrenad"
+							}
+						}
+						"category5"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_csg"
+								"1" "weapon_csg2"
+								"2" "weapon_dynamite"
+								"3" "weapon_mk3a2"
+								"4" "weapon_molotov"						
+							}
+						}
+						"category6"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_m1g"
+								"1" "weapon_m1918"
+								"2" "weapon_svt40"
+							}
+						}
+						"category7"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_bren"
+								"1" "weapon_dp28"
+								"2" "weapon_m1918_bar"
+							}
+						}
+						"category8"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_m37"
+								"1" "weapon_m870"
+								"2" "weapon_m1897"
+							}
+						}
+						"category9"
+						{
+							"kills" "6"
+							"weapons"
+							{
+								"0" "weapon_kar98k_s"
+								"1" "weapon_m1gs"
+								"2" "weapon_m38s"								
+								"4" "weapon_m1903s"
+								"5" "weapon_stg44s"
+								"6" "weapon_svt40s"
+							}
+						}
+						"category10"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_dual_baby_browning"
+								"1" "weapon_dual_hdm"
+								"2" "weapon_dual_m1895"
+								"3" "weapon_dual_m1911"
+								"4" "weapon_dual_m1917"
+								"5" "weapon_dual_mle1935"
+								"6" "weapon_dual_p38"
+								"7" "weapon_dual_swm10"
+								"8" "weapon_dual_swm12"
+								"9" "weapon_dual_tt33"
+								"10" "weapon_dual_type14"
+							}
+						}
+						"category11"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_baby_browning"
+								"1" "weapon_hdm"
+								"2" "weapon_m1895"
+								"3" "weapon_m1911"
+								"4" "weapon_m1917"
+								"5" "weapon_mle1935"
+								"6" "weapon_p38"
+								"7" "weapon_swm10"
+								"8" "weapon_swm12"
+								"9" "weapon_tt33"
+								"10" "weapon_type14"
+								"11" "weapon_c96"
+							}
+						}
+						"category11A"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_ptrd"								
+							}
+						}		
+						"category12"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_fists"
+								"1" "weapon_m1905_bayonet"
+								"2" "weapon_m1942"
+								"3" "weapon_sickle"
+								"4" "weapon_type30_bayonet"
+							}
+						}						
+					}
+				}
