@@ -148,54 +148,6 @@
 								"0" "weapon_m1917"
 							}
 						}
-																		"category015"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1917"
-							}
-						}
-												"category016"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1917"
-							}
-						}
-												"category017"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1917"
-							}
-						}
-																		"category018"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1917"
-							}
-						}
-																		"category019"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1917"
-							}
-						}
-																		"category020"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1917"
-							}
-						}
 						"categoryB01"
 						{
 							"kills" "2"
@@ -308,52 +260,116 @@
 								"0" "weapon_swm12"
 							}
 						}
-																		"categoryB015"
+												"categoryB01"
 						{
 							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_swm12"
+								"0" "weapon_swm10"
 							}
 						}
-												"categoryB016"
+												"categoryB02"
 						{
 							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_swm12"
+								"0" "weapon_swm10"
 							}
 						}
-												"categoryB017"
+																		"categoryB03"
 						{
 							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_swm12"
+								"0" "weapon_swm10"
 							}
 						}
-																		"categoryB018"
+																		"categoryB04"
 						{
 							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_swm12"
+								"0" "weapon_swm10"
 							}
 						}
-																		"categoryB019"
+																		"categoryB05"
 						{
 							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_swm12"
+								"0" "weapon_swm10"
 							}
 						}
-																		"categoryB020"
+												"categoryB06"
 						{
 							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_swm12"
+								"0" "weapon_swm10"
+							}
+						}
+												"categoryB07"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
+							}
+						}
+																		"categoryB08"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
+							}
+						}
+																		"categoryB09"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
+							}
+						}
+																		"categoryB010"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
+							}
+						}
+																		"categoryB011"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
+							}
+						}
+												"categoryB012"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
+							}
+						}
+																		"categoryB013"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
+							}
+						}
+																		"categoryB014"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_swm10"
 							}
 						}
 						"categoryA01"
@@ -469,46 +485,6 @@
 							}
 						}
 																		"categoryA015"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1895"
-							}
-						}
-												"categoryA016"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1895"
-							}
-						}
-												"categoryA017"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1895"
-							}
-						}
-																		"categoryA018"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1895"
-							}
-						}
-																		"categoryA019"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m1895"
-							}
-						}
-																		"categoryA020"
 						{
 							"kills" "2"
 							"weapons"
