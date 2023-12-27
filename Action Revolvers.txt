@@ -1,4 +1,4 @@
-"Action Revolvers" // Team-based gungame
+				"Action Revolvers" // Team-based gungame
 				{
 					"value"				"7"
 					"nameID"			"#vietnam_GameMode_Action Revolvers"

@@ -468,6 +468,54 @@
 						{
 							"0" "weapon_dual_vz61e_sog"
 						}
-					}									
+					}
+		//			"category18"
+		//			{
+		//				"kills" "2"
+		//				"weapons"
+		//				{
+		//					"0" "weapon_dual_aps"
+		//				}
+		//			}	
+		//			"category18a"
+		//			{
+		//				"kills" "2"
+		//				"weapons"
+		//				{
+		//					"0" "weapon_dual_aps"
+		//				}
+		//			}				
+		//			"category18b"
+		//			{
+		//				"kills" "2"
+		//				"weapons"
+		//				{
+		//					"0" "weapon_dual_aps"
+		//				}
+		//			}
+					"category19"
+					{
+						"kills" "2"
+						"weapons"
+						{
+							"0" "weapon_dual_baby_browning"
+						}
+					}	
+					"category19a"
+					{
+						"kills" "2"
+						"weapons"
+						{
+							"0" "weapon_dual_baby_browning"
+						}
+					}				
+					"category19b"
+					{
+						"kills" "2"
+						"weapons"
+						{
+							"0" "weapon_dual_baby_browning"
+						}
+					}					
 				}
 			}
