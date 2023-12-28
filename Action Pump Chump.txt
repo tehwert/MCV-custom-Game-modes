@@ -172,14 +172,6 @@
 							{
 								"0" "weapon_china_lake"
 							}
-						}						
-						"category4"
-						{
-							"kills" "1"
-							"weapons"
-							{
-								"0" "weapon_robust"
-							}
-						}						
+						}												
 					}
 				}

@@ -36,29 +36,29 @@
 
 						"weaponprogression"
 					{
-"category0" { "kills" "2" "weapons" { "0" "weapon_m3a1_sog" } }
-"category0a" { "kills" "2" "weapons" { "0" "weapon_m3a1_sog" } }
-"category0b" { "kills" "2" "weapons" { "0" "weapon_m3a1_sog" } }
+"category0" { "kills" "3" "weapons" { "0" "weapon_m3a1_sog" } }
+"category0a" { "kills" "3" "weapons" { "0" "weapon_m3a1_sog" } }
+"category0b" { "kills" "3" "weapons" { "0" "weapon_m3a1_sog" } }
 
-"category1" { "kills" "2" "weapons" { "0" "weapon_mat49_sog" } }
-"category1a" { "kills" "2" "weapons" { "0" "weapon_mat49_sog" } }
-"category1b" { "kills" "2" "weapons" { "0" "weapon_mat49_sog" } }
+"category1" { "kills" "3" "weapons" { "0" "weapon_mat49_sog" } }
+"category1a" { "kills" "3" "weapons" { "0" "weapon_mat49_sog" } }
+"category1b" { "kills" "3" "weapons" { "0" "weapon_mat49_sog" } }
 
-"category2" { "kills" "2" "weapons" { "0" "weapon_m45_sog" } }
-"category2a" { "kills" "2" "weapons" { "0" "weapon_m45_sog" } }
-"category2b" { "kills" "2" "weapons" { "0" "weapon_m45_sog" } }
+"category2" { "kills" "3" "weapons" { "0" "weapon_m45_sog" } }
+"category2a" { "kills" "3" "weapons" { "0" "weapon_m45_sog" } }
+"category2b" { "kills" "3" "weapons" { "0" "weapon_m45_sog" } }
 
-"category3" { "kills" "2" "weapons" { "0" "weapon_swm76_sog" } }
-"category3a" { "kills" "2" "weapons" { "0" "weapon_swm76_sog" } }
-"category3b" { "kills" "2" "weapons" { "0" "weapon_swm76_sog" } }
+"category3" { "kills" "3" "weapons" { "0" "weapon_swm76_sog" } }
+"category3a" { "kills" "3" "weapons" { "0" "weapon_swm76_sog" } }
+"category3b" { "kills" "3" "weapons" { "0" "weapon_swm76_sog" } }
 
-"category4" { "kills" "2" "weapons" { "0" "weapon_uzi_sog" } }
-"category4a" { "kills" "2" "weapons" { "0" "weapon_uzi_sog" } }
-"category4b" { "kills" "2" "weapons" { "0" "weapon_uzi_sog" } }
+"category4" { "kills" "3" "weapons" { "0" "weapon_uzi_sog" } }
+"category4a" { "kills" "3" "weapons" { "0" "weapon_uzi_sog" } }
+"category4b" { "kills" "3" "weapons" { "0" "weapon_uzi_sog" } }
 
-"category5" { "kills" "2" "weapons" { "0" "weapon_stenmk2_sog" } }
-"category5a" { "kills" "2" "weapons" { "0" "weapon_stenmk2_sog" } }
-"category5b" { "kills" "2" "weapons" { "0" "weapon_stenmk2_sog" } }
+"category5" { "kills" "3" "weapons" { "0" "weapon_stenmk2_sog" } }
+"category5a" { "kills" "3" "weapons" { "0" "weapon_stenmk2_sog" } }
+"category5b" { "kills" "3" "weapons" { "0" "weapon_stenmk2_sog" } }
 
 "category6" { "kills" "2" "weapons" { "0" "weapon_dual_mac10_sog" } }
 "category6a" { "kills" "2" "weapons" { "0" "weapon_dual_mac10_sog" } }

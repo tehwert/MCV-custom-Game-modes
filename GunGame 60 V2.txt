@@ -283,6 +283,7 @@
 								"0" "weapon_swm12"
 								"1" "weapon_m1895"
 								"2" "weapon_swm10"
+								"3" "weapon_m1917"
 							}
 						}
 						"category19"

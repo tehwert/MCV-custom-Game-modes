@@ -1,7 +1,7 @@
-"Hush Puppy" // Team-based gungame
+"Hush Puppy long" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Hush Puppy"
+					"nameID"			"#vietnam_GameMode_Hush Puppy Long"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -86,7 +86,7 @@
 						}
 						"category6"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_dual_mac10_sog"
@@ -94,7 +94,7 @@
 						}
 						"category7"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_mac10_sog"
@@ -102,7 +102,7 @@
 						}
 						"category8"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_dual_vz61e_sog"
@@ -110,7 +110,7 @@
 						}
 						"category9"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_vz61e_sog"
@@ -118,7 +118,7 @@
 						}
 						"category10"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_dual_pb"
@@ -126,7 +126,7 @@
 						}
 						"category11"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_pb"
@@ -134,7 +134,7 @@
 						}
 						"category12"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_dual_type67"
@@ -142,7 +142,7 @@
 						}
 						"category13"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_type67"
@@ -150,7 +150,7 @@
 						}
 						"category14"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_dual_hdm"
@@ -158,7 +158,7 @@
 						}
 						"category15"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_hdm"
@@ -166,7 +166,7 @@
 						}
 						"category16"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_dual_mk22_mod0"
@@ -174,7 +174,7 @@
 						}
 						"category17"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_mk22_mod0"
