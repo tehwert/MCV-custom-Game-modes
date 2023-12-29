@@ -38,7 +38,7 @@
 					{
 						"category0"
 						{
-							"kills" "59"
+							"kills" "54"
 							"weapons"
 							{
 								"0" "weapon_m79"
@@ -97,19 +97,54 @@
 								"53" "weapon_m79"
 								"54" "weapon_m79"
 								"55" "weapon_m79"
-								"56" "weapon_m79"
-								"57" "weapon_m79"
-								"58" "weapon_m79"
-								"59" "weapon_m79"
-
 							}
 						}						
 					"category1"
 						{
-							"kills" "20"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_m79"
+							}
+						}	
+					"category2"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m79"
+							}
+						}	
+					"category3"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m79"
+							}
+						}	
+					"category4"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m79"
+							}
+						}	
+					"category5"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m79"
+							}
+						}
+						"category6"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m79_sog"
 							}
 						}						
 					}
