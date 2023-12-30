@@ -358,7 +358,7 @@
 						}
 							"categoryF"
 						{
-							"kills" "1"
+							"kills" "3"
 							"weapons"
 							{
 								"0" "weapon_vcpistol"

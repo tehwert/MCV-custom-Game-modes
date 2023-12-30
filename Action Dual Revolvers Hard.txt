@@ -38,7 +38,7 @@
 					{						
 						"category01"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -46,7 +46,7 @@
 						}
 						"category02"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -54,7 +54,7 @@
 						}
 						"category03"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -62,7 +62,7 @@
 						}
 						"category04"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -70,7 +70,7 @@
 						}
 						"category05"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -78,7 +78,7 @@
 						}
 						"category06"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -86,7 +86,7 @@
 						}
 						"category07"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -94,7 +94,7 @@
 						}
 						"category08"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -102,7 +102,7 @@
 						}
 						"category09"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -110,7 +110,7 @@
 						}
 						"category010"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -118,7 +118,7 @@
 						}						
 						"categoryB01"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -126,7 +126,7 @@
 						}
 						"categoryB02"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -134,7 +134,7 @@
 						}
 						"categoryB03"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -142,7 +142,7 @@
 						}
 						"categoryB04"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -150,7 +150,7 @@
 						}
 						"categoryB05"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -158,7 +158,7 @@
 						}
 						"categoryB06"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -166,7 +166,7 @@
 						}
 						"categoryB07"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -174,7 +174,7 @@
 						}
 						"categoryB08"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -182,7 +182,7 @@
 						}
 						"categoryB09"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -190,7 +190,7 @@
 						}
 						"categoryB010"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -198,7 +198,7 @@
 						}
 				//		"categoryC01"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -206,7 +206,7 @@
 				//		}
 				//		"categoryC02"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -214,7 +214,7 @@
 				//		}
 				//		"categoryC03"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -222,7 +222,7 @@
 				//		}
 				//		"categoryC04"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -230,7 +230,7 @@
 				//		}
 				//		"categoryC05"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -238,7 +238,7 @@
 				//		}
 				//		"categoryC06"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -246,7 +246,7 @@
 				//		}
 				//		"categoryC07"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -254,7 +254,7 @@
 				//		}
 				//		"categoryC08"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -262,7 +262,7 @@
 				//		}
 				//		"categoryC09"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -270,7 +270,7 @@
 				//		}
 				//		"categoryC010"
 				//		{
-				//			"kills" "3"
+				//			"kills" "4"
 				//			"weapons"
 				//			{
 				//				"0" "weapon_dual_swm10"
@@ -278,7 +278,7 @@
 				//		}
 						"categoryD01"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -286,7 +286,7 @@
 						}
 						"categoryD02"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -294,7 +294,7 @@
 						}
 						"categoryD03"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -302,7 +302,7 @@
 						}
 						"categoryD04"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -310,7 +310,7 @@
 						}
 						"categoryD05"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -318,7 +318,7 @@
 						}
 						"categoryD06"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -326,7 +326,7 @@
 						}
 						"categoryD07"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -334,7 +334,7 @@
 						}
 						"categoryD08"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -342,7 +342,7 @@
 						}
 						"categoryD09"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -350,7 +350,7 @@
 						}
 						"categoryD010"
 						{
-							"kills" "3"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"

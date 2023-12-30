@@ -1,0 +1,200 @@
+				"Action Battle Rifle" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Action Battle Rifle"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0a"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1918"
+							}
+						}
+						"category0b"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1918"
+							}
+						}
+						"category0c"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1918"
+							}
+						}
+						"category0d"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1918"
+							}
+						}
+						"category1a"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_svt40"
+							}
+						}
+						"category1b"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_svt40"
+							}
+						}
+						"category1c"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_svt40"
+							}
+						}
+						"category1d"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_svt40"
+							}
+						}
+						"category2a"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+							}
+						}
+						"category2b"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+							}
+						}
+						"category2c"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+							}
+						}
+						"category2d"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+							}
+						}
+						"category3a"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1g"
+							}
+						}
+						"category3b"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1g"
+							}
+						}
+						"category3c"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1g"
+							}
+						}
+						"category3d"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1g"
+							}
+						}
+						"category4a"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m14"
+							}
+						}	
+						"category4b"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m14"
+							}
+						}
+						"category4c"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m14"
+							}
+						}	
+						"category4d"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m14"
+							}
+						}							
+					}
+				}
