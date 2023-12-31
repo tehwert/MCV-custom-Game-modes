@@ -1,4 +1,4 @@
-				Action Pump Chump" // Team-based gungame
+				"Action Pump Chump" // Team-based gungame
 				{
 					"value"				"7"
 					"nameID"			"#vietnam_GameMode_Action Pump Chump"
@@ -44,7 +44,7 @@
 								"0" "weapon_m37"
 							}
 						}
-			"category0a"
+						"category0a"
 						{
 							"kills" "5"
 							"weapons"
@@ -52,7 +52,7 @@
 								"0" "weapon_m37"
 							}
 						}
-			"category0b"
+						"category0b"
 						{
 							"kills" "5"
 							"weapons"
@@ -60,7 +60,7 @@
 								"0" "weapon_m37"
 							}
 						}
-			"category0c"
+						"category0c"
 						{
 							"kills" "5"
 							"weapons"

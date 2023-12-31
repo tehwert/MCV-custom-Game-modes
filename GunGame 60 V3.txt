@@ -53,6 +53,10 @@
 								"9" "weapon_swm76"
 								"10" "weapon_stenmk2"
 								"11" "weapon_ppsh41"
+								"12" "weapon_m1a1_sog"
+								"13" "weapon_m12"
+								"14" "weapon_m50"
+								"15" "weapon_vz23"
 							}
 						}
 						"category1"
@@ -64,7 +68,8 @@
 								"1" "weapon_mac10"
 								"2" "weapon_ppsh41d"
 								"3" "weapon_m1928"
-								"3" "weapon_aps"
+								"4" "weapon_aps"
+								"5" "weapon_vz61e_sog"
 							}
 						}
 
@@ -77,7 +82,7 @@
 								"1" "weapon_dual_vz61e"
 								"2" "weapon_dual_mac10_sog"
 								"3" "weapon_dual_vz61e_sog"
-
+							//	"4" "weapon_dual_aps"
 							}
 						}
 						"category3"
@@ -102,6 +107,7 @@
 							{
 								"0" "weapon_m870"
 								"1" "weapon_robust"
+								"2" "weapon_robust_sog"								
 							}
 						}
 						"category5"
@@ -167,6 +173,7 @@
 								"10" "weapon_m1918"
 								"11" "weapon_xm177"
 								"12" "weapon_amd65"
+								"13" "weapon_kbkg60"
 							}
 						}
 						"category10"
@@ -199,6 +206,7 @@
 								"0" "weapon_kar98k_s"
 								"1" "weapon_m40"
 								"2" "weapon_m1903s"
+								"3" "weapon_m38s"
 							}
 						}
 						"category13"
@@ -216,6 +224,7 @@
 								"7" "weapon_rpd_sog"
 								"8" "weapon_tul1"
 								"9" "weapon_m1918_bar"
+								"10" "weapon_bren"
 							}
 						}
 						"category14"
@@ -228,6 +237,9 @@
 								"2" "weapon_m79"
 								"3" "weapon_m79_sog"
 								"4" "weapon_china_lake"
+								"5" "weapon_xm202"
+								"6" "weapon_gp25"
+								"7" "weapon_m203"
 							}
 						}
 						"category15"
@@ -262,11 +274,12 @@
 								"4" "weapon_dual_m1911"
 								"5" "weapon_dual_p38"
 								"6" "weapon_dual_baby_browning"
+								"7" "weapon_dual_type14"
 							}
 						}
 						"category17"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
 								"0" "weapon_dual_pb"
@@ -307,13 +320,23 @@
 						}
 						"category19"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
 								"0" "weapon_csg"
 								"1" "weapon_m26"
 								"2" "weapon_csg2"
 								"3" "weapon_mk3a2"
+							}
+						}
+						"category19B"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_c4"
+								"1" "weapon_dynamite"
+								"2" "weapon_molotov"								
 							}
 						}
 						"category20"
@@ -325,6 +348,21 @@
 								"1" "weapon_lpo50"
 							}
 						}
+						"category20B"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_vcpistol"
+								"1" "weapon_binoculars_us"
+								"2" "weapon_binoculars_vc"
+								"3" "weapon_ptrd"
+								"4" "weapon_m8"
+								"5" "weapon_type97"
+								"6" "weapon_rg42"
+								"7" "weapon_m16mine"
+							}
+						}						
 						"category21"
 						{
 							"kills" "1"
@@ -336,6 +374,7 @@
 								"3" "weapon_m1905_bayonet"
 								"4" "weapon_sickle"
 								"5" "weapon_m1942"
+								"6" "weapon_fists"
 							}
 						}
 					}
