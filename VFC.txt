@@ -52,7 +52,7 @@
 								"0" "weapon_m9a1"
 							}
 						}
-												"category0b"
+						"category0b"
 						{
 							"kills" "2"
 							"weapons"
@@ -60,7 +60,7 @@
 								"0" "weapon_m9a1"
 							}
 						}
-												"category0c"
+						"category0c"
 						{
 							"kills" "2"
 							"weapons"
@@ -68,15 +68,7 @@
 								"0" "weapon_m9a1"
 							}
 						}
-												"category0d"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m9a1"
-							}
-						}
-												"category0e"
+						"category0d"
 						{
 							"kills" "2"
 							"weapons"
@@ -92,7 +84,7 @@
 								"0" "weapon_lpo50"
 							}
 						}
-												"category1a"
+						"category1a"
 						{
 							"kills" "2"
 							"weapons"
@@ -100,7 +92,7 @@
 								"0" "weapon_lpo50"
 							}
 						}
-												"category1b"
+						"category1b"
 						{
 							"kills" "2"
 							"weapons"
@@ -108,7 +100,7 @@
 								"0" "weapon_lpo50"
 							}
 						}
-												"category1c"
+						"category1c"
 						{
 							"kills" "2"
 							"weapons"
@@ -116,7 +108,7 @@
 								"0" "weapon_lpo50"
 							}
 						}
-												"category1d"
+						"category1d"
 						{
 							"kills" "2"
 							"weapons"
@@ -134,7 +126,7 @@
 						}
 						"category3"
 						{
-							"kills" "1"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m8"
@@ -142,7 +134,7 @@
 						}
 						"category4"
 						{
-							"kills" "1"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_type97"

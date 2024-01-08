@@ -1,7 +1,7 @@
-				"Action Pump Chump Long" // Team-based gungame
+				"Action Pump Chump" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Action Pump Chump Long"
+					"nameID"			"#vietnam_GameMode_Action Pump Chump"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"

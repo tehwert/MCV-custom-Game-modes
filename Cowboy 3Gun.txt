@@ -1,7 +1,7 @@
-"Cowboy" // Team-based gungame
+"Cowboy 3Gun" // Team-based gungame
 				{
 					"value"				"07"
-					"nameID"			"#vietnam_GameMode_Cowboy"
+					"nameID"			"#vietnam_GameMode_Cowboy 3Gun"
 					"descID"			"#vietnam_GameModeCowboyDesc"
 					"descID_List"		"#vietnam_GameModeCowboyDescList"
 					"uid"				"11"
@@ -35,33 +35,41 @@
 					}
 
 					"weaponprogression"
-					{
-						"category0"
-						{
-							"kills" "25"
-							"weapons"
-							{
-								"0" "weapon_m1917"						
-							}
-						}
+					{	
 						"category1"
 						{
-							"kills" "25"
+							"kills" "20"
+							"weapons"
+							{
+								"0" "weapon_m1903"								
+							}
+						}
+						"category2"
+						{
+							"kills" "20"
 							"weapons"
 							{
 								"0" "weapon_robust"								
 							}
 						}
- 
-						"category2"
+						"category3"
 						{
-							"kills" "5"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_dynamite"
+								"0" "weapon_m1917"						
 							}
 						}
-						"category3"
+ 
+						"category4"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_molotov"
+							}
+						}
+						"category5"
 						{
 							"kills" "1"
 							"weapons"

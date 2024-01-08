@@ -36,85 +36,209 @@
 
 					"weaponprogression"
 					{
-						"category0"
+						"category0a"
 						{
-							"kills" "25"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1917"
-								"1" "weapon_m1917"
-								"2" "weapon_m1917"
-								"3" "weapon_m1917"
-								"4" "weapon_m1917"
-								"5" "weapon_m1917"
-								"6" "weapon_m1917"
-								"7" "weapon_m1917"
-								"8" "weapon_m1917"
-								"9" "weapon_m1917"
-								"10" "weapon_m1917"
-								"11" "weapon_m1917"
-								"12" "weapon_m1917"
-								"13" "weapon_m1917"
-								"14" "weapon_m1917"
-								"15" "weapon_m1917"
-								"16" "weapon_m1917"
-								"17" "weapon_m1917"
-								"18" "weapon_m1917"
-								"19" "weapon_m1917"
-								"20" "weapon_m1917"
-								"21" "weapon_m1917"
-								"22" "weapon_m1917"
-								"23" "weapon_m1917"
-								"24" "weapon_m1917"
-								"25" "weapon_m1917"
 							}
 						}
-						"category1"
+						"category0b"
 						{
-							"kills" "25"
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0c"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0d"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0e"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0f"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0g"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0h"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0i"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0j"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0k"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category0l"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m1917"
+							}
+						}
+						"category1a"
+						{
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_robust"
-								"1" "weapon_robust"
-								"2" "weapon_robust"
-								"3" "weapon_robust"
-								"4" "weapon_robust"
-								"5" "weapon_robust"
-								"6" "weapon_robust"
-								"7" "weapon_robust"
-								"8" "weapon_robust"
-								"9" "weapon_robust"
-								"10" "weapon_robust"
-								"11" "weapon_robust"
-								"12" "weapon_robust"
-								"13" "weapon_robust"
-								"14" "weapon_robust"
-								"15" "weapon_robust"
-								"16" "weapon_robust"
-								"17" "weapon_robust"
-								"18" "weapon_robust"
-								"19" "weapon_robust"
-								"20" "weapon_robust"
-								"21" "weapon_robust"
-								"22" "weapon_robust"
-								"23" "weapon_robust"
-								"24" "weapon_robust"
-								"25" "weapon_robust"
 							}
 						}
+						"category1b"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1c"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1d"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1e"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1f"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1g"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1h"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1i"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1j"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1k"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}
+						"category1l"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_robust"
+							}
+						}						
  
 						"category2"
 						{
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_dynamite"
-								"1" "weapon_dynamite"
-								"2" "weapon_dynamite"
-								"3" "weapon_dynamite"
-								"4" "weapon_dynamite"
-								"5" "weapon_dynamite"
- 
+								"0" "weapon_molotov"
+								"1" "weapon_molotov"
+								"2" "weapon_molotov"
+								"3" "weapon_molotov"
+								"4" "weapon_molotov"
 							}
 						}
 						"category3"
