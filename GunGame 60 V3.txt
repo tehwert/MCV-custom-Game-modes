@@ -61,6 +61,18 @@
 						}
 						"category1"
 						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10"
+								"1" "weapon_dual_vz61e"
+								"2" "weapon_dual_mac10_sog"
+								"3" "weapon_dual_vz61e_sog"
+							//	"4" "weapon_dual_aps"
+							}
+						}
+						"category2"
+						{
 							"kills" "2"
 							"weapons"
 							{
@@ -73,18 +85,6 @@
 							}
 						}
 
-						"category2"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_dual_mac10"
-								"1" "weapon_dual_vz61e"
-								"2" "weapon_dual_mac10_sog"
-								"3" "weapon_dual_vz61e_sog"
-							//	"4" "weapon_dual_aps"
-							}
-						}
 						"category3"
 						{
 							"kills" "4"
@@ -97,7 +97,7 @@
 								"4" "weapon_m3a1_sog"
 								"5" "weapon_mac10_sog"
 								"6" "weapon_mat49_sog"
-								"6" "weapon_swm76_sog"
+								"7" "weapon_swm76_sog"
 							}
 						}
 						"category4"
@@ -247,26 +247,6 @@
 							"kills" "3"
 							"weapons"
 							{
-								"0" "weapon_pm"
-								"1" "weapon_mk22"
-								"2" "weapon_mle1935"
-								"3" "weapon_tt33"
-								"4" "weapon_m1911"
-								"5" "weapon_mk22_mod0"
-								"6" "weapon_pb"
-								"7" "weapon_hdm"
-								"8" "weapon_type67"
-								"9" "weapon_p38"
-								"10" "weapon_baby_browning"
-								"11" "weapon_type14"
-								"12" "weapon_c96"
-							}
-						}
-						"category16"
-						{
-							"kills" "3"
-							"weapons"
-							{
 								"0" "weapon_dual_pm"
 								"1" "weapon_dual_mk22"
 								"2" "weapon_dual_mle1935"
@@ -277,7 +257,7 @@
 								"7" "weapon_dual_type14"
 							}
 						}
-						"category17"
+						"category16"
 						{
 							"kills" "1"
 							"weapons"
@@ -288,9 +268,47 @@
 								"3" "weapon_dual_type67"
 							}
 						}
+						"category17"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_pm"
+								"1" "weapon_mk22"
+								"2" "weapon_mle1935"
+								"3" "weapon_tt33"
+								"4" "weapon_m1911"
+								"5" "weapon_p38"
+								"6" "weapon_baby_browning"
+								"7" "weapon_type14"
+								"8" "weapon_c96"
+							}
+						}
+						"category17b"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_mk22_mod0"
+								"1" "weapon_pb"
+								"2" "weapon_hdm"
+								"3" "weapon_type67"
+							}
+						}
 						"category18"
 						{
-							"kills" "2"
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_swm12"
+								"1" "weapon_dual_m1895"
+						//		"2" "weapon_dual_swm10"
+								"3" "weapon_dual_m1917"
+							}
+						}
+						"category19"
+						{
+							"kills" "1"
 							"weapons"
 							{
 								"0" "weapon_swm12"
@@ -299,7 +317,7 @@
 								"3" "weapon_m1917"
 							}
 						}
-						"category18B"
+						"category20"
 						{
 							"kills" "1"
 							"weapons"
@@ -318,7 +336,7 @@
 								"11" "weapon_type63_riflegrenade"
 							}
 						}
-						"category19"
+						"category21"
 						{
 							"kills" "1"
 							"weapons"
@@ -329,7 +347,7 @@
 								"3" "weapon_mk3a2"
 							}
 						}
-						"category19B"
+						"category22"
 						{
 							"kills" "1"
 							"weapons"
@@ -339,7 +357,7 @@
 								"2" "weapon_molotov"								
 							}
 						}
-						"category20"
+						"category23"
 						{
 							"kills" "1"
 							"weapons"
@@ -348,7 +366,7 @@
 								"1" "weapon_lpo50"
 							}
 						}
-						"category20B"
+						"category24"
 						{
 							"kills" "1"
 							"weapons"
@@ -361,9 +379,10 @@
 								"5" "weapon_type97"
 								"6" "weapon_rg42"
 								"7" "weapon_m16mine"
+								"8" "weapon_m6a1"
 							}
 						}						
-						"category21"
+						"category25"
 						{
 							"kills" "1"
 							"weapons"
