@@ -1,8 +1,9 @@
 				"ATTACH BAYONETS!" // Team-based gungame
 				//bot_knives_only Highly recommended 
+				//mp_randomspawn 1 also highly recommended 
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_ATTACH BAYONETS!"
+					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -39,7 +40,7 @@
 					{
 						"category0"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_ak47"
@@ -47,7 +48,7 @@
 						}
 						"category1"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_akm"
@@ -56,7 +57,7 @@
 						
 						"category3"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_kar98k"
@@ -64,23 +65,23 @@
 						}
 						"category4"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_kar98k_s"
 							}
 						}
-						"category5"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_kbkg60"
-							}
-						}
+				//		"category5"
+				//		{
+				//			"kills" "2"
+				//			"weapons"
+				//			{
+				//				"0" "weapon_kbkg60"
+				//			}
+				//		}
 						"category6"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1c"
@@ -88,7 +89,7 @@
 						}
 						"category8"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1g"
@@ -96,7 +97,7 @@
 						}
 						"category9"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1gs"
@@ -104,7 +105,7 @@
 						}
 						"category10"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m2c"
@@ -113,7 +114,7 @@
 
 						"category12"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m14"
@@ -121,7 +122,7 @@
 						}
 						"category13"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m16a1"
@@ -129,7 +130,7 @@
 						}
 						"category14"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m21s"
@@ -137,7 +138,7 @@
 						}
 						"category15"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m37"
@@ -145,7 +146,7 @@
 						}
 						"category16"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m38"
@@ -153,7 +154,7 @@
 						}
 						"category17"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m38s"
@@ -161,7 +162,7 @@
 						}
 						"category18"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m91"
@@ -169,7 +170,7 @@
 						}
 						"category19"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1897"
@@ -177,7 +178,7 @@
 						}
 						"category20"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1903"
@@ -185,7 +186,7 @@
 						}
 						"category21"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1903s"
@@ -193,7 +194,7 @@
 						}
 						"category22"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_mas49"
@@ -201,7 +202,7 @@
 						}
 						"category23"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_mas49s"
@@ -209,7 +210,7 @@
 						}
 						"category24"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_md63"
@@ -217,7 +218,7 @@
 						}
 						"category25"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_sks"
@@ -225,7 +226,7 @@
 						}
 						"category26"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_svd"
@@ -233,7 +234,7 @@
 						}
 						"category27"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_svt40"
@@ -241,7 +242,7 @@
 						}
 						"category28"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_svt40s"
@@ -249,7 +250,7 @@
 						}						
 						"category31"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_type56"
@@ -257,7 +258,7 @@
 						}
 						"category32"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_type63"

@@ -1,9 +1,9 @@
 "Cowboy 3Gun" // Team-based gungame
 				{
 					"value"				"07"
-					"nameID"			"#vietnam_GameMode_Cowboy 3Gun"
-					"descID"			"#vietnam_GameModeCowboyDesc"
-					"descID_List"		"#vietnam_GameModeCowboyDescList"
+					"nameID"			"#vietnam_GameMode_Gungame"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"		"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
 					"maxplayers"			"30"
 
@@ -63,10 +63,10 @@
  
 						"category4"
 						{
-							"kills" "1"
+							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_molotov"
+								"0" "weapon_dynamite"
 							}
 						}
 						"category5"

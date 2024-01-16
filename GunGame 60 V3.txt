@@ -1,7 +1,7 @@
 				"GunGame 60" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Gungame 60"
+					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -242,6 +242,28 @@
 								"7" "weapon_m203"
 							}
 						}
+						"category18"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_swm12"
+								"1" "weapon_dual_m1895"
+						//		"2" "weapon_dual_swm10"
+								"3" "weapon_dual_m1917"
+							}
+						}
+						"category19"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_swm12"
+								"1" "weapon_m1895"
+								"2" "weapon_swm10"
+								"3" "weapon_m1917"
+							}
+						}
 						"category15"
 						{
 							"kills" "3"
@@ -293,28 +315,6 @@
 								"1" "weapon_pb"
 								"2" "weapon_hdm"
 								"3" "weapon_type67"
-							}
-						}
-						"category18"
-						{
-							"kills" "1"
-							"weapons"
-							{
-								"0" "weapon_dual_swm12"
-								"1" "weapon_dual_m1895"
-						//		"2" "weapon_dual_swm10"
-								"3" "weapon_dual_m1917"
-							}
-						}
-						"category19"
-						{
-							"kills" "1"
-							"weapons"
-							{
-								"0" "weapon_swm12"
-								"1" "weapon_m1895"
-								"2" "weapon_swm10"
-								"3" "weapon_m1917"
 							}
 						}
 						"category20"
@@ -372,13 +372,13 @@
 							"weapons"
 							{
 								"0" "weapon_vcpistol"
-								"1" "weapon_binoculars_us"
-								"2" "weapon_binoculars_vc"
+						//		"1" "weapon_binoculars_us"
+						//		"2" "weapon_binoculars_vc"
 								"3" "weapon_ptrd"
-								"4" "weapon_m8"
-								"5" "weapon_type97"
-								"6" "weapon_rg42"
-								"7" "weapon_m16mine"
+						//		"4" "weapon_m8"
+						//		"5" "weapon_type97"
+						//		"6" "weapon_rg42"
+						//		"7" "weapon_m16mine"
 								"8" "weapon_m6a1"
 							}
 						}						

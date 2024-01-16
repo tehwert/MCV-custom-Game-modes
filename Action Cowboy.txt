@@ -1,7 +1,7 @@
 "Action Cowboy" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Action_Cowboy"
+					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -231,14 +231,14 @@
  
 						"category2"
 						{
-							"kills" "5"
+							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_molotov"
-								"1" "weapon_molotov"
-								"2" "weapon_molotov"
-								"3" "weapon_molotov"
-								"4" "weapon_molotov"
+								"0" "weapon_dynamite"
+								"1" "weapon_dynamite"
+								"2" "weapon_dynamite"
+								"3" "weapon_dynamite"
+								"4" "weapon_dynamite"
 							}
 						}
 						"category3"
