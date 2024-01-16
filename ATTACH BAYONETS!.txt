@@ -22,6 +22,7 @@
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
+					bayonets.cfg
 					}
 					
 					// Map groups for offline modes
@@ -36,9 +37,7 @@
 						"all"	"0"
 					}
 
-					"weaponprogression"
-					{
-						"category0"
+						"Category1"
 						{
 							"kills" "2"
 							"weapons"
@@ -46,7 +45,7 @@
 								"0" "weapon_ak47"
 							}
 						}
-						"category1"
+						"Category2"
 						{
 							"kills" "2"
 							"weapons"
@@ -55,7 +54,7 @@
 							}
 						}
 						
-						"category3"
+						"Category3"
 						{
 							"kills" "2"
 							"weapons"
@@ -63,7 +62,7 @@
 								"0" "weapon_kar98k"
 							}
 						}
-						"category4"
+						"Category4"
 						{
 							"kills" "2"
 							"weapons"
@@ -71,7 +70,7 @@
 								"0" "weapon_kar98k_s"
 							}
 						}
-				//		"category5"
+				//		"Category5"
 				//		{
 				//			"kills" "2"
 				//			"weapons"
@@ -79,7 +78,7 @@
 				//				"0" "weapon_kbkg60"
 				//			}
 				//		}
-						"category6"
+						"Category6"
 						{
 							"kills" "2"
 							"weapons"
@@ -87,7 +86,7 @@
 								"0" "weapon_m1c"
 							}
 						}
-						"category8"
+						"Category7"
 						{
 							"kills" "2"
 							"weapons"
@@ -95,7 +94,7 @@
 								"0" "weapon_m1g"
 							}
 						}
-						"category9"
+						"Category8"
 						{
 							"kills" "2"
 							"weapons"
@@ -103,7 +102,7 @@
 								"0" "weapon_m1gs"
 							}
 						}
-						"category10"
+						"Category9"
 						{
 							"kills" "2"
 							"weapons"
@@ -112,7 +111,7 @@
 							}
 						}
 
-						"category12"
+						"Category10"
 						{
 							"kills" "2"
 							"weapons"
@@ -120,7 +119,7 @@
 								"0" "weapon_m14"
 							}
 						}
-						"category13"
+						"Category11"
 						{
 							"kills" "2"
 							"weapons"
@@ -128,7 +127,7 @@
 								"0" "weapon_m16a1"
 							}
 						}
-						"category14"
+						"Category12"
 						{
 							"kills" "2"
 							"weapons"
@@ -136,7 +135,7 @@
 								"0" "weapon_m21s"
 							}
 						}
-						"category15"
+						"Category13"
 						{
 							"kills" "2"
 							"weapons"
@@ -144,7 +143,7 @@
 								"0" "weapon_m37"
 							}
 						}
-						"category16"
+						"Category14"
 						{
 							"kills" "2"
 							"weapons"
@@ -152,7 +151,7 @@
 								"0" "weapon_m38"
 							}
 						}
-						"category17"
+						"Category15"
 						{
 							"kills" "2"
 							"weapons"
@@ -160,7 +159,7 @@
 								"0" "weapon_m38s"
 							}
 						}
-						"category18"
+						"Category16"
 						{
 							"kills" "2"
 							"weapons"
@@ -168,7 +167,7 @@
 								"0" "weapon_m91"
 							}
 						}
-						"category19"
+						"Category17"
 						{
 							"kills" "2"
 							"weapons"
@@ -176,7 +175,7 @@
 								"0" "weapon_m1897"
 							}
 						}
-						"category20"
+						"Category18"
 						{
 							"kills" "2"
 							"weapons"
@@ -184,7 +183,7 @@
 								"0" "weapon_m1903"
 							}
 						}
-						"category21"
+						"Category19"
 						{
 							"kills" "2"
 							"weapons"
@@ -192,7 +191,7 @@
 								"0" "weapon_m1903s"
 							}
 						}
-						"category22"
+						"Category20"
 						{
 							"kills" "2"
 							"weapons"
@@ -200,7 +199,7 @@
 								"0" "weapon_mas49"
 							}
 						}
-						"category23"
+						"Category21"
 						{
 							"kills" "2"
 							"weapons"
@@ -208,7 +207,7 @@
 								"0" "weapon_mas49s"
 							}
 						}
-						"category24"
+						"Category22"
 						{
 							"kills" "2"
 							"weapons"
@@ -216,7 +215,7 @@
 								"0" "weapon_md63"
 							}
 						}
-						"category25"
+						"Category23"
 						{
 							"kills" "2"
 							"weapons"
@@ -224,7 +223,7 @@
 								"0" "weapon_sks"
 							}
 						}
-						"category26"
+						"Category24"
 						{
 							"kills" "2"
 							"weapons"
@@ -232,7 +231,7 @@
 								"0" "weapon_svd"
 							}
 						}
-						"category27"
+						"Category25"
 						{
 							"kills" "2"
 							"weapons"
@@ -240,7 +239,7 @@
 								"0" "weapon_svt40"
 							}
 						}
-						"category28"
+						"Category26"
 						{
 							"kills" "2"
 							"weapons"
@@ -248,7 +247,7 @@
 								"0" "weapon_svt40s"
 							}
 						}						
-						"category31"
+						"Category27"
 						{
 							"kills" "2"
 							"weapons"
@@ -256,7 +255,7 @@
 								"0" "weapon_type56"
 							}
 						}
-						"category32"
+						"Category28"
 						{
 							"kills" "2"
 							"weapons"
