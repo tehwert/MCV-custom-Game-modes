@@ -38,7 +38,7 @@
 					{
 						"category0"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_amd65"
@@ -46,7 +46,7 @@
 						}
 						"category1"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_robust_sog"
@@ -54,7 +54,7 @@
 						}
 						"category2"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_aps"
@@ -62,7 +62,7 @@
 						}						
 						"category4"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_china_lake"
@@ -70,7 +70,7 @@
 						}
 						"category5"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_m79_sog"
@@ -78,7 +78,7 @@
 						}
 						"category6"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_xm202"
@@ -86,7 +86,7 @@
 						}
 						"category7"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_baby_browning"
@@ -94,7 +94,7 @@
 						}
 						"category8"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_dual_baby_browning"
