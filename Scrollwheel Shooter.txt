@@ -1,7 +1,8 @@
-				"Machine Gun Party" // Team-based gungame
+				"Scrollwheel Shooter" // Team-based gungame
+				//bot_difficulty 0 recommended
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Machine Gun Party"
+					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -38,91 +39,59 @@
 					{
 						"category0"
 						{
-							"kills" "8"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_bren"
+								"0" "weapon_dual_swm12"
 							}
 						}
 						"category1"
 						{
-							"kills" "8"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m1918_bar"
+								"0" "weapon_dual_swm12"
 							}
 						}
 						"category2"
 						{
-							"kills" "8"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m60b"
+								"0" "weapon_dual_swm12"
 							}
 						}
 						"category3"
 						{
-							"kills" "8"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_rpd_sog"
+								"0" "weapon_dual_swm12"
 							}
 						}
 						"category4"
 						{
-							"kills" "8"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_dp28"
+								"0" "weapon_dual_swm12"
 							}
 						}
 						"category5"
 						{
-							"kills" "8"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_rp46"
+								"0" "weapon_dual_swm12"
 							}
 						}
 						"category6"
 						{
-							"kills" "8"
+							"kills" "9"
 							"weapons"
 							{
-								"0" "weapon_m60"
+								"0" "weapon_dual_swm12"
 							}
-						}
-						"category7"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_stoner63"
-							}
-						}
-						"category8"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_rpd"
-							}
-						}
-						"category9"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_rpk"
-							}
-						}
-						"category10"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_tul1"
-							}
-						}
+						}						
 					}
 				}

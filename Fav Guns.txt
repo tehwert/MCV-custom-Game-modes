@@ -1,7 +1,7 @@
-				"Machine Gun Party" // Team-based gungame
+				"Fav Guns" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Machine Gun Party"
+					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -38,91 +38,51 @@
 					{
 						"category0"
 						{
-							"kills" "8"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_bren"
+								"0" "weapon_m3a1"
 							}
 						}
 						"category1"
 						{
-							"kills" "8"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_m1918_bar"
+								"0" "weapon_mas49"
 							}
 						}
 						"category2"
 						{
-							"kills" "8"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_m60b"
+								"0" "weapon_m79"
 							}
 						}
 						"category3"
 						{
-							"kills" "8"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_rpd_sog"
+								"0" "weapon_m1897"
 							}
 						}
 						"category4"
 						{
-							"kills" "8"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_dp28"
+								"0" "weapon_m1917"
 							}
 						}
 						"category5"
 						{
-							"kills" "8"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rp46"
+								"0" "weapon_vcpistol"
 							}
-						}
-						"category6"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_m60"
-							}
-						}
-						"category7"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_stoner63"
-							}
-						}
-						"category8"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_rpd"
-							}
-						}
-						"category9"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_rpk"
-							}
-						}
-						"category10"
-						{
-							"kills" "8"
-							"weapons"
-							{
-								"0" "weapon_tul1"
-							}
-						}
+						}					
 					}
 				}
