@@ -1,7 +1,7 @@
-				"WW2" // Team-based gungame
+				"WW2 45" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_WW2"
+					"nameID"			"#vietnam_GameMode_WW2 45"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -38,7 +38,7 @@
 					{
 						"category0"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_m1c"
@@ -50,7 +50,7 @@
 						}
 						"category1"
 						{
-							"kills" "9"
+							"kills" "7"
 							"weapons"
 							{
 								"0" "weapon_m1a1"
@@ -66,7 +66,7 @@
 						}
 						"category2"
 						{
-							"kills" "3"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1a1_sog"
@@ -76,7 +76,7 @@
 						}
 						"category3"
 						{
-							"kills" "4"
+							"kills" "3"
 							"weapons"
 							{
 								"0" "weapon_kar98k"
@@ -96,7 +96,7 @@
 								"3" "weapon_m2c_riflegrenade"
 								"4" "weapon_m38_riflegrenade"
 								"5" "weapon_m91_riflegrenade"
-								"6" "weapon_m1903_riflegrenad"
+								"6" "weapon_m1903_riflegrenade"
 							}
 						}
 						"category5"
@@ -113,7 +113,7 @@
 						}
 						"category6"
 						{
-							"kills" "3"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m1g"
@@ -123,7 +123,7 @@
 						}
 						"category7"
 						{
-							"kills" "3"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_bren"
@@ -133,7 +133,7 @@
 						}
 						"category8"
 						{
-							"kills" "3"
+							"kills" "2"
 							"weapons"
 							{
 								"0" "weapon_m37"
@@ -143,7 +143,7 @@
 						}
 						"category9"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"0" "weapon_kar98k_s"
@@ -156,7 +156,7 @@
 						}
 						"category10"
 						{
-							"kills" "10"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_dual_baby_browning"
@@ -174,7 +174,7 @@
 						}
 						"category11"
 						{
-							"kills" "10"
+							"kills" "6"
 							"weapons"
 							{
 								"0" "weapon_baby_browning"
