@@ -240,6 +240,7 @@
 								"5" "weapon_xm202"
 								"6" "weapon_gp25"
 								"7" "weapon_m203"
+								"8" "weapon_rpg2"
 							}
 						}
 						"category18"
