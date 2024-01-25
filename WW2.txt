@@ -96,7 +96,7 @@
 								"3" "weapon_m2c_riflegrenade"
 								"4" "weapon_m38_riflegrenade"
 								"5" "weapon_m91_riflegrenade"
-								"6" "weapon_m1903_riflegrenad"
+								"6" "weapon_m1903_riflegrenade"
 							}
 						}
 						"category5"
