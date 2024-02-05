@@ -1,0 +1,135 @@
+				"Action rpg2" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Action_rpg2"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0"
+						{
+							"kills" "56"
+							"weapons"
+							{
+								"0" "weapon_rpg2"
+								"1" "weapon_rpg2"
+								"2" "weapon_rpg2"
+								"3" "weapon_rpg2"
+								"4" "weapon_rpg2"
+								"5" "weapon_rpg2"
+								"6" "weapon_rpg2"
+								"7" "weapon_rpg2"
+								"8" "weapon_rpg2"
+								"9" "weapon_rpg2"
+								"10" "weapon_rpg2"
+								"11" "weapon_rpg2"
+								"12" "weapon_rpg2"
+								"13" "weapon_rpg2"
+								"14" "weapon_rpg2"
+								"15" "weapon_rpg2"
+								"16" "weapon_rpg2"
+								"17" "weapon_rpg2"
+								"18" "weapon_rpg2"
+								"19" "weapon_rpg2"
+								"20" "weapon_rpg2"
+								"21" "weapon_rpg2"
+								"22" "weapon_rpg2"
+								"23" "weapon_rpg2"
+								"24" "weapon_rpg2"
+								"25" "weapon_rpg2"
+								"26" "weapon_rpg2"
+								"27" "weapon_rpg2"
+								"28" "weapon_rpg2"
+								"29" "weapon_rpg2"
+								"30" "weapon_rpg2"
+								"31" "weapon_rpg2"
+								"32" "weapon_rpg2"
+								"33" "weapon_rpg2"
+								"34" "weapon_rpg2"
+								"35" "weapon_rpg2"
+								"36" "weapon_rpg2"
+								"37" "weapon_rpg2"
+								"38" "weapon_rpg2"
+								"39" "weapon_rpg2"
+								"40" "weapon_rpg2"
+								"41" "weapon_rpg2"
+								"42" "weapon_rpg2"
+								"43" "weapon_rpg2"
+								"44" "weapon_rpg2"
+								"45" "weapon_rpg2"
+								"46" "weapon_rpg2"
+								"47" "weapon_rpg2"
+								"48" "weapon_rpg2"
+								"49" "weapon_rpg2"
+								"50" "weapon_rpg2"
+								"51" "weapon_rpg2"
+								"52" "weapon_rpg2"
+								"53" "weapon_rpg2"
+								"54" "weapon_rpg2"
+								"55" "weapon_rpg2"
+							}
+						}						
+					"category1"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_rpg2"
+							}
+						}	
+					"category2"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_rpg2"
+							}
+						}	
+					"category3"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_rpg2"
+							}
+						}	
+					"category4"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_rpg2"
+							}
+						}							
+					}
+				}

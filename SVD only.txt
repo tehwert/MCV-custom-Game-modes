@@ -36,7 +36,7 @@
 
 					"weaponprogression"
 					{
-						"category0"
+						"category1"
 						{
 							"kills" "10"
 							"weapons"
@@ -44,7 +44,7 @@
 								"0" "weapon_svd"
 							}
 						}	
-												"category0"
+												"category2"
 						{
 							"kills" "10"
 							"weapons"
@@ -52,7 +52,7 @@
 								"0" "weapon_svd"
 							}
 						}
-												"category0"
+												"category3"
 						{
 							"kills" "10"
 							"weapons"
@@ -60,7 +60,7 @@
 								"0" "weapon_svd"
 							}
 						}
-												"category0"
+												"category4"
 						{
 							"kills" "10"
 							"weapons"
@@ -68,7 +68,7 @@
 								"0" "weapon_svd"
 							}
 						}
-												"category0"
+												"category5"
 						{
 							"kills" "10"
 							"weapons"
@@ -76,7 +76,7 @@
 								"0" "weapon_svd"
 							}
 						}
-												"category0"
+												"category6"
 						{
 							"kills" "10"
 							"weapons"
@@ -84,33 +84,9 @@
 								"0" "weapon_svd"
 							}
 						}
-												"category0"
+												"category7"
 						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_svd"
-							}
-						}
-												"category0"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_svd"
-							}
-						}
-												"category0"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_svd"
-							}
-						}
-												"category0"
-						{
-							"kills" "10"
+							"kills" "9"
 							"weapons"
 							{
 								"0" "weapon_svd"

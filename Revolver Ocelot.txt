@@ -38,7 +38,7 @@
 					{
 						"category0"
 						{
-							"kills" "10"
+							"kills" "11"
 							"weapons"
 							{
 								"0" "weapon_dual_m1917"
@@ -46,7 +46,7 @@
 						}
 						"category1"
 						{
-							"kills" "10"
+							"kills" "11"
 							"weapons"
 							{
 								"0" "weapon_dual_swm12"
@@ -54,7 +54,7 @@
 						}
 						"category2"
 						{
-							"kills" "10"
+							"kills" "11"
 							"weapons"
 							{
 								"0" "weapon_dual_swm10"
@@ -62,7 +62,7 @@
 						}
 						"category3"
 						{
-							"kills" "10"
+							"kills" "11"
 							"weapons"
 							{
 								"0" "weapon_dual_m1895"
@@ -102,7 +102,7 @@
 						}
 						"category8"
 						{
-							"kills" "1"
+							"kills" "3"
 							"weapons"
 							{
 								"0" "weapon_vcpistol"

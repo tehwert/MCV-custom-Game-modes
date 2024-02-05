@@ -43,15 +43,7 @@
 							{
 								"0" "weapon_ak47_bayonet"
 							}
-						}
-						"category1"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_crowbar"
-							}
-						}
+						}						
 						"category2"
 						{
 							"kills" "10"
@@ -82,14 +74,6 @@
 							"weapons"
 							{
 								"0" "weapon_type30_bayonet"
-							}
-						}
-						"category6"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_wrench"
 							}
 						}
 						"category7"

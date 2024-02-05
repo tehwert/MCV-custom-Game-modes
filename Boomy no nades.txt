@@ -1,4 +1,4 @@
-				"Boomy" // Team-based gungame
+				"Boomy No Nades" // Team-based gungame
 				{
 					"value"				"7"
 					"nameID"			"#vietnam_GameMode_Boomy"
@@ -36,28 +36,12 @@
 
 					"weaponprogression"
 					{
-						"category0"
+						"category5"
 						{
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_m203"
-							}
-						}
-						"category1"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_rpg7"
-							}
-						}
-						"category2"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m72"
+								"0" "weapon_xm202"
 							}
 						}
 						"category3"
@@ -65,7 +49,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_csg2"
+								"0" "weapon_rpg7"
 							}
 						}
 						"category4"
@@ -73,15 +57,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_mk3a2"
-							}
-						}
-						"category5"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m79"
+								"0" "weapon_m72"
 							}
 						}
 						"category6"
@@ -91,13 +67,29 @@
 							{
 								"0" "weapon_china_lake"
 							}
+						}	
+						"category1"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m203"
+							}
 						}
+						"category2"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_gp25"
+							}
+						}																		
 						"category7"
 						{
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_c4"
+								"0" "weapon_m79"
 							}
 						}
 						"category8"
@@ -105,32 +97,17 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_m26"
+								"0" "weapon_m79_sog"
 							}
+						}
 						"category9"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_xm202"
-							}
-						}	
-						"category10"
 						{
 							"kills" "5"
 							"weapons"
 							{
 								"0" "weapon_rpg2"
 							}
-						}	
-						"category11"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_csg"
-							}
-						}													
+						}														
 					}
 				}
-			}
+			

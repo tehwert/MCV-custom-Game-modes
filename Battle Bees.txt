@@ -1,7 +1,11 @@
-				"Boomy" // Team-based gungame
+				"Battle Bees" // Team-based gungame
+			//	vietnam_health_regen_delay 0
+			//	vietnam_health_threshold 100
+			//	vietnam_health_regen_speed .1
+			//  bot_difficulty 6
 				{
-					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Boomy"
+					"value"				"07"
+					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -36,101 +40,61 @@
 
 					"weaponprogression"
 					{
-						"category0"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m203"
-							}
-						}
 						"category1"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_rpg7"
-							}
-						}
-						"category2"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m72"
-							}
-						}
-						"category3"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_csg2"
-							}
-						}
-						"category4"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_mk3a2"
-							}
-						}
-						"category5"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m79"
-							}
-						}
-						"category6"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_china_lake"
-							}
-						}
-						"category7"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_c4"
-							}
-						}
-						"category8"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m26"
-							}
-						"category9"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_xm202"
+								"0" "weapon_ppsh41d"
 							}
 						}	
-						"category10"
+												"category2"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" "weapon_ppsh41d"
 							}
-						}	
-						"category11"
+						}
+												"category3"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_csg"
+								"0" "weapon_ppsh41d"
 							}
-						}													
+						}
+												"category4"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_ppsh41d"
+							}
+						}
+												"category5"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_ppsh41d"
+							}
+						}
+												"category6"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_ppsh41d"
+							}
+						}
+												"category7"
+						{
+							"kills" "9"
+							"weapons"
+							{
+								"0" "weapon_ppsh41d"
+							}
+						}
 					}
 				}
-			}

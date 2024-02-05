@@ -1,7 +1,7 @@
 "Action Fanning Only V2" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Action Fanning Only V2"
+					"nameID"			"#vietnam_GameMode_Fanning Only"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -44,7 +44,7 @@
 								"0" "weapon_m1917"
 							}
 						}
-												"category0a"
+						"category0a"
 						{
 							"kills" "6"
 							"weapons"
@@ -52,7 +52,7 @@
 								"0" "weapon_m1917"
 							}
 						}
-												"category0b"
+						"category0b"
 						{
 							"kills" "6"
 							"weapons"
@@ -60,7 +60,7 @@
 								"0" "weapon_m1917"
 							}
 						}
-																		"category0c"
+						"category0c"
 						{
 							"kills" "6"
 							"weapons"
@@ -68,7 +68,7 @@
 								"0" "weapon_m1917"
 							}
 						}
-																		"category0d"
+						"category0d"
 						{
 							"kills" "6"
 							"weapons"
@@ -76,7 +76,7 @@
 								"0" "weapon_m1917"
 							}
 						}
-																		"category0e"
+						"category0e"
 						{
 							"kills" "6"
 							"weapons"
@@ -92,7 +92,7 @@
 								"0" "weapon_swm12"
 							}
 						}
-												"category1a"
+						"category1a"
 						{
 							"kills" "6"
 							"weapons"
@@ -100,7 +100,7 @@
 								"0" "weapon_swm12"
 							}
 						}
-												"category1b"
+						"category1b"
 						{
 							"kills" "6"
 							"weapons"
@@ -108,7 +108,7 @@
 								"0" "weapon_swm12"
 							}
 						}
-																		"category1c"
+						"category1c"
 						{
 							"kills" "6"
 							"weapons"
@@ -116,7 +116,7 @@
 								"0" "weapon_swm12"
 							}
 						}
-																		"category1d"
+						"category1d"
 						{
 							"kills" "6"
 							"weapons"
@@ -124,7 +124,7 @@
 								"0" "weapon_swm12"
 							}
 						}
-																		"category1e"
+						"category1e"
 						{
 							"kills" "6"
 							"weapons"
@@ -140,7 +140,7 @@
 								"0" "weapon_swm10"
 							}
 						}
-												"category1a"
+						"category1a"
 						{
 							"kills" "6"
 							"weapons"
@@ -148,7 +148,7 @@
 								"0" "weapon_swm10"
 							}
 						}
-												"category1b"
+						"category1b"
 						{
 							"kills" "6"
 							"weapons"
@@ -156,7 +156,7 @@
 								"0" "weapon_swm10"
 							}
 						}
-																		"category1c"
+						"category1c"
 						{
 							"kills" "6"
 							"weapons"
@@ -164,7 +164,7 @@
 								"0" "weapon_swm10"
 							}
 						}
-																		"category1d"
+						"category1d"
 						{
 							"kills" "6"
 							"weapons"
@@ -172,7 +172,7 @@
 								"0" "weapon_swm10"
 							}
 						}
-																		"category1e"
+						"category1e"
 						{
 							"kills" "6"
 							"weapons"
@@ -180,7 +180,7 @@
 								"0" "weapon_swm10"
 							}
 						}
-												"category2"
+						"category2"
 						{
 							"kills" "6"
 							"weapons"
@@ -188,7 +188,7 @@
 								"0" "weapon_m1895"
 							}
 						}
-												"category2a"
+						"category2a"
 						{
 							"kills" "6"
 							"weapons"
@@ -196,7 +196,7 @@
 								"0" "weapon_m1895"
 							}
 						}
-												"category2b"
+						"category2b"
 						{
 							"kills" "6"
 							"weapons"
@@ -204,7 +204,7 @@
 								"0" "weapon_m1895"
 							}
 						}
-																		"category2c"
+						"category2c"
 						{
 							"kills" "6"
 							"weapons"
@@ -212,7 +212,7 @@
 								"0" "weapon_m1895"
 							}
 						}
-																		"category2d"
+						"category2d"
 						{
 							"kills" "6"
 							"weapons"
@@ -220,7 +220,7 @@
 								"0" "weapon_m1895"
 							}
 						}
-																		"category2e"
+						"category2e"
 						{
 							"kills" "6"
 							"weapons"
