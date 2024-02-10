@@ -1,6 +1,6 @@
-"Scopies" // Team-based gungame
+				"45 ACP" // Team-based gungame
 				{
-					"value"				"07"
+					"value"				"7"
 					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
@@ -35,109 +35,85 @@
 					}
 
 					"weaponprogression"
-					{				
-				//		"category0"
-				//		{
-				//			"kills" "5"
-				//			"weapons"
-				//			{
-				//				"0" "weapon_38s"
-				//			}
-				//		}
-				//		"category1"
-				//		{
-				//			"kills" "5"
-				//			"weapons"
-				//			{
-				//				"0" "weapon_m91"
-				//			}
-				//		}
-						"category2"
+					{
+						"category0"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_car15s"
+								"0" "weapon_m1a1"
+							}
+						}
+						"category1"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m1a1_sog"
+							}
+						}
+						"category2"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m1928"
 							}
 						}
 						"category3"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m607s"
+								"0" "weapon_dual_m1917"
 							}
 						}
 						"category4"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_stg44s"
+								"0" "weapon_dual_swm10"
 							}
 						}
 						"category5"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m21s"
+								"0" "weapon_dual_m1911"
 							}
 						}
 						"category6"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_mas49s"
+								"0" "weapon_m1917"
 							}
 						}
 						"category7"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m1gs"
+								"0" "weapon_swm10"
 							}
 						}
 						"category8"
 						{
-							"kills" "5"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_svt40s"
+								"0" "weapon_m1911"
 							}
 						}
 						"category9"
 						{
-							"kills" "5"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_svd"
-							}
-						}
-						"category10"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_kar98k_s"
-							}
-						}
-						"category11"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m40"
-							}
-						}
-						"category12"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m1903s"
+								"0" "weapon_vcpistol"
 							}
 						}
 					}

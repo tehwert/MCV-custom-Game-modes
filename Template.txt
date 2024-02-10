@@ -145,7 +145,7 @@
 							"kills" "10"
 							"weapons"
 							{
-								"0" "
+								"0" ""
 							}
 						}
 						"category14"
