@@ -1,4 +1,9 @@
-				"Goldeneye" // Team-based gungame
+				"Goldeneye" // Team-based gungame				
+				//change weapon_m16a1 mag to 30 
+				//change weapon_svd mag to 8 
+				//Nerf weapon_vz61e
+				//change weapon_baby_browning and weapon_type67 to 7 bullet mags
+				//Buff weapon_fists
 				{
 					"value"				"7"
 					"nameID"			"#vietnam_GameMode_Goldeneye"
