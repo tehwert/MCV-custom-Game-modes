@@ -114,6 +114,11 @@
 							"weapons"
 							{
 								"0" "weapon_m26"
+								"1" "weapon_mk3a2"
+								"2" "weapon_csg"
+								"3" "weapon_csg2"
+								"4" "weapon_c4"
+								"5" "weapon_dynamite"							
 							}
 						}						
 					}
