@@ -1,6 +1,7 @@
 				"Flying Shotsman" // Team-based gungame
 				//weapon_accuracy_nospread 1
 				//sv_gravity 200
+				//weapon_accuracy_nospread 1
 				{
 					"value"				"07"
 					"nameID"			"#vietnam_GameMode_Gungame"
