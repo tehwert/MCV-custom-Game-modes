@@ -1,0 +1,240 @@
+				"SMG Supremacy" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_SMG Supremacy"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category1"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_k50m"
+							}
+						}
+						"category2"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1a1"
+							}
+						}
+						"category3"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1a1_sog"
+							}
+						}
+						"category4"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m3a1"
+							}
+						}
+						"category5"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m3a1_sog"
+							}
+						}
+						"category6"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m12"
+							}
+						}
+						"category7"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m45"
+							}
+						}
+						"category8"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m45_sog"
+							}
+						}
+						"category9"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m50"
+							}
+						}
+						"category10"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m1928"
+							}
+						}
+						"category11"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mas38"
+							}
+						}
+						"category12"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mat49"
+							}
+						}
+						"category13"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mat49_sog"
+							}
+						}
+						"category14"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_mp40"
+							}
+						}
+						"category15"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_pps43"
+							}
+						}
+						"category16"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_ppsh41"
+							}
+						}
+						"category17"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_ppsh41d"
+							}
+						}
+						"category18"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_stenmk2"
+							}
+						}
+						"category19"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_stenmk2_sog"
+							}
+						}
+						"category20"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_swm76"
+							}
+						}
+						"category21"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_swm76_sog"
+							}
+						}
+						"category22"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_type64"
+							}
+						}
+						"category23"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_uzi"
+							}
+						}
+						"category24"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_uzi_sog"
+							}
+						}
+						"category25"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_vz23"
+							}
+						}
+					}
+				}
