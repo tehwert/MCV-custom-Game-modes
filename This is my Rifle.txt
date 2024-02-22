@@ -1,7 +1,7 @@
-				"Template" // Team-based gungame
+				"This is my Rifle" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Template"
+					"nameID"			"#vietnam_GameMode_This is my Rifle"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -35,173 +35,125 @@
 					}
 
 					"weaponprogression"
-					{				
+					{
 						"category1"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_ak47"
 							}
 						}
 						"category2"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_akm"
 							}
 						}
 						"category3"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_kbkg60"
 							}
 						}
 						"category4"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m16a1"
 							}
 						}
 						"category5"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m1918"
 							}
 						}
 						"category6"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_md63"
 							}
 						}
 						"category7"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_stg44"
 							}
 						}
 						"category8"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_t223"
 							}
 						}
 						"category9"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_type56"
 							}
 						}
 						"category10"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_type63"
 							}
 						}
 						"category11"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_vz58"
 							}
 						}
 						"category12"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m1g"
 							}
 						}
 						"category13"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_mas49"
 							}
 						}
 						"category14"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m14"
 							}
 						}
 						"category15"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" ""
-							}
-						}
-						"category16"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category17"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category18"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category19"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category20"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
-							}
-						}
-						"category21"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" ""
+								"0" "weapon_svt40"
 							}
 						}
 					}
