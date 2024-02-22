@@ -38,7 +38,7 @@
 					{
 						"category1"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_ak47"
@@ -46,7 +46,7 @@
 						}
 						"category2"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_akm"
@@ -54,7 +54,7 @@
 						}
 						"category3"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_kbkg60"
@@ -62,7 +62,7 @@
 						}
 						"category4"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_m16a1"
@@ -70,87 +70,95 @@
 						}
 						"category5"
 						{
-							"kills" "5"
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_stoner63_r"
+							}
+						}
+						"category6"
+						{
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_m1918"
 							}
 						}
-						"category6"
+						"category7"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_md63"
 							}
 						}
-						"category7"
+						"category8"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_stg44"
 							}
 						}
-						"category8"
+						"category9"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_t223"
 							}
 						}
-						"category9"
+						"category10"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_type56"
 							}
 						}
-						"category10"
+						"category11"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_type63"
 							}
 						}
-						"category11"
+						"category12"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_vz58"
 							}
 						}
-						"category12"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m1g"
-							}
-						}
 						"category13"
 						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_mas49"
-							}
-						}
-						"category14"
-						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_m14"
 							}
 						}
+						"category14"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+							}
+						}
 						"category15"
 						{
-							"kills" "5"
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m1g"
+							}
+						}
+						"category16"
+						{
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_svt40"

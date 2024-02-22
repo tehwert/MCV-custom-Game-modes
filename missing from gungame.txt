@@ -145,7 +145,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_vcpistol"
+								"0" "weapon_vz23"
 							}
 						}
 						"category14"
@@ -153,7 +153,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_vz23"
+								"0" "weapon_vz61e_sog"
 							}
 						}
 						"category15"
@@ -161,7 +161,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_vz61e_sog"
+								"0" "weapon_dual_m1895"
 							}
 						}
 						"category16"
@@ -169,7 +169,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_dual_m1895"
+								"0" "weapon_dual_m1917"
 							}
 						}
 						"category17"
@@ -177,7 +177,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_dual_m1917"
+								"0" "weapon_dual_swm10"
 							}
 						}
 						"category18"
@@ -185,7 +185,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_dual_swm10"
+								"0" "weapon_dual_swm12"
 							}
 						}
 						"category19"
@@ -193,7 +193,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_dual_swm12"
+								"0" "weapon_dual_baby_browning"
 							}
 						}
 						"category20"
@@ -201,16 +201,16 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_dual_baby_browning"
+								"0" "weapon_baby_browning"
 							}
-						}
-						"category21"
+						"category11"
 						{
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_baby_browning"
+								"0" "weapon_vcpistol"
 							}
+						}
 						}
 					}
 				}

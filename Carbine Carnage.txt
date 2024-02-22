@@ -38,98 +38,98 @@
 					{						
 						"category1"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_amd65"
+								"1" "weapon_amd65"
 							}
 						}
 						"category2"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_car15"
+								"1" "weapon_car15"
 							}
 						}
 						"category3"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_xm177"
+								"1" "weapon_xm177"
 							}
 						}
 						"category4"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_m607"
+								"1" "weapon_m607"
 							}
 						}					
 						"category5"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_m2c"
+								"1" "weapon_stoner63_c"
 							}
 						}
 						"category6"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_m2c_sog"
+								"1" "weapon_m2c"
 							}
 						}
 						"category7"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_kar98k"
+								"1" "weapon_m2c_sog"
 							}
 						}
 						"category8"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_m38"
+								"1" "weapon_kar98k"
 							}
 						}
 						"category9"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_m91"
+								"1" "weapon_m38"
 							}
 						}
 						"category10"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_m1903"
-							}
-						}		
-						"category11"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m1c"
+								"1" "weapon_m91"
 							}
 						}
-						"category12"
+						"category11"
 						{
-							"kills" "5"
+							"kills" "6"
 							"weapons"
 							{
-								"0" "weapon_m1c_sog"
+								"1" "weapon_m1903"
+							}
+						}		
+						"category12"
+						{
+							"kills" "6"
+							"weapons"
+							{
+								"1" "weapon_m1c"
 							}
 						}
 						"category13"
@@ -137,12 +137,20 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_sks"
+								"1" "weapon_m1c_sog"
 							}
 						}
 						"category14"
 						{
-							"kills" "4"
+							"kills" "5"
+							"weapons"
+							{
+								"1" "weapon_sks"
+							}
+						}
+						"category15"
+						{
+							"kills" "5"
 							"weapons"
 							{
 								"0" "weapon_type17"
