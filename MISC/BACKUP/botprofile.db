@@ -1,0 +1,916 @@
+//----------------------------------------------------------------------------
+// BotProfile.db
+// Author: Michael S. Booth, Turtle Rock Studios (www.turtlerockstudios.com)
+//
+// This database defines bot "personalities". 
+// Feel free to edit it and define your own bots.
+//
+
+
+//----------------------------------------------------------------------------
+
+//
+// All profiles begin with this data and overwrite their own
+//
+Default
+	Skill = 50
+	Aggression = 70
+	ReactionTime = 0.2
+	AttackDelay = 0
+	Teamwork = 75
+	AimFocusInitial = 10			// initial focus spread in degrees (from desired center)
+	AimFocusDecay = 0.3				// how much focus shrinks per second (.25 = 25% of size after 1 sec)
+	AimFocusOffsetScale = 0.20		// controls accuracy when tracking to target (0 == perfect, should always be < 1)
+	AimfocusInterval = 0.4			// how often focus is adjusted (smaller intervals means better movement tracking)
+	WeaponPreference = none
+	Cost = 0
+	Difficulty = NORMAL
+	VoicePitch = 100
+	Skin = 0
+	LookAngleMaxAccelNormal = 2000.0
+	LookAngleStiffnessNormal = 100.0
+	LookAngleDampingNormal = 25.0
+	LookAngleMaxAccelAttacking = 3000.0
+	LookAngleStiffnessAttacking = 150.0
+	LookAngleDampingAttacking = 30.0
+End
+
+//----------------------------------------------------------------------------
+
+//
+// These templates inherit from Default and override with their values
+// The name of the template defines a type that is used by individual bot profiles
+//
+
+// class/loadout preference templates
+Template Assault
+End
+
+Template Medic
+	Aggression = 40
+End
+
+Template Gunner
+	// evil bot
+	Aggression = 100
+End
+
+Template Sniper
+	ReactionTime = 0.2
+End
+
+Template Engineer
+End
+
+Template Radioman
+End
+
+
+// skill templates
+Template Elite
+	Skill = 100
+	Aggression = 95
+	ReactionTime = 0.05
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 100
+	AimFocusInitial = 0.3
+	AimFocusDecay = 0.08
+	AimFocusOffsetScale = 0.024
+	AimfocusInterval = 0.04
+End
+
+Template Expert
+	Skill = 90
+	Aggression = 80
+	ReactionTime = 0.1
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 100
+	AimFocusInitial = 1
+	AimFocusDecay = 0.12
+	AimFocusOffsetScale = 0.05
+	AimfocusInterval = 0.10
+End
+
+Template VeryHard
+	Skill = 80
+	Aggression = 70
+	ReactionTime = 0.2
+	Cost = 3
+	Difficulty = VERYHARD
+	VoicePitch = 100
+	AimFocusInitial = 2
+	AimFocusDecay = 0.2
+	AimFocusOffsetScale = 0.12
+	AimfocusInterval = 0.23
+End
+
+Template Hard
+	Skill = 75
+	Aggression = 60
+	ReactionTime = 0.3
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 100
+	AimFocusInitial = 4
+	AimFocusDecay = 0.35
+	AimFocusOffsetScale = 0.20
+	AimfocusInterval = 0.30
+End
+
+Template Tough
+	Skill = 60
+	Aggression = 45
+	ReactionTime = 0.50
+	AttackDelay = .25
+	Cost = 2
+	Difficulty = NORMAL
+	VoicePitch = 100
+	AimFocusInitial = 6
+	AimFocusDecay = 0.4
+	AimFocusOffsetScale = 0.25
+	AimfocusInterval = 0.40
+End
+
+Template Normal
+	Skill = 50
+	Aggression = 30
+	ReactionTime = 0.55
+	AttackDelay = .32
+	Cost = 2
+	Difficulty = EASY
+	AimFocusInitial = 8
+	AimFocusDecay = 0.5
+	AimFocusOffsetScale = 0.35
+	AimfocusInterval = 0.60
+End
+
+Template Fair
+	Skill = 30
+	Aggression = 20
+	ReactionTime = 0.60
+	AttackDelay = .48
+	Cost = 1
+	Difficulty = VERYEASY
+	VoicePitch = 100
+	AimFocusInitial = 9
+	AimFocusDecay = 0.55
+	AimFocusOffsetScale = 0.4
+	AimfocusInterval = 0.65
+End
+
+Template Easy
+	Skill = 5
+	Aggression = 10
+	ReactionTime = 0.60
+	AttackDelay = .52
+	Cost = 1
+	Difficulty = TRAINING
+	VoicePitch = 100
+	AimFocusInitial = 20
+	AimFocusDecay = 0.7
+	AimFocusOffsetScale = 0.6
+	AimfocusInterval = 0.7
+End
+
+//----------------------------------------------------------------------------
+//
+// These are the individual bot profiles, which inherit first from 
+// Default and then the specified Template(s), in order
+//
+
+Elite+Assault "Bạch Việt Khải"
+	Team = VC
+End
+
+Elite+Medic "Nghiêm Quang Thắng"
+	Team = VC
+End
+
+Elite+Gunner "Nguyễn Ðăng Khánh"
+	Team = VC
+End
+
+Elite+Sniper "Lê Trường Vũ"
+	Team = VC
+End
+
+Elite+Engineer "Đàm Phước Nhân"
+	Team = VC
+End
+
+Elite+Radioman "Đỗ Minh Hiếu"
+	Team = VC
+End
+
+
+Elite+Assault "Henry Westmoreland"
+	Team = US
+End
+
+Elite+Medic "Martin C. Weyand"
+	Team = US
+End
+
+Elite+Gunner "Robert McNamara"
+	Team = US
+End
+
+Elite+Sniper "Ryan Grant"
+	Team = US
+End
+
+Elite+Engineer "Trương Công Tuấn"
+	Team = US
+	PlayerClass = Engineer
+End
+
+Elite+Engineer "Lê Ðông Nguyên"
+	Team = US
+End
+
+Elite+Radioman "Christopher Hawkins"
+	Team = US
+End
+
+//----------------------------------------
+
+Expert+Assault "Lê Duy Mạnh"
+	Team = VC
+End
+
+Expert+Medic "Võ Trường Giang"
+	Team = VC
+End
+
+Expert+Gunner "Mạc Minh Triết"
+	Team = VC
+End
+
+Expert+Sniper "Huỳnh Anh Vũ"
+	Team = VC
+End
+
+Expert+Engineer "Châu Chiêu Quân"
+	Team = VC
+End
+
+Expert+Radioman "An Thống Nhất"
+	Team = VC
+End
+
+
+Expert+Assault "Stanley Rose"
+	Team = US
+End
+
+Expert+Medic "Steven L. Farrell"
+	Team = US
+End
+
+Expert+Gunner "Dylan Watson"
+	Team = US
+End
+
+Expert+Sniper "Jake Miller"
+	Team = US
+End
+
+Expert+Engineer "Úc Tuấn Kiệt"
+	Team = US
+	PlayerClass = Engineer
+End
+
+Expert+Engineer "Bùi Gia Khánh"
+	Team = US
+End
+
+Expert+Radioman "William O'Neal"
+	Team = US
+End
+
+//----------------------------------------
+
+VeryHard+Assault "Hoàng Trường An"
+	Team = VC
+End
+
+VeryHard+Medic "Tiêu Quốc Khánh"
+	Team = VC
+End
+
+VeryHard+Gunner "Ngô Phú Ân"
+	Team = VC
+End
+
+VeryHard+Sniper "Cao Ðình Toàn"
+	Team = VC
+End
+
+VeryHard+Engineer "Sái Anh Quốc"
+	Team = VC
+End
+
+VeryHard+Radioman "Lục Long Vịnh"
+	Team = VC
+End
+
+VeryHard+Assault "Lưu Nguyên Hạnh"
+	Team = VC
+End
+
+VeryHard+Medic "Nguyễn Nam Sơn"
+	Team = VC
+End
+
+VeryHard+Gunner "Châu Ðức Cường"
+	Team = VC
+End
+
+VeryHard+Sniper "Tôn Minh Nhật"
+	Team = VC
+End
+
+VeryHard+Engineer "Lê Hữu Hạnh"
+	Team = VC
+End
+
+VeryHard+Radioman "Đặng Trung Nhân"
+	Team = VC
+End
+
+
+VeryHard+Assault "Ben T. Porter"
+	Team = US
+End
+
+VeryHard+Medic "Jonathan Hunt"
+	Team = US
+End
+
+VeryHard+Gunner "Donald P. Green"
+	Team = US
+End
+
+VeryHard+Sniper "Matthew King"
+	Team = US
+End
+
+VeryHard+Engineer "Bạch Hoàng Vương"
+	Team = US
+	PlayerClass = Engineer
+End
+
+VeryHard+Engineer "Lạc Chấn Hùng"
+	Team = US
+End
+
+VeryHard+Engineer "Văn Minh Hiếu"
+	Team = US
+End
+
+VeryHard+Radioman "Harrison Cooke"
+	Team = US
+End
+
+VeryHard+Sniper "Patrick Lawson"
+	Team = US
+End
+
+VeryHard+Gunner "Patrick Lawson"
+	Team = US
+End
+
+VeryHard+Medic "Alex Atkinson"
+	Team = US
+End
+
+VeryHard+Assault "Logan Owen"
+	Team = US
+End
+
+VeryHard+Radioman "Bentley Dale"
+	Team = US
+End
+
+//----------------------------------------
+
+Hard+Assault "Úc Minh Giang"
+	Team = VC
+End
+
+Hard+Medic "Lý Quốc Trụ"
+	Team = VC
+End
+
+Hard+Gunner "Ngô Quang Ninh"
+	Team = VC
+End
+
+Hard+Sniper "Đặng Ngọc Lân"
+	Team = VC
+End
+
+Hard+Engineer "Bùi Vĩnh Hưng"
+	Team = VC
+End
+
+Hard+Radioman "Nguyễn Hồng Vinh"
+	Team = VC
+End
+
+Hard+Engineer "Huỳnh Tấn Tài"
+	Team = VC
+End
+
+Hard+Sniper "Lê Tuấn Minh"
+	Team = VC
+End
+
+Hard+Gunner "Chu Vĩnh Luân"
+	Team = VC
+End
+
+Hard+Medic "Nguyễn Ðình Dương"
+	Team = VC
+End
+
+Hard+Assault "Trang Thụy Miên"
+	Team = VC
+End
+
+Hard+Radioman "Đỗ Quang Trọng"
+	Team = VC
+End
+
+
+Hard+Assault "Anthony McCarthy"
+	Team = US
+End
+
+Hard+Medic "Daniel Jefferson"
+	Team = US
+End
+
+Hard+Gunner "Joseph W. Somervell"
+	Team = US
+End
+
+Hard+Sniper "Mark Devers"
+	Team = US
+End
+
+Hard+Engineer "Sái Trường Nam"
+	Team = US
+	PlayerClass = Engineer
+End
+
+Hard+Engineer "Diệp Ðức Toàn"
+	Team = US
+End
+
+Hard+Engineer "Bùi Mạnh Hà"
+	Team = US
+End
+
+Hard+Radioman "Lesley I. Holmes"
+	Team = US
+End
+
+Hard+Radioman "Heath Bishop"
+	Team = US
+End
+
+Hard+Sniper "Trevon Ellis"
+	Team = US
+End
+
+Hard+Gunner "Xander Forbes"
+	Team = US
+End
+
+Hard+Medic "Kyree Stokes"
+	Team = US
+End
+
+Hard+Assault "Patrick Howard"
+	Team = US
+End
+
+//----------------------------------------
+
+Tough+Assault "Vương Duy Cẩn"
+	Team = VC
+End
+
+Tough+Medic "Sái Huy Vũ"
+	Team = VC
+End
+
+Tough+Gunner "Nguyễn Long Giang"
+	Team = VC
+End
+
+Tough+Sniper "Thủy Khởi Phong"
+	Team = VC
+End
+
+Tough+Engineer "Văn Chí Công"
+	Team = VC
+End
+
+Tough+Radioman "Nguyễn Tuấn Tài"
+	Team = VC
+End
+
+Tough+Radioman "Lý Khắc Vũ"
+	Team = VC
+End
+
+Tough+Engineer "Lê Cao Tiến"
+	Team = VC
+End
+
+Tough+Sniper "Ngô Vương Triều"
+	Team = VC
+End
+
+Tough+Gunner "Úc Hải Phong"
+	Team = VC
+End
+
+Tough+Medic "Nguyễn Hải Phong 32"
+	Team = VC
+End
+
+Tough+Assault "Trầm Chí Bảo"
+	Team = VC
+End
+
+
+Tough+Assault "Bruce Richardson"
+	Team = US
+End
+
+Tough+Medic "Guy S. Powell"
+	Team = US
+End
+
+Tough+Gunner "Paul Wheeler"
+	Team = US
+End
+
+Tough+Sniper "Dennis Rodriguez"
+	Team = US
+End
+
+Tough+Engineer "Dương Minh Dũng"
+	Team = US
+	PlayerClass = Engineer
+End
+
+Tough+Engineer "Nguyễn Hữu Bình"
+	Team = US
+End
+
+Tough+Engineer "Quang Quang Tuấn"
+	Team = US
+End
+
+Tough+Radioman "Hugh O'Meara"
+	Team = US
+End
+
+Tough+Sniper "Aydan Wolfe"
+	Team = US
+End
+
+Tough+Gunner "Payton Russo"
+	Team = US
+End
+
+Tough+Medic "Calvin Bradford"
+	Team = US
+End
+
+Tough+Radioman "Lucas Barrett"
+	Team = US
+End
+
+Tough+Assault "Michael Richardson"
+	Team = US
+End
+
+//----------------------------------------
+
+Normal+Assault "Võ Khánh Hoàng"
+	Team = VC
+End
+
+Normal+Medic "Hoàng Minh Tú"
+	Team = VC
+End
+
+Normal+Gunner "Nguyễn Huy Hoàng"
+	Team = VC
+End
+
+Normal+Sniper "Ngô Quảng Ðạt"
+	Team = VC
+End
+
+Normal+Engineer "Ngư Khánh Văn"
+	Team = VC
+End
+
+Normal+Radioman "Phan Huy Vũ"
+	Team = VC
+End
+
+Normal+Radioman "Đỗ Chí Nam"
+	Team = VC
+End
+
+Normal+Engineer "Hoàng Minh Kỳ"
+	Team = VC
+End
+
+Normal+Sniper "Liễu Hồng Việt"
+	Team = VC
+End
+
+Normal+Gunner "Trần Phú Hưng"
+	Team = VC
+End
+
+Normal+Medic "Trang Thái Tân"
+	Team = VC
+End
+
+Normal+Assault "Hà Hoàng Duệ"
+	Team = VC
+End
+
+
+Normal+Assault "Frank P. Harris"
+	Team = US
+End
+
+Normal+Medic "Ralph E. Abrams"
+	Team = US
+End
+
+Normal+Gunner "Gordon Kingston"
+	Team = US
+End
+
+Normal+Sniper "Frederick Davison"
+	Team = US
+End
+
+Normal+Engineer "Võ Ðình Phúc"
+	Team = US
+	PlayerClass = Engineer
+End
+
+Normal+Engineer "Lạc Chí Thành"
+	Team = US
+End
+
+Normal+Engineer "Đàm Thành Doanh"
+	Team = US
+End
+
+Normal+Radioman "Keith McChrystal"
+	Team = US
+End
+
+Normal+Radioman "Logan Barrett"
+	Team = US
+End
+
+Normal+Sniper "Jayden Read"
+	Team = US
+End
+
+Normal+Gunner "Davon Patel"
+	Team = US
+End
+
+Normal+Medic "Harry Spencer"
+	Team = US
+End
+
+Normal+Assault "Silas Hays"
+	Team = US
+End
+
+//----------------------------------------
+
+Fair+Assault "Hoàng Hoàng Giang"
+	Team = VC
+End
+
+Fair+Medic "Thân Tấn Nam"
+	Team = VC
+End
+
+Fair+Gunner "Lê Triều Thành"
+	Team = VC
+End
+
+Fair+Sniper "Nguyễn Quốc Mạnh"
+	Team = VC
+End
+
+Fair+Engineer "Trần Bảo Tín"
+	Team = VC
+End
+
+Fair+Radioman "Trịnh Duy Bảo"
+	Team = VC
+End
+
+Fair+Radioman "Võ Hồng Việt"
+	Team = VC
+End
+
+Fair+Engineer "Vũ Duy Khang"
+	Team = VC
+End
+
+Fair+Sniper "Phan Vĩnh Toàn"
+	Team = VC
+End
+
+Fair+Gunner "Văn Hữu Tài"
+	Team = VC
+End
+
+Fair+Medic "Ngô Ðức Toàn"
+	Team = VC
+End
+
+Fair+Assault "Hồ Nghĩa Dũng"
+	Team = VC
+End
+
+
+Fair+Assault "Finn Moses"
+	Team = US
+End
+
+Fair+Medic "Gary Downing"
+	Team = US
+End
+
+Fair+Gunner "Eric A. Schwartz"
+	Team = US
+End
+
+Fair+Sniper "Tommy J. Hendrix"
+	Team = US
+End
+
+Fair+Engineer "Lục Thành Trung"
+	Team = US
+	PlayerClass = Engineer
+End
+
+Fair+Engineer "Diệp Thái Hòa"
+	Team = US
+End
+
+Fair+Engineer "Jack Cameron"
+	Team = US
+End
+
+Fair+Radioman "Benjamin Brown"
+	Team = US
+End
+
+Fair+Radioman "Xander Montoya"
+	Team = US
+End
+
+Fair+Sniper "Maddox Pierce"
+	Team = US
+End
+
+Fair+Gunner "Jake Thomson"
+	Team = US
+End
+
+Fair+Medic "Finlay Ball"
+	Team = US
+End
+
+Fair+Assault "Blake Webb"
+	Team = US
+End
+
+
+//----------------------------------------
+
+Easy+Assault "Nguyễn Ngọc Ẩn"
+	Team = VC
+End
+
+Easy+Medic "Huỳnh Ðình Luận"
+	Team = VC
+End
+
+Easy+Gunner "Chu Hoàng Minh"
+	Team = VC
+End
+
+Easy+Sniper "Kiều Thiện Sinh"
+	Team = VC
+End
+
+Easy+Engineer "Ngô Hoàng Nam"
+	Team = VC
+End
+
+Easy+Radioman "Lưu Ngọc Danh"
+	Team = VC
+End
+
+Easy+Radioman "Trầm Huy Thành"
+	Team = VC
+End
+
+Easy+Engineer "Thảo Quang Linh"
+	Team = VC
+End
+
+Easy+Sniper "Thân Anh Duy"
+	Team = VC
+End
+
+Easy+Gunner "Huỳnh Minh Chiến"
+	Team = VC
+End
+
+Easy+Medic "An Anh Quân"
+	Team = VC
+End
+
+Easy+Assault "Đỗ Anh Khôi"
+	Team = VC
+End
+
+
+Easy+Assault "Charles McKiernan"
+	Team = US
+End
+
+Easy+Medic "Vincent K. Brooks"
+	Team = US
+End
+
+Easy+Gunner "Carter O'Reilley"
+	Team = US
+End
+
+Easy+Sniper "Samuel F. Troy"
+	Team = US
+End
+
+Easy+Engineer "Triệu Yên Bằng"
+	Team = US
+	PlayerClass = Engineer
+End
+
+Easy+Engineer "Lâm Khải Tuấn"
+	Team = US
+End
+
+Easy+Engineer "Hà Tất Hòa"
+	Team = US
+End
+
+Easy+Radioman "Patrick Owen"
+	Team = US
+End
+
+Easy+Radioman "Leonel Rush"
+	Team = US
+End
+
+Easy+Sniper "Chris Crawford"
+	Team = US
+End
+
+Easy+Gunner "Drake Lynch"
+	Team = US
+End
+
+Easy+Medic "Benton Harris"
+	Team = US
+End
+
+Easy+Assault "Hayden Chambers"
+	Team = US
+End
