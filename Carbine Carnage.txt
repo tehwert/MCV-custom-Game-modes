@@ -38,7 +38,7 @@
 					{						
 						"category1"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_amd65"
@@ -46,7 +46,7 @@
 						}
 						"category2"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_car15"
@@ -54,7 +54,7 @@
 						}
 						"category3"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_xm177"
@@ -62,7 +62,7 @@
 						}
 						"category4"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_m607"
@@ -70,7 +70,7 @@
 						}					
 						"category5"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_stoner63_c"
@@ -78,7 +78,7 @@
 						}
 						"category6"
 						{
-							"kills" "6"
+							"kills" "4"
 							"weapons"
 							{
 								"1" "weapon_m2c"
@@ -86,7 +86,7 @@
 						}
 						"category7"
 						{
-							"kills" "6"
+							"kills" "4"
 							"weapons"
 							{
 								"1" "weapon_m2c_sog"
@@ -94,7 +94,7 @@
 						}
 						"category8"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_kar98k"
@@ -102,7 +102,7 @@
 						}
 						"category9"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_m38"
@@ -110,7 +110,7 @@
 						}
 						"category10"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_m91"
@@ -118,7 +118,7 @@
 						}
 						"category11"
 						{
-							"kills" "6"
+							"kills" "5"
 							"weapons"
 							{
 								"1" "weapon_m1903"
@@ -126,7 +126,7 @@
 						}		
 						"category12"
 						{
-							"kills" "6"
+							"kills" "4"
 							"weapons"
 							{
 								"1" "weapon_m1c"
@@ -134,7 +134,7 @@
 						}
 						"category13"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"1" "weapon_m1c_sog"
@@ -142,7 +142,7 @@
 						}
 						"category14"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"1" "weapon_sks"
@@ -150,7 +150,7 @@
 						}
 						"category15"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
 								"0" "weapon_type17"
