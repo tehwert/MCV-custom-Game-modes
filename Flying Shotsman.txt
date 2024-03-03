@@ -1,7 +1,9 @@
 				"Flying Shotsman" // Team-based gungame
-				//weapon_accuracy_nospread 1
+				//weapon_sniper_scope_motion 0
 				//sv_gravity 200
 				//weapon_accuracy_nospread 1
+				//OR
+				//put flying.cfg in the cfg folder
 				{
 					"value"				"07"
 					"nameID"			"#vietnam_GameMode_Gungame"
@@ -23,6 +25,7 @@
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
+					"exec" "flying.cfg"
 					}
 					
 					// Map groups for offline modes
