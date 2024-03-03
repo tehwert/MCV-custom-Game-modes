@@ -42,13 +42,61 @@
 
 					"weaponprogression"
 					{
-						"category0"
+						"category1"
 						{
-							"kills" "69"
+							"kills" "10"
 							"weapons"
 							{
 								"0" "weapon_m40"
 							}
-						}					
+						}	
+						"category2"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m40"
+							}
+						}
+						"category3"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m40"
+							}
+						}
+						"category4"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m40"
+							}
+						}
+						"category5"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m40"
+							}
+						}
+						"category6"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" "weapon_m40"
+							}
+						}
+						"category7"
+						{
+							"kills" "9"
+							"weapons"
+							{
+								"0" "weapon_m40"
+							}
+						}
 					}
 				}
