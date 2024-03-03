@@ -1,4 +1,7 @@
 				"GunGame 60" // Team-based gungame
+				//Put gungame60.cfg in the cfg folder
+				//OR
+				//Run the console command "mp_pickup_allowall 1"
 				{
 					"value"				"7"
 					"nameID"			"#vietnam_GameMode_Gungame"
@@ -20,6 +23,7 @@
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
+					"exec" "gungame60.cfg"
 					}
 					
 					// Map groups for offline modes
@@ -378,11 +382,11 @@
 							"weapons"
 							{
 								"0" "weapon_vcpistol"
-						//		"1" "weapon_binoculars_us"
-						//		"2" "weapon_binoculars_vc"
+								"1" "weapon_binoculars_us"
+								"2" "weapon_binoculars_vc"
 								"3" "weapon_ptrd"
-						//		"4" "weapon_m8"
-						//		"5" "weapon_type97"
+								"4" "weapon_m8"
+								"5" "weapon_type97"
 						//		"6" "weapon_rg42"
 						//		"7" "weapon_m16mine"
 								"8" "weapon_m6a1"

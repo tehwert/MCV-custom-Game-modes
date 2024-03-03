@@ -1,7 +1,7 @@
-				"Rifle Grenade Training" // Team-based gungame
+				"Action Pump Chump" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Gungame"
+					"nameID"			"#vietnam_GameMode_Action Pump Chump"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -35,102 +35,135 @@
 					}
 
 					"weaponprogression"
-					{				
+					{
+						"category0"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m37"
+							}
+						}
+						"category0a"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m37"
+							}
+						}
+						"category0b"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m37"
+							}
+						}
+						"category0c"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m37"
+							}
+						}
+						
 						"category1"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_kar98k_riflegrenade"
+								"0" "weapon_m1897"
 							}
 						}
+						"category1a"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m1897"
+							}
+						}
+						"category1b"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m1897"
+							}
+						}
+						"category1c"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m1897"
+							}
+						}						
 						"category2"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_kbkg60_riflegrenade"
+								"0" "weapon_m870"
 							}
 						}
+						"category2a"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m870"
+							}
+						}
+						"category2b"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m870"
+							}
+						}
+						"category2c"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m870"
+							}
+						}						
 						"category3"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m1c_riflegrenade"
+								"0" "weapon_china_lake"
 							}
 						}
-						"category4"
+						"category3a"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m1g_riflegrenade"
+								"0" "weapon_china_lake"
 							}
 						}
-						"category5"
+						"category3b"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m2c_riflegrenade"
+								"0" "weapon_china_lake"
 							}
 						}
-						"category6"
+						"category3c"
 						{
-							"kills" "5"
+							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m14_riflegrenade"
+								"0" "weapon_china_lake"
 							}
-						}
-						"category7"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m38_riflegrenade"
-							}
-						}
-						"category8"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m91_riflegrenade"
-							}
-						}
-						"category9"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_m1903_riflegrenade"
-							}
-						}
-						"category10"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_mas49_riflegrenade"
-							}
-						}
-						"category11"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_sks_riflegrenade"
-							}
-						}
-						"category12"
-						{
-							"kills" "5"
-							"weapons"
-							{
-								"0" "weapon_type63_riflegrenade"
-							}
-						}									
+						}											
 					}
-				}		
+				}

@@ -1,0 +1,313 @@
+				"Tripmine Training" // Team-based gungame
+				//Put gungame60.cfg in the cfg folder
+				//OR
+				//Run the console command "mp_pickup_allowall 1"
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Tripmine Training"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					"exec" "gungame60.cfg"
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{				
+						"category1"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category2"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category3"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category4"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category5"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category6"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category7"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category8"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category9"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category10"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category11"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category12"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category13"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category14"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category15"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category16"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category17"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category18"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category19"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category20"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category21"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category22"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category23"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category24"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category25"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category26"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category27"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category28"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category29"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}
+
+						"category30"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m16mine"
+							}
+						}						
+					}
+				}
