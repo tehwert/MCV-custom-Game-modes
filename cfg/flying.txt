@@ -1,3 +1,0 @@
-weapon_sniper_scope_motion 0
-sv_gravity 200
-weapon_accuracy_nospread 1
