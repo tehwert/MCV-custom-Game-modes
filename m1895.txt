@@ -1,10 +1,7 @@
-				"Oh Baby" // Team-based gungame
-				//change weapon_baby_browning mag to 69
-				//change Firerate to "1000"
-				//bind fire to scrollwheel or use X-mouse Button Control
+				"m1895" // Team-based gungame
 				{
-					"value"				"07"
-					"nameID"			"#vietnam_GameMode_Oh Baby"
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Gungame"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -38,62 +35,22 @@
 					}
 
 					"weaponprogression"
-					{
+					{						
 						"category1"
 						{
-							"kills" "10"
+							"kills" "35"
 							"weapons"
 							{
-								"0" "weapon_baby_browning"
+								"0" "weapon_dual_m1895"
 							}
-						}	
+						}					
 						"category2"
 						{
-							"kills" "10"
+							"kills" "34"
 							"weapons"
 							{
-								"0" "weapon_baby_browning"
+								"0" "weapon_m1895"
 							}
-						}
-						"category3"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_baby_browning"
-							}
-						}
-						"category4"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_baby_browning"
-							}
-						}
-						"category5"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_baby_browning"
-							}
-						}
-						"category6"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_baby_browning"
-							}
-						}
-						"category7"
-						{
-							"kills" "9"
-							"weapons"
-							{
-								"0" "weapon_baby_browning"
-							}
-						}
+						}							
 					}
 				}
