@@ -71,14 +71,14 @@
 						}
 					}
 					
-		//			"categoryaps"
-		//			{
-		//				"kills" "3"
-		//				"weapons"
-		//				{
-		//					"0" "weapon_dual_aps"
-		//				}
-		//			}				
+		  			"categoryaps"
+		  			{
+		  				"kills" "3"
+		  				"weapons"
+		  				{
+		  					"0" "weapon_dual_aps"
+		  				}
+		  			}				
 					"category5"
 					{
 						"kills" "3"
