@@ -1,4 +1,6 @@
 				"Action Shotty" // Team-based gungame
+				//Use "weapon_air_spread_scale 0"
+				//Or put "ShottySpread.cfg" in your cfg folder
 				{
 					"value"				"7"
 					"nameID"			"#vietnam_GameMode_Action Shotty"
@@ -20,6 +22,7 @@
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
+					"exec" "ShottySpread.cfg"
 					}
 					
 					// Map groups for offline modes
