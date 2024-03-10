@@ -30,14 +30,14 @@ WeaponData
 	"default_clip"				"2"	// ammo given by default
 	"default_clip2"				"-1"	// ditto for second ammo type
 
-	"FireRate"				"140"	// RPM
+	"FireRate"				"144"	// RPM
 	"bullets_per_shot"			"6"	// pellets
 
 	"muzzle_velocity"			"403" 	// m/s
 	"bullet_weight"				"0.0007"	// KG
 
-	"BulletSpreadDegrees"			"6"	// degrees
-	"BulletSpreadDegreesIronsighted"	"6"	// degrees
+	"BulletSpreadDegrees"			"5"	// degrees
+	"BulletSpreadDegreesIronsighted"	"5"	// degrees
 
 	"rangemodifier"				"0.75"
 
@@ -82,7 +82,7 @@ WeaponData
 	"CrosshairMinDistance"			"6"
 	"CrosshairDeltaDistance"		"8"
 
-	"weight"				"3.2"
+	"weight"				"3"
 
 	////////////////////////////
 	// Weapon Particles Start //
@@ -159,7 +159,7 @@ WeaponData
 		"roll"		"0"
 	}
 	
-								"NearwallDistance"			"50"
+								"NearwallDistance"			"30"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData

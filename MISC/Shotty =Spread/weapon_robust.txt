@@ -30,7 +30,7 @@ WeaponData
 	"default_clip"				"2"	// ammo given by default
 	"default_clip2"				"-1"	// ditto for second ammo type
 
-	"FireRate"				"140"	// RPM
+	"FireRate"				"144"	// RPM
 	"bullets_per_shot"			"6"	// pellets
 
 	"muzzle_velocity"			"403" 	// m/s
