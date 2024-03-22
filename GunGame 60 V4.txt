@@ -116,7 +116,6 @@
 								"11" "weapon_stoner63_b"	
 								"12" "weapon_stoner63_l"
 								"13" "weapon_tul1"
-								"14" "weapon_vz58"
 							}
 						}
 						"category5" // Battle Rifles
