@@ -1,0 +1,433 @@
+				"GunGame 60" // Team-based gungame
+				//==GUN GAME 60 V4==
+				//Put gungame60.cfg in the cfg folder
+				//OR
+				//Run the console command "mp_pickup_allowall 1"
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Gungame"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					"exec" "gungame60.cfg"
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+					"category1" // Assault Rifles
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"1" "weapon_ak47"
+								"2" "weapon_akm"
+								"3" "weapon_kbkg60"
+								"4" "weapon_m16a1"
+								"5" "weapon_md63"
+								"6" "weapon_stg44"
+								"7" "weapon_stoner63_r"
+								"8" "weapon_t223"
+								"9" "weapon_type56"
+								"10" "weapon_type63"	
+								"11" "weapon_vz58"		
+							}
+						}
+						"category2" // SubMachineGuns
+						{
+							"kills" "8"
+							"weapons"
+							{
+								"1" "weapon_m45"
+								"2" "weapon_k50m"
+								"3" "weapon_m1a1"
+								"4" "weapon_m1a1_sog"
+								"5" "weapon_m3a1"
+								"6" "weapon_m12"
+								"7" "weapon_m1928"
+								"8" "weapon_m50"
+								"9" "weapon_mas38"
+								"10" "weapon_mat49"	
+								"11" "weapon_mp40"	
+								"12" "weapon_pps43"
+								"13" "weapon_ppsh41"
+								"14" "weapon_ppsh41d"
+								"15" "weapon_stenmk2"
+								"16" "weapon_swm76"
+								"17" "weapon_uzi"
+								"18" "weapon_vz23"								
+							}
+						}
+						"category3" // SubMachineGuns Silencers
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m45_sog"
+								"2" "weapon_m3a1_sog"
+								"3" "weapon_mat49_sog"
+								"4" "weapon_stenmk2_sog"
+								"5" "weapon_swm76_sog"
+								"6" "weapon_type64"
+								"7" "weapon_uzi_sog"							
+							}
+						}
+						"category4" // Machine Guns
+						{
+							"kills" "6"
+							"weapons"
+							{
+								"1" "weapon_bren"
+								"2" "weapon_dp28"
+								"3" "weapon_m1918_bar"
+								"4" "weapon_m60"
+								"5" "weapon_m60b"
+								"6" "weapon_rp46"
+								"7" "weapon_rpd"
+								"8" "weapon_rpd_sog"
+								"9" "weapon_rpk"
+								"10" "weapon_stoner63"	
+								"11" "weapon_stoner63_b"	
+								"12" "weapon_stoner63_l"
+								"13" "weapon_tul1"
+								"14" "weapon_vz58"
+							}
+						}
+						"category5" // Battle Rifles
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m1g"
+								"2" "weapon_m14"
+								"3" "weapon_m1918"
+								"4" "weapon_mas49"
+								"5" "weapon_svt40"							
+							}
+						}
+						"category6" // Auto+Carbines
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"1" "weapon_amd65"
+								"2" "weapon_m2c"
+								"3" "weapon_m2c_sog"
+								"4" "weapon_stoner63_c"
+								"5" "weapon_xm177"
+								"6" "weapon_car15"
+								"7" "weapon_m607"								
+							}
+						}
+						"category7" // Shotguns
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m870"
+								"2" "weapon_robust"
+								"3" "weapon_robust_sog"
+								"4" "weapon_m1897"
+								"5" "weapon_m37"							
+							}
+						}
+						"category8" // scoped assault
+						{
+							"kills" "1"
+							"weapons"
+							{								
+								"1" "weapon_m607s"
+								"2" "weapon_stg44s"	
+								"3" "weapon_car15s"								
+							}
+						}
+						"category9" // Sniper Rifles
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"1" "weapon_kar98k_s"
+								"2" "weapon_m1gs"
+								"3" "weapon_m40"
+								"4" "weapon_mas49s"
+								"5" "weapon_m38s"
+								"6" "weapon_svd"
+								"7" "weapon_svt40s"
+								"8" "weapon_m1903s"
+								"9" "weapon_m21s"								
+							}
+						}
+						"category10" // Bolt Action
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_kar98k"
+								"2" "weapon_m1903"
+								"3" "weapon_m38"
+								"4" "weapon_m91"						
+							}
+						}
+						"category11" // Semi+Carbines
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m1c"
+								"2" "weapon_m1c_sog"
+								"3" "weapon_sks"
+								"4" "weapon_type17"						
+							}
+						}
+						"category12" // Rocket Launchers
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m72"
+								"2" "weapon_rpg7"
+								"3" "weapon_xm202"				
+							}
+						}
+						"category13" // Grenade Launchers
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m79"
+								"2" "weapon_m79_sog"
+								"3" "weapon_china_lake"
+								"4" "weapon_gp25"
+								"5" "weapon_m203"
+								"6" "weapon_rpg2"					
+							}
+						}
+						"category14" // Dual SMGs
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_dual_uzi"
+								"2" "weapon_dual_uzi_sog"		
+							}
+						}
+						"category15" // Dual Machine Pistols
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_dual_mac10"
+								"2" "weapon_dual_vz61e"		
+							}
+						}	
+						"category16" // Dual Machine Pistols Silencers
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_dual_mac10_sog"
+								"2" "weapon_dual_vz61e_sog"			
+							}
+						}
+						"category17" // Dual Pistols
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"1" "weapon_dual_mk22"
+								"2" "weapon_dual_mle1935"
+								"3" "weapon_dual_tt33"
+								"4" "weapon_dual_m1911"
+								"5" "weapon_dual_p38"
+								"6" "weapon_dual_baby_browning"
+								"7" "weapon_dual_type14"
+								"8" "weapon_dual_pm"
+								"9" "weapon_dual_aps"								
+							}
+						}
+						"category18" // Dual Pistols Silencers
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_dual_mk22_mod0"
+								"2" "weapon_dual_hdm"
+								"3" "weapon_dual_type67"
+								"4" "weapon_dual_pb"								
+							}
+						}
+						"category19" // Dual Revolvers
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_dual_swm12"
+								"2" "weapon_dual_m1895"
+								"3" "weapon_dual_m1917"	
+								"4" "weapon_dual_swm10"								
+							}
+						}	
+						"category20" // Machine Pistols
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_aps"
+								"2" "weapon_mac10"
+								"3" "weapon_vz61e"				
+							}
+						}	
+						"category21" // Machine Pistols Silencers
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_mac10_sog"
+								"2" "weapon_vz61e_sog"				
+							}
+						}
+						"category22" // Pistols
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"1" "weapon_mk22"
+								"2" "weapon_mle1935"
+								"3" "weapon_tt33"
+								"4" "weapon_m1911"
+								"5" "weapon_p38"
+								"6" "weapon_baby_browning"
+								"7" "weapon_type14"
+								"8" "weapon_c96"
+								"9" "weapon_pm"								
+							}
+						}
+						"category23" // Pistols Silencers
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_pb"
+								"2" "weapon_hdm"
+								"3" "weapon_type67"	
+								"4" "weapon_mk22_mod0"								
+							}
+						}
+						"category24" // Revolvers
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_swm12"
+								"2" "weapon_m1895"
+								"3" "weapon_swm10"
+								"4" "weapon_m1917"					
+							}
+						}
+						"category25" // Rifle Grenades
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_kbkg60_riflegrenade"
+								"2" "weapon_m1c_riflegrenade"
+								"3" "weapon_m1g_riflegrenade"
+								"4" "weapon_m2c_riflegrenade"
+								"5" "weapon_m14_riflegrenade"
+								"6" "weapon_m38_riflegrenade"
+								"7" "weapon_m91_riflegrenade"
+								"8" "weapon_m1903_riflegrenade"
+								"9" "weapon_mas49_riflegrenade"
+								"10" "weapon_sks_riflegrenade"
+								"11" "weapon_type63_riflegrenade"
+								"12" "weapon_kar98k_riflegrenade"
+							}
+						}
+						"category26" // Grenades
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_csg"
+								"2" "weapon_m26"
+								"3" "weapon_csg2"
+								"4" "weapon_mk3a2"					
+							}
+						}
+						"category27" // Special Throwables (Gas, molotov and Timed Throwables)
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_c4"
+								"2" "weapon_dynamite"
+								"3" "weapon_molotov"
+								"4" "weapon_m6a1"						
+							}
+						}
+						"category28" // Flamethrowers 
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m9a1"
+								"2" "weapon_lpo5"					
+							}
+						}
+						"category29" // Miscellaneous(binocs,flareguns,AP mines,PTRD,VC Pistol)
+						{
+							"kills" "1"
+							"weapons"
+							{
+						//		"1" "weapon_binoculars_us"
+						//		"2" "weapon_binoculars_vc"
+								"3" "weapon_m8"
+								"4" "weapon_type97"
+						//		"5" "weapon_rg42"
+						//		"6" "weapon_m16mine"
+								"7" "weapon_ptrd"
+								"8" "weapon_vcpistol"						
+							}
+						}
+						"category30" // Melee  
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m7_bayonet"
+								"2" "weapon_ak47_bayonet"
+								"3" "weapon_m1905_bayonet"
+								"4" "weapon_sickle"
+								"5" "weapon_m1942"
+								"6" "weapon_fists"	
+								"7" "weapon_type30_bayonet"								
+							}
+						}						
+					}
+				}
