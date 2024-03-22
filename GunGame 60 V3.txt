@@ -56,7 +56,7 @@
 								"8" "weapon_uzi"
 								"9" "weapon_swm76"
 								"10" "weapon_stenmk2"
-								"11" "weapon_ppsh41"
+								"11" "weapon_m1928"
 								"12" "weapon_m1a1_sog"
 								"13" "weapon_m12"
 								"14" "weapon_m50"
@@ -72,7 +72,9 @@
 								"1" "weapon_dual_vz61e"
 								"2" "weapon_dual_mac10_sog"
 								"3" "weapon_dual_vz61e_sog"
-							//	"4" "weapon_dual_aps"
+								"4" "weapon_dual_uzi"
+								"5" "weapon_dual_uzi_sog"
+							//	"6" "weapon_dual_aps"
 							}
 						}
 						"category2"
@@ -83,7 +85,7 @@
 								"0" "weapon_vz61e"
 								"1" "weapon_mac10"
 								"2" "weapon_ppsh41d"
-								"3" "weapon_m1928"
+								"3" "weapon_ppsh41"
 								"4" "weapon_aps"
 								"5" "weapon_vz61e_sog"
 							}
@@ -382,8 +384,8 @@
 							"weapons"
 							{
 								"0" "weapon_vcpistol"
-								"1" "weapon_binoculars_us"
-								"2" "weapon_binoculars_vc"
+						//		"1" "weapon_binoculars_us"
+						//		"2" "weapon_binoculars_vc"
 								"3" "weapon_ptrd"
 								"4" "weapon_m8"
 								"5" "weapon_type97"
