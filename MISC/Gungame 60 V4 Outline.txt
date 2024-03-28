@@ -1,0 +1,32 @@
+kills| Total |	Weapon Category
+5		11		Assault Rifles
+8		18		SubMachineGuns
+2		7		SubMachineGuns Silencers
+6		13		Machine Guns
+2		5		Battle Rifles
+3		7		Auto Carbines
+2		5		Shotguns
+1		3		scoped assault
+3		9		Sniper Rifles
+2		4		Bolt Action
+2		4		Semi Carbines
+1		3		Rocket Launchers
+2		6		Grenade Launchers
+1		2		Dual SMGs
+1		2		Dual Machine Pistols
+1		2		Dual Machine Pistols Silencers
+3		9		Dual Pistols
+1		4		Dual Pistols Silencers
+1		4		Dual Revolvers
+1		3		Machine Pistols
+1		2		Machine Pistols Silencers
+3		9		Pistols
+1		4		Pistols Silencers
+1		4		Revolvers
+1		12		Rifle Grenades
+1		4		Grenades
+1		4		Special Throwables (Gas, molotov and Timed Throwables)
+1		2		Flamethrowers 
+1		8		Miscellaneous(binocs,flareguns,AP mines,PTRD,VC Pistol)
+1		7		Melee  
+60		177		Total
