@@ -1,4 +1,4 @@
-kills| Total |	Weapon Category
+kills	|	 Total |	Weapon Category
 5		11		Assault Rifles
 8		18		SubMachineGuns
 2		7		SubMachineGuns Silencers
