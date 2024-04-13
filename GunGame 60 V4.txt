@@ -56,7 +56,8 @@
 								"8" "weapon_t223"
 								"9" "weapon_type56"
 								"10" "weapon_type63"	
-								"11" "weapon_vz58"		
+								"11" "weapon_vz58"	
+								"12" "weapon_m601"		
 							}
 						}
 						"category2" // SubMachineGuns
@@ -163,7 +164,8 @@
 							{								
 								"1" "weapon_m607s"
 								"2" "weapon_stg44s"	
-								"3" "weapon_car15s"								
+								"3" "weapon_car15s"
+								"4" "weapon_m656"								
 							}
 						}
 						"category9" // Sniper Rifles
@@ -396,7 +398,7 @@
 							"weapons"
 							{
 								"1" "weapon_m9a1"
-								"2" "weapon_lpo5"					
+								"2" "weapon_lpo50"					
 							}
 						}
 						"category29" // Miscellaneous(binocs,flareguns,AP mines,PTRD,VC Pistol)
