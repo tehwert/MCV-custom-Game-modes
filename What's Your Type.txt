@@ -1,0 +1,129 @@
+				"What's Your Type" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_What's Your Type"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					"exec" "gungame60.cfg"
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{				
+						"category1"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_dual_type14"
+							}
+						}
+						"category2"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_type14"
+							}
+						}
+						"category3"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_type17"
+							}
+						}
+						"category4"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type30_bayonet"
+							}
+						}
+						"category5"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_type56"
+							}
+						}
+						"category6"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_type63"
+							}
+						}
+						"category7"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type63_riflegrenade"
+							}
+						}
+						"category8"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_type64"
+							}
+						}
+						"category9"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_dual_type67"
+							}
+						}
+						"category10"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_type67"
+							}
+						}
+						"category11"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type97"
+							}
+						}				
+					}
+				}
