@@ -104,11 +104,8 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_csg"
-								"1" "weapon_csg2"
-								"2" "weapon_dynamite"
-								"3" "weapon_m26"
-								"4" "weapon_molotov"						
+								"1" "weapon_dynamite"
+								"2" "weapon_molotov"						
 							}
 						}
 						"category6"
@@ -167,9 +164,8 @@
 								"5" "weapon_dual_mle1935"
 								"6" "weapon_dual_p38"
 								"7" "weapon_dual_swm10"
-								"8" "weapon_dual_swm12"
-								"9" "weapon_dual_tt33"
-								"10" "weapon_dual_type14"
+								"8" "weapon_dual_tt33"
+								"9" "weapon_dual_type14"
 							}
 						}
 						"category11"
@@ -185,10 +181,9 @@
 								"5" "weapon_mle1935"
 								"6" "weapon_p38"
 								"7" "weapon_swm10"
-								"8" "weapon_swm12"
-								"9" "weapon_tt33"
-								"10" "weapon_type14"
-								"11" "weapon_c96"
+								"8" "weapon_tt33"
+								"9" "weapon_type14"
+								"10" "weapon_c96"
 							}
 						}
 						"category11A"

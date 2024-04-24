@@ -1,0 +1,200 @@
+				"Hush Puppy" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Hush Puppy"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{				
+						"category1"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_dual_uzi_sog"
+							}
+						}
+						"category2"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_uzi_sog"
+							}
+						}
+						"category3"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m3a1_sog"
+							}
+						}
+						"category4"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_mat49_sog"
+							}
+						}
+						"category5"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_m45_sog"
+							}
+						}
+						"category6"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_swm76_sog"
+							}
+						}
+						"category7"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_stenmk2_sog"
+							}
+						}
+						"category8"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_type64"
+							}
+						}
+						"category9"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10_sog"
+							}
+						}
+						"category10"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_mac10_sog"
+							}
+						}
+						"category11"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_dual_vz61e_sog"
+							}
+						}
+						"category12"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_vz61e_sog"
+							}
+						}
+						"category13"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_dual_pb"
+							}
+						}
+						"category14"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_pb"
+							}
+						}
+						"category15"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_dual_type67"
+							}
+						}
+						"category16"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_type67"
+							}
+						}
+						"category17"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_dual_hdm"
+							}
+						}
+						"category18"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_hdm"
+							}
+						}
+						"category19"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_dual_mk22_mod0"
+							}
+						}
+						"category20"
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"0" "weapon_mk22_mod0"
+							}
+						}						
+					}
+				}		

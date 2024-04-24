@@ -117,6 +117,7 @@
 								"11" "weapon_stoner63_b"	
 								"12" "weapon_stoner63_l"
 								"13" "weapon_tul1"
+								"13" "weapon_m1919a6"
 							}
 						}
 						"category5" // Battle Rifles
@@ -413,7 +414,8 @@
 						//		"5" "weapon_rg42"
 						//		"6" "weapon_m16mine"
 								"7" "weapon_ptrd"
-								"8" "weapon_vcpistol"						
+								"8" "weapon_vcpistol"
+								"9" "weapon_crossbow"									
 							}
 						}
 						"category30" // Melee  

@@ -1,0 +1,520 @@
+				"Crossbow Training" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Crossbow Training"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{						
+						"category1"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category2"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category3"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category4"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category5"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category6"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category7"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category8"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category9"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category10"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category11"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category12"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category13"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category14"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category15"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category16"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category17"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category18"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category19"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category20"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category21"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category22"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category23"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category24"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category25"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category26"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category27"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category28"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category29"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category30"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category31"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category32"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category33"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category34"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category35"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category36"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category37"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category38"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category39"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category40"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category41"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category42"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category43"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category44"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category45"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category46"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category47"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category48"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category49"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category50"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category51"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category52"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category53"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category54"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category55"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category56"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category57"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category58"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category59"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+						"category60"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_crossbow"
+							}
+						}
+					}
+				}
