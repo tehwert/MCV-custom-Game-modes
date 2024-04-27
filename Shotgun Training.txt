@@ -1,7 +1,7 @@
-				"PTRD" // Team-based gungame
+				"Shotgun Training" // Team-based gungame
 				{
-					"value"				"00"
-					"nameID"			"#vietnam_GameMode_PTRD"
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_TShotgun Training"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -35,62 +35,46 @@
 					}
 
 					"weaponprogression"
-					{
-						"category0"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_ptrd"
-							}
-						}
+					{				
 						"category1"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_m1897"
 							}
 						}
 						"category2"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_m37"
 							}
 						}
 						"category3"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_m870"
 							}
 						}
 						"category4"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_robust"
 							}
 						}
 						"category5"
 						{
-							"kills" "10"
+							"kills" "20"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_robust_sog"
 							}
 						}
-						"category6"
-						{
-							"kills" "9"
-							"weapons"
-							{
-								"0" "weapon_ptrd"
-							}
-						}						
 					}
 				}

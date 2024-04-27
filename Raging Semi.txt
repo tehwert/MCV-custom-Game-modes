@@ -1,7 +1,7 @@
-				"PTRD" // Team-based gungame
+				"Raging Semi" // Team-based gungame
 				{
-					"value"				"00"
-					"nameID"			"#vietnam_GameMode_PTRD"
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Raging Semi"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -35,62 +35,78 @@
 					}
 
 					"weaponprogression"
-					{
-						"category0"
-						{
-							"kills" "10"
-							"weapons"
-							{
-								"0" "weapon_ptrd"
-							}
-						}
+					{				
 						"category1"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_car15"
 							}
 						}
 						"category2"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_car15s"
 							}
 						}
 						"category3"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_m607"
 							}
 						}
 						"category4"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_m607s"
 							}
 						}
 						"category5"
 						{
-							"kills" "10"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_stg44s"
 							}
 						}
 						"category6"
 						{
-							"kills" "9"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_ptrd"
+								"0" "weapon_m14"
 							}
-						}						
+						}
+						"category7"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_svt40"
+							}
+						}
+						"category8"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_type63"
+							}
+						}
+						"category9"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_m2c"
+							}
+						}
 					}
 				}
