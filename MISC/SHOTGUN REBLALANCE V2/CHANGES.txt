@@ -1,0 +1,21 @@
+Pump shotguns spread changed from 9° and 3° ADS to 6° and 4° ADS
+Double Barrel Shotgun spread changed from 8° and 3° ADS to 5° and 3° ADS
+Sawn-Off Double Barrel Shotgun spread changed from 8° and 3° ADS to 7° and 5° ADS
+
+All shotguns Crouch, Prone, Stand, Sneak, Crouch Move, and Jump Spread Multiplier all set to [1] (your pellet spread is no longer affected by your stance)
+
+M1897 Range Modifier changed from [0.8] to [0.76]
+M870 Range Modifier changed from [0.75] to [0.8]
+M37 Range Modifier changed from [0.8] to [0.78]
+Double Barrel Range Modifier changed from [0.75] to [0.8]
+Sawn-Off Double Barrel Range Modifier changed from [0.75] to [0.74]
+
+M870 Fire Rate changed from [70] to [80]
+Double Barrel Fire Rate changed from [120] to [144]
+Sawn-Off Double Barrel Fire Rate changed from [120] to [160]
+
+Sawn-Off Double Barrel given extra recoil
+
+All shotguns given 18 shells in reserve ammo
+M1897 and M870 given +1 max ammo loaded[5]=>[6] to include the "1 in the chamber"(M37 Mag tube was carried only 4 so it stays at [5] total)
+All pump shotguns start with max ammo -1 loaded to simulate racking from an empty chamber and a full magazine tube
