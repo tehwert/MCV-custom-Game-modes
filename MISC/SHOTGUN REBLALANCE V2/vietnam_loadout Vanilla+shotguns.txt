@@ -1,0 +1,1390 @@
+// This file configures allowed weapons and equipment for each player class
+// 
+// DO NOT MODIFY THIS FILE
+
+"vietnam_loadout"
+{
+	// Per-team and per-class weapon data
+	"weapons"
+	{
+		"US"
+		{
+			"assault"
+			{
+				"primary"
+				{									
+					"assault_rifles"
+					{
+						"weapon_m16a1"	"#weapon_m16a1"
+						"weapon_m601"	"#weapon_m601"
+						"weapon_m16a1_m203"	"#weapon_m16a1_m203"
+						"weapon_t223"	"#weapon_t223"
+						"weapon_stoner63_r"	"#weapon_stoner63_r"
+					}
+					"battle_rifles"
+					{
+						"weapon_m1918"	"#weapon_m1918"
+						"weapon_m1g"	"#weapon_m1g"
+						"weapon_m14"	"#weapon_m14"	
+					}		
+					"bolt_actions"
+					{
+						"weapon_m1903"	"#weapon_m1903"
+					}					
+					"carbines"
+					{
+						"weapon_car15"	"#weapon_car15"
+						"weapon_xm177"	"#weapon_xm177"
+						"weapon_car15s"	"#weapon_car15s"
+						"weapon_m607"	"#weapon_m607"
+						"weapon_m607s"	"#weapon_m607s"
+						"weapon_stoner63_c"	"#weapon_stoner63_c"
+						"weapon_m2c"	"#weapon_m2c"
+						"weapon_m2c_sog"	"#weapon_m2c_sog"
+					}
+					"smgs"
+					{
+						"weapon_m1928"	"#weapon_m1928"
+					}
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_m870"	"#weapon_m870"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18"	"#weapon_m18"
+						"weapon_m18r"	"#weapon_m18r"
+						"weapon_m6a1"	"#weapon_m6a1"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18"	"#weapon_m18"
+					}
+				}
+				"equipment"
+				{
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"medic"
+			{
+				"primary"
+				{
+					"carbines"
+					{
+						"weapon_m1c"	"#weapon_m1c"
+						"weapon_m1c_sog"	"#weapon_m1c_sog"							
+					}
+					"smgs"
+					{
+						"weapon_m1a1"	"#weapon_m1a1"
+						"weapon_m1a1_sog"	"#weapon_m1a1_sog"
+						"weapon_m3a1"	"#weapon_m3a1"
+						"weapon_m3a1_sog"	"weapon_m3a1_sog"
+						"weapon_stenmk2"	"#weapon_stenmk2"
+						"weapon_stenmk2_sog"	"#weapon_stenmk2_sog"
+						"weapon_m45"	"#weapon_m45"
+						"weapon_m45_sog"	"#weapon_m45_sog"				
+						"weapon_swm76"	"#weapon_swm76"
+						"weapon_swm76_sog"	"#weapon_swm76_sog"
+						"weapon_m50"	"#weapon_m50"
+						"weapon_m12"	"#weapon_m12"
+						"weapon_uzi"	"#weapon_uzi"
+						"weapon_uzi_sog"	"#weapon_uzi_sog"					
+						"weapon_mac10"	"#weapon_mac10"
+						"weapon_mac10_sog"	"#weapon_mac10_sog"
+					}
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_m870"	"#weapon_m870"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18r"	"#weapon_m18r"
+					}
+					"slot2"
+					{
+						"weapon_m18"	"#weapon_m18"
+					}
+				}
+				"equipment"
+				{
+					"weapon_medicbox"	"#weapon_medicbox"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"gunner"
+			{
+				"primary"
+				{
+					"lmgs"
+					{
+						"weapon_m60"	"#weapon_m60"
+						"weapon_m60b"	"#weapon_m60b"						
+						"weapon_stoner63"	"#weapon_stoner63"
+						"weapon_stoner63_l"	"#weapon_stoner63_l"
+						"weapon_stoner63_b"	"#weapon_stoner63_b"
+						"weapon_m1918_bar"	"#weapon_m1918_bar"
+						"weapon_rpd_sog"	"#weapon_rpd_sog"
+						"weapon_m1919a6"	"#weapon_m1919a6"
+					}
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_m870"	"#weapon_m870"
+					}					
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_swm10"	"#weapon_swm10"
+
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18r"	"#weapon_m18r"						
+					}
+					"slot2"
+					{
+						"weapon_m18"	"#weapon_m18"
+					}
+				}
+				"equipment"
+				{
+					"weapon_ammobox_us"	"#weapon_ammobox_us"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"sniper"
+			{
+				"primary"
+				{
+					"sniperrifles"
+					{
+						"weapon_m1903s"	"#weapon_m1903s"
+						"weapon_m21s"	"#weapon_m21s"
+						"weapon_m1gs"	"#weapon_m1gs"
+						"weapon_m40"	"#weapon_m40"
+						"weapon_m656"	"#weapon_m656"
+					}
+					"bolt_actions"
+					{
+						"weapon_m1903"	"#weapon_m1903"
+					}
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_m870"	"#weapon_m870"
+					}					
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_mk22_mod0"	"#weapon_mk22_mod0"
+						"weapon_hdm"		"#weapon_hdm"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"	
+						"weapon_m18r"	"#weapon_m18r"
+					}
+					"slot2"
+					{
+						"weapon_m18"	"#weapon_m18"
+					}
+
+					"limited"	"1"
+				}
+				"equipment"
+				{
+					"weapon_m8"		"#weapon_m8"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"engineer"
+			{
+				"primary"
+				{
+					"smgs"
+					{
+						"weapon_m1a1"	"#weapon_m1a1"
+						"weapon_m1a1_sog"	"#weapon_m1a1_sog"
+						"weapon_m3a1"	"#weapon_m3a1"
+						"weapon_m3a1_sog"	"weapon_m3a1_sog"
+						"weapon_stenmk2"	"#weapon_stenmk2"
+						"weapon_stenmk2_sog"	"#weapon_stenmk2_sog"
+						"weapon_m45"	"#weapon_m45"
+						"weapon_m45_sog"	"#weapon_m45_sog"				
+						"weapon_swm76"	"#weapon_swm76"
+						"weapon_swm76_sog"	"#weapon_swm76_sog"
+						"weapon_m50"	"#weapon_m50"
+						"weapon_m12"	"#weapon_m12"
+						"weapon_uzi"	"#weapon_uzi"
+						"weapon_uzi_sog"	"#weapon_uzi_sog"					
+						"weapon_mac10"	"#weapon_mac10"
+						"weapon_mac10_sog"	"#weapon_mac10_sog"
+					}
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_m870"	"#weapon_m870"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+					}
+				}
+				"equipment"
+				{
+					"weapon_m72"	"#weapon_m72"
+					"weapon_m79"	"#weapon_m79"
+					"weapon_m79_sog"	"#weapon_m79_sog"
+					"weapon_m9a1"	"#weapon_m9a1"
+					"weapon_m16mine"	"#weapon_m16mine"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"radioman"
+			{
+				"primary"
+				{
+					"carbines"
+					{
+						"weapon_stoner63_c"	"#weapon_stoner63_c"
+						"weapon_car15"	"#weapon_car15"
+						"weapon_xm177"	"#weapon_xm177"
+						"weapon_m607"	"#weapon_m607"
+						"weapon_m1c"	"#weapon_m1c"
+						"weapon_m1c_sog"	"#weapon_m1c_sog"
+					}	
+					"smgs"
+					{
+						"weapon_m1a1"	"#weapon_m1a1"
+						"weapon_m1a1_sog"	"#weapon_m1a1_sog"
+						"weapon_m3a1"	"#weapon_m3a1"
+						"weapon_m3a1_sog"	"weapon_m3a1_sog"
+						"weapon_stenmk2"	"#weapon_stenmk2"
+						"weapon_stenmk2_sog"	"#weapon_stenmk2_sog"
+						"weapon_m45"	"#weapon_m45"
+						"weapon_m45_sog"	"#weapon_m45_sog"				
+						"weapon_swm76"	"#weapon_swm76"
+						"weapon_swm76_sog"	"#weapon_swm76_sog"
+						"weapon_m50"	"#weapon_m50"
+						"weapon_m12"	"#weapon_m12"
+						"weapon_uzi"	"#weapon_uzi"
+						"weapon_uzi_sog"	"#weapon_uzi_sog"					
+						"weapon_mac10"	"#weapon_mac10"
+						"weapon_mac10_sog"	"#weapon_mac10_sog"
+					}
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_m870"	"#weapon_m870"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_swm10"	"#weapon_swm10"
+					}
+				}
+				"equipment"
+				{
+					"weapon_binoculars_us"	"#weapon_binoculars_us"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+		}
+		"VC"
+		{
+			"assault"
+			{
+				"primary"
+				{
+					"assault_rifles"
+					{
+						"weapon_ak47"	"#weapon_ak47"
+						"weapon_type56"	"#weapon_type56"
+						"weapon_akm"	"#weapon_akm"
+						"weapon_md63"	"#weapon_md63"
+						"weapon_kbkg60"	"#weapon_kbkg60"
+						"weapon_vz58"	"#weapon_vz58"
+						"weapon_stg44"	"#weapon_stg44"
+						"weapon_stg44s"	"#weapon_stg44s"	
+					}
+                                        "battle_rifles"
+					{
+			                        "weapon_mas49"	"#weapon_mas49"
+						"weapon_svt40"	"#weapon_svt40"
+					}
+					"bolt_actions"
+					{
+						"weapon_m91"	"#weapon_m91"
+					}	
+					"carbines"
+					{
+						"weapon_amd65"	"#weapon_amd65"
+						"weapon_m38"	"#weapon_m38"
+						"weapon_type63"	"#weapon_type63"
+						"weapon_kar98k"	"#weapon_kar98k"
+					}
+					"smgs"
+					{
+						"weapon_ppsh41d"	"#weapon_ppsh41d"
+					}
+					"shotguns"
+					{
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}		
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}			
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_css"	"#weapon_css"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_css"	"#weapon_css"
+					}
+				}
+				"equipment"
+				{
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"medic"
+			{
+				"primary"
+				{
+					"carbines"
+					{
+						"weapon_sks"	"#weapon_sks"
+						"weapon_type17"	"#weapon_type17"						
+					}
+					"smgs"
+					{
+						"weapon_k50m"	"#weapon_k50m"
+						"weapon_mat49"	"#weapon_mat49"
+						"weapon_mat49_sog"	"#weapon_mat49_sog"
+						"weapon_ppsh41"	"#weapon_ppsh41"
+						"weapon_pps43"	"#weapon_pps43"						
+						"weapon_mp40"	"#weapon_mp40"
+						"weapon_mas38"	"#weapon_mas38"
+						"weapon_vz23"	"#weapon_vz23"
+						"weapon_type64"	"#weapon_type64"
+
+						"weapon_vz61e"	"#weapon_vz61e"
+						"weapon_vz61e_sog"	"#weapon_vz61e_sog"
+						"weapon_aps"	"#weapon_aps"					
+					}
+					"shotguns"
+					{
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+					}
+					"slot2"
+					{
+						"weapon_css"	"#weapon_css"
+					}
+				}
+				"equipment"
+				{
+					"weapon_medicbox"	"#weapon_medicbox"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"gunner"
+			{
+				"primary"
+				{
+					"lmgs"
+					{
+						"weapon_rpd"	"#weapon_rpd"
+						"weapon_rpk"	"#weapon_rpk"
+						"weapon_tul1"	"#weapon_tul1"
+						"weapon_dp28"	"#weapon_dp28"
+						"weapon_rp46"	"#weapon_rp46"
+						"weapon_bren"	"#weapon_bren"
+					}
+					"shotguns"
+					{
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}					
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+					}
+					"slot2"
+					{
+						"weapon_css"	"#weapon_css"
+					}
+				}
+				"equipment"
+				{
+					"weapon_ammobox_vc"	"#weapon_ammobox_vc"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"sniper"
+			{
+				"primary"
+				{
+					"sniperrifles"
+					{
+						"weapon_kar98k_s"	"#weapon_kar98k_s"
+						"weapon_mas49s"	"#weapon_mas49s"
+						"weapon_svt40s"	"#weapon_svt40s"
+						"weapon_m38s"	"#weapon_m38s"
+						"weapon_svd"	"#weapon_svd"
+					}
+					"bolt_actions"
+					{
+						"weapon_m91"	"#weapon_m91"
+					}
+					"shotguns"
+					{
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}					
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_pb"		"#weapon_pb"
+						"weapon_type67"	"#weapon_type67"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_css"	"#weapon_css"
+					}
+					"slot2"
+					{
+						"weapon_css"	"#weapon_css"
+					}
+
+					"limited"	"1"
+				}
+				"equipment"
+				{
+					"weapon_type97"	"#weapon_type97"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"engineer"
+			{
+				"primary"
+				{
+					"smgs"
+					{
+						"weapon_k50m"	"#weapon_k50m"
+						"weapon_mat49"	"#weapon_mat49"
+						"weapon_mat49_sog"	"#weapon_mat49_sog"
+						"weapon_ppsh41"	"#weapon_ppsh41"
+						"weapon_pps43"	"#weapon_pps43"						
+						"weapon_mp40"	"#weapon_mp40"
+						"weapon_mas38"	"#weapon_mas38"
+						"weapon_vz23"	"#weapon_vz23"
+						"weapon_type64"	"#weapon_type64"
+
+						"weapon_vz61e"	"#weapon_vz61e"
+						"weapon_vz61e_sog"	"#weapon_vz61e_sog"
+						"weapon_aps"	"#weapon_aps"						
+					}
+					"shotguns"
+					{
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
+				}
+				"equipment"
+				{
+					"weapon_rpg7"	"#weapon_rpg7"
+					"weapon_rpg2"	"#weapon_rpg2"
+					"weapon_lpo50"	"#weapon_lpo50"
+					"weapon_rg42"	"#weapon_rg42"
+					"weapon_ptrd"	"#weapon_ptrd"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+			"radioman"
+			{
+				"primary"
+				{
+					"assault_rifles"
+					{
+						"weapon_stg44"	"#weapon_stg44"
+						"weapon_type56"	"#weapon_type56"
+					}
+					"carbines"
+					{
+						"weapon_amd65"	"#weapon_amd65"
+						"weapon_sks"	"#weapon_sks"
+						"weapon_type17"	"#weapon_type17"						
+					}
+					"smgs"
+					{
+						"weapon_k50m"	"#weapon_k50m"
+						"weapon_mat49"	"#weapon_mat49"
+						"weapon_mat49_sog"	"#weapon_mat49_sog"
+						"weapon_ppsh41"	"#weapon_ppsh41"
+						"weapon_pps43"	"#weapon_pps43"						
+						"weapon_mp40"	"#weapon_mp40"
+						"weapon_mas38"	"#weapon_mas38"
+						"weapon_vz23"	"#weapon_vz23"
+						"weapon_type64"	"#weapon_type64"
+
+                                                "weapon_vz61e"	"#weapon_vz61e"
+						"weapon_vz61e_sog"	"#weapon_vz61e_sog"
+						"weapon_aps"	"#weapon_aps"		
+					}
+					"shotguns"
+					{
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+					}
+				}
+				"equipment"
+				{
+					"weapon_binoculars_vc"	"#weapon_binoculars_vc"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
+				}
+			}
+		}
+	}
+
+	// special list of weapons which support rifle grenades
+	"riflegrenades" // parent weapon and it's representative entity name
+	{
+		"weapon_m1g"	"weapon_m1g_riflegrenade"
+		"weapon_m2c"	"weapon_m2c_riflegrenade"
+		"weapon_m14"	"weapon_m14_riflegrenade"
+		"weapon_m1903"	"weapon_m1903_riflegrenade"
+		"weapon_m38"	"weapon_m38_riflegrenade"
+		"weapon_type63"	"weapon_type63_riflegrenade"
+		"weapon_kar98k"	"weapon_kar98k_riflegrenade"
+		"weapon_kbkg60" "weapon_kbkg60_riflegrenade"
+		"weapon_mas49"	"weapon_mas49_riflegrenade"
+		"weapon_m91"	"weapon_m91_riflegrenade"
+	}
+
+	// Melee weapon rules
+	// 	melee weapon name	allowed weapons to use with this weapon separated with comma ("all" means all weapons allowed)
+	// ex.:	"weapon_knife"		"weapon_ak47,weapon_akm,weapon_m1903"
+	// or	"weapon_knife"		"all"
+	"melee"
+	{
+		"US"
+		{
+			"weapon_m7_bayonet"	"all"
+			"weapon_m1942"      "all"
+			"weapon_m1905_bayonet"	"weapon_m1g,weapon_m1903,weapon_m37"
+		}
+		"VC"
+		{
+			"weapon_ak47_bayonet"	"all"
+			"weapon_sickle"      	"all"
+			"weapon_type30_bayonet"	"weapon_m38,weapon_kar98k,weapon_m1897"
+		}
+	}
+
+	// Per-team wearable data
+	"wearables"
+	{
+		"hats"
+		{
+			"US"
+			{
+				// "skins" defines which camo indexes are available
+				// if an entry is not defined or -1, the hat cannot be used for that skin
+				"hat_Bandana1"
+				{
+					"model"		"models\player\hats\hat_bandana1.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				"hat_Bandana2"
+				{
+					"model"		"models\player\hats\hat_bandana2.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				"hat_Boonie"
+				{
+					"model"		"models\player\hats\hat_boonie.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				"hat_boonie_rl"
+				{
+					"model"		"models\player\hats\hat_boonie_rl.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				"hat_boonie_r"
+				{
+					"model"		"models\player\hats\hat_boonie_r.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				"hat_boonie_fb"
+				{
+					"model"		"models\player\hats\hat_boonie_fb.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				"hat_boonie_l"
+				{
+					"model"		"models\player\hats\hat_boonie_l.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				"hat_Cowboy"
+				{
+					"model"		"models\player\hats\hat_cowboy.mdl"
+					"skins"		"1,0,2,3,4,5,6"
+				}
+				"hat_patrol"
+				{
+					"model"		"models\player\hats\hat_patrol.mdl"
+					"skins"		"1,0,2,3,4,9,10"
+				}
+				// need a better way to prefab these helmets...
+				"hat_helmetus"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"0,0,0,0,0,0,0"
+					"class"		"assault,medic,gunner,sniper,radioman"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_cig"			"1"
+						"accessory_card"		"2"
+						"accessory_bullet"		"3"
+						"accessory_goggles"		"4"
+						"accessory_repellent"	"5"
+					}
+				}				
+				"hat_helmetus_born"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"3,3,3,3,3,3,3"
+					"class"		"assault,medic,gunner,sniper,radioman"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_cig"			"1"
+						"accessory_card"		"2"
+						"accessory_bullet"		"3"
+						"accessory_goggles"		"4"
+						"accessory_repellent"	"5"
+					}					
+				}	
+				"hat_helmetus_love"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"4,4,4,4,4,4,4"
+					"class"		"assault,medic,gunner,sniper,radioman"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_cig"			"1"
+						"accessory_card"		"2"
+						"accessory_bullet"		"3"
+						"accessory_goggles"		"4"
+						"accessory_repellent"	"5"
+					}					
+				}
+				"hat_helmetus_peace"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"5,5,5,5,5,5,5"
+					"class"		"assault,medic,gunner,sniper,radioman"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_cig"			"1"
+						"accessory_card"		"2"
+						"accessory_bullet"		"3"
+						"accessory_goggles"		"4"
+						"accessory_repellent"	"5"
+					}					
+				}
+				"hat_helmetus_war"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"8,8,8,8,8,8,8"
+					"class"		"assault,medic,gunner,sniper,radioman"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_cig"			"1"
+						"accessory_card"		"2"
+						"accessory_bullet"		"3"
+						"accessory_goggles"		"4"
+						"accessory_repellent"	"5"
+					}					
+				}				
+				"hat_helmetus_cloud"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"1,1,1,1,1,1,1,1"
+					"class"		"assault,medic,gunner,sniper,radioman"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_cig"			"1"
+						"accessory_card"		"2"
+						"accessory_bullet"		"3"
+						"accessory_goggles"		"4"
+						"accessory_repellent"	"5"
+					}			
+				}				
+				"hat_helmetus_mp"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"2,2,2,2,2,2,2"
+					"class"		"assault,medic,gunner,sniper,radioman"
+				}
+				"hat_helmetus_qc"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"6,6,6,6,6,6,6"
+					"class"		"engineer"
+				}
+				"hat_helmetarvn"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"7,7,7,7,7,7,7"
+					"class"		"engineer"
+				}
+				"hat_helmetarvn_ranger2"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"10,10,10,10,10,10,10"
+					"class"		"engineer"
+				}
+				"hat_helmetarvn_ranger3"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"11,11,11,11,11,11,11"
+					"class"		"engineer"
+				}				
+				"hat_helmetarvn_green"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"9,9,9,9,9,9,9"
+					"class"		"engineer"
+				}
+				"hat_helmetarvn_black"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"13,13,13,13,13,13,13"
+					"class"		"engineer"
+				}
+				"hat_helmetarvn_greennet"
+				{
+					"model"		"models\player\hats\hat_helmetus.mdl"
+					"skins"		"12,12,12,12,12,12,12"
+					"class"		"engineer"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_cig"			"1"
+						"accessory_card"		"2"
+						"accessory_bullet"		"3"
+						"accessory_goggles"		"4"
+						"accessory_repellent"	"5"
+					}
+				}				
+				"hat_Berret"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"4,5,6,7,8,9,10"
+				}
+				"hat_Berret_green"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"1,1,1,1,1,1,1"
+					"class"		"assault,medic,gunner,sniper,radioman" // if not specified/blank, all classes are allowed
+				}
+				"hat_Berret_green2"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"3,3,3,3,3,3,3"
+					"class"		"assault,medic,gunner,sniper,radioman"
+				}	
+				"hat_Berret_green3"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"13,13,13,13,13,13,13"
+					"class"		"assault,medic,gunner,sniper,radioman"
+				}
+				"hat_Berret_green4"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"14,14,14,14,14,14,14"
+					"class"		"assault,medic,gunner,sniper,radioman"
+				}
+				"hat_Berret_green5"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"15,15,15,15,15,15,15"
+					"class"		"assault,medic,gunner,sniper,radioman"
+				}				
+				"hat_Berret_arvn2"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"2,2,2,2,2,2,2"			
+					"class"		"engineer"
+				}
+				"hat_Berret_arvn8"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"18,18,18,18,18,18,18"			
+					"class"		"engineer"
+				}
+				"hat_Berret_arvn7"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"17,17,17,17,17,17,17"			
+					"class"		"engineer"
+				}						
+				"hat_Berret_arvn4"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"12,12,12,12,12,12,12"			
+					"class"		"engineer"
+				}
+				"hat_Berret_arvn5"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"16,16,16,16,16,16,16"			
+					"class"		"engineer"
+				}
+				"hat_Berret_arvn6"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"19,19,19,19,19,19,19"			
+					"class"		"engineer"
+				}
+				"hat_Berret_arvn9"
+				{
+					"model"		"models\player\hats\hat_berret.mdl"
+					"skins"		"20,20,20,20,20,20,20"			
+					"class"		"engineer"
+				}				
+			}
+			"VC"
+			{
+				// "skins" defines which camo indexes are available
+				// if an entry is not defined or -1, the hat cannot be used for that skin
+				"hat_Bandana1"
+				{
+					"model"		"models\player\hats\hat_bandana1.mdl"
+					"skins"		"5,6,7,8"
+				}
+				"hat_Bandana2"
+				{
+					"model"		"models\player\hats\hat_bandana2.mdl"
+					"skins"		"5,6,7,8"
+				}
+				"hat_bandana_scarf"
+				{
+					"model"		"models\player\hats\hat_bandana_scarf.mdl"
+					"skins"		"0,1,2,3,4"
+				}				
+				"hat_commie"
+				{
+					"model"		"models\player\hats\hat_commie.mdl"
+					"skins"		"1,0,2,3"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_badge_nva"	"1"
+						"accessory_badge_vc"	"2"
+						"accessory_badge_star"	"3"
+					}					
+				}
+				"hat_vc"
+				{
+					"model"		"models\player\hats\hat_vc.mdl"
+					"skins"		"0,1,2,3,4"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_badge_nva"	"1"
+						"accessory_badge_vc"	"2"
+						"accessory_badge_star"	"3"
+					}					
+				}
+				"hat_vc2"
+				{
+					"model"		"models\player\hats\hat_vc2.mdl"
+					"skins"		"0,1,2,3"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_badge_nva"	"1"
+						"accessory_badge_vc"	"2"
+						"accessory_badge_star"	"3"
+					}				
+				}
+				"hat_coolie"
+				{
+					"model"		"models\player\hats\hat_coolie.mdl"
+					"skins"		"0,0,0,0"
+				}
+				"hat_coolie2"
+				{
+					"model"		"models\player\hats\hat_coolie2.mdl"
+					"skins"		"0,0,0,0"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_badge_star"	"1"
+					}
+				}
+				"hat_coolie3"
+				{
+					"model"		"models\player\hats\hat_coolie3.mdl"
+					"skins"		"0,0,0,0"
+				}				
+				"hat_brp"
+				{
+					"model"		"models\player\hats\hat_brp.mdl"
+					"skins"		"0,1,2,3,4"
+				}
+				"hat_brp2"
+				{
+					"model"		"models\player\hats\hat_brp.mdl"
+					"skins"		"5,6,7,8,9"
+				}				
+				"hat_nva1"
+				{
+					"model"		"models\player\hats\hat_nva1.mdl"
+					"skins"		"0,1,2,3"
+					
+					"body"
+					{
+						"accessory_none"		"0"
+						"accessory_badge_nva"	"1"
+						"accessory_badge_vc"	"2"
+						"accessory_badge_star"	"3"
+					}
+				}		
+				"hat_nva2"
+				{
+					"model"		"models\player\hats\hat_nva2.mdl"
+					"skins"		"0,0,0,0"
+				}
+				"hat_nva3_1"
+				{
+					"model"		"models\player\hats\hat_nva3.mdl"
+					"skins"		"0,0,0,0"
+				}
+				"hat_nva3_2"
+				{ 
+					"model"		"models\player\hats\hat_nva3.mdl"
+					"skins"		"1,1,1,1"
+				}
+				"hat_nva3_3"
+				{
+					"model"		"models\player\hats\hat_nva3.mdl"
+					"skins"		"2,2,2,2"
+				}
+				"hat_nva3_4"
+				{
+					"model"		"models\player\hats\hat_nva3.mdl"
+					"skins"		"3,3,3,3"
+				}
+				"hat_nva3_5"
+				{
+					"model"		"models\player\hats\hat_nva3.mdl"
+					"skins"		"4,4,4,4"
+				}				
+			}
+		}
+		"camouflages"
+		{
+			// NOTE: Order of these affects hat skin order too!
+			"US"
+			{
+				"green_us"
+				{
+					"skin"		"0"
+				}
+				"jungle_us"
+				{
+					"skin"		"1"
+				}
+				"tiger_us"
+				{
+					"skin"		"2"
+				}
+				"beogam_us"
+				{
+					"skin"		"3"
+				}
+				"greenhigh_us"
+				{
+					"skin"		"4"
+				}
+				"erdl_arvn"
+				{
+					"skin"		"5"
+					"class"		"engineer"
+				}	
+				"police_arvn"
+				{
+					"skin"		"6"
+					"class"		"engineer"
+				}
+			}
+			"VC"
+			{
+				"green_vc"
+				{
+					"skin"		"0"
+				}
+				"jungle_vc"
+				{
+					"skin"		"1"
+				}
+				"tiger_vc"
+				{
+					"skin"		"2"
+				}
+				"color_vc" // civilian
+				{
+					"skin"		"3"
+					"color"		"1"
+				}
+				"parachute_vc"
+				{
+					"skin"		"4"
+					"class"		"sniper,engineer"
+					"hats"		"hat_bandana_scarf,hat_vc,hat_brp,hat_brp2"
+				}
+			}
+		}
+		"glasses"
+		{
+			"US"
+			{
+				"glasses_normal" "models\player\glasses\glasses_us.mdl"
+				"sunglasses"	"models\player\glasses\glasses_us.mdl"
+			}
+			"VC"
+			{
+				"glasses_normal" "models\player\glasses\glasses_vc.mdl"
+				"sunglasses"	"models\player\glasses\glasses_vc.mdl"
+			}
+		}
+		"facepaint"
+		{
+			"US"
+			{
+				"jungle_1"	
+				{
+					"transform"	"scale 2.5 2.2 translate -0.1 -0.98 rotate 0.0"
+					"index"		"1"
+				}
+				"jungle_2"
+				{
+					"transform"	"scale 2.5 2.2 translate -0.1 -0.98 rotate 0.0"
+					"index"		"2"
+				}
+				"jungle_3"
+				{
+					"transform"	"scale 2.5 2.2 translate -0.1 -0.98 rotate 0.0"
+					"index"		"3"
+				}			
+				"coal"	
+				{
+					"transform"	"scale 2.8 2.2 translate -0.1 -0.9 rotate 0.0"
+					"index"		"4"
+				}
+				"mud"
+				{
+					"transform"	"scale 3.2 2.5 translate -0.2 -1.1 rotate 0.0"
+					"index"		"5"
+				}
+				"white"
+				{
+					"transform"	"scale 2.8 2.2 translate -0.1 -0.9 rotate 0.0"
+					"index"		"6"
+				}
+			}
+			"VC"
+			{
+				"coal"	
+				{
+					"transform"	"scale 2.8 2.2 translate -0.1 -0.9 rotate 0.0"
+					"index"		"4"
+				}
+				"mud"
+				{
+					"transform"	"scale 3.2 2.5 translate -0.2 -1.1 rotate 0.0"
+					"index"		"5"
+				}
+			}
+		}		
+	}
+}
