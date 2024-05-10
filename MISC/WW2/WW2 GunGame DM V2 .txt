@@ -1,0 +1,253 @@
+				"GunGameDeathmatch"
+				{
+					"value"				"10"
+					"nameID"			"#vietnam_GameMode_GungameDeathmatch"
+					"descID"			"#vietnam_GameModeGungameDeathmatchDesc"
+					"descID_List"			"#vietnam_GameModeGungameDeathmatchDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						"exec" "gungamedeathmatch.cfg"
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+					"category1" // Assault Rifles
+						{
+							"kills" "1"
+							"weapons"
+							{
+
+								"1" "weapon_stg44"
+								"2" "weapon_stg44s"		
+	
+							}
+						}
+						"category2" // SubMachineGuns
+						{
+							"kills" "8"
+							"weapons"
+							{
+								"1" "weapon_m45"
+								"2" "weapon_m1a1"
+								"3" "weapon_m1a1_sog"
+								"4" "weapon_m3a1"
+								"5" "weapon_m1928"
+								"6" "weapon_mas38"
+								"7" "weapon_mp40"	
+								"8" "weapon_pps43"
+								"9" "weapon_ppsh41"
+								"10" "weapon_ppsh41d"
+								"11" "weapon_stenmk2"						
+							}
+						}
+						"category3" // SubMachineGuns Silencers
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m45_sog"
+								"2" "weapon_m3a1_sog"
+								"3" "weapon_stenmk2_sog"							
+							}
+						}
+						"category4" // Machine Guns
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"1" "weapon_bren"
+								"2" "weapon_dp28"
+								"3" "weapon_m1918_bar"
+								"4" "weapon_m1919a6"
+							}
+						}
+						"category5" // Battle Rifles
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m1g"
+								"2" "weapon_m1918"
+								"3" "weapon_svt40"							
+							}
+						}
+						"category6" // Auto+Carbines
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m2c"
+								"2" "weapon_m2c_sog"
+							}
+						}
+						"category7" // Shotguns
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"1" "weapon_m870"
+								"2" "weapon_robust"
+								"3" "weapon_robust_sog"
+								"4" "weapon_m1897"
+								"5" "weapon_m37"							
+							}
+						}
+						"category8" // Sniper Rifles
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"1" "weapon_kar98k_s"
+								"2" "weapon_m1gs"
+								"3" "weapon_m38s"
+								"4" "weapon_svt40s"
+								"5" "weapon_m1903s"							
+							}
+						}
+						"category9" // Bolt Action
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"1" "weapon_kar98k"
+								"2" "weapon_m1903"
+								"3" "weapon_m38"
+								"4" "weapon_m91"						
+							}
+						}
+						"category10" // Semi+Carbines
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m1c"
+								"2" "weapon_m1c_sog"
+								"3" "weapon_type17"						
+							}
+						}
+						"category11" // Dual Pistols
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"1" "weapon_dual_mk22"
+								"2" "weapon_dual_mle1935"
+								"3" "weapon_dual_tt33"
+								"4" "weapon_dual_m1911"
+								"5" "weapon_dual_p38"
+								"6" "weapon_dual_baby_browning"
+								"7" "weapon_dual_type14"								
+								"8" "weapon_dual_hdm"		
+							}
+						}
+						"category12" // Dual Revolvers
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_dual_m1895"
+								"2" "weapon_dual_m1917"	
+								"3" "weapon_dual_swm10"								
+							}
+						}		
+						"category13" // Pistols
+						{
+							"kills" "4"
+							"weapons"
+							{
+								"1" "weapon_mk22"
+								"2" "weapon_mle1935"
+								"3" "weapon_tt33"
+								"4" "weapon_m1911"
+								"5" "weapon_p38"
+								"6" "weapon_baby_browning"
+								"7" "weapon_type14"
+								"8" "weapon_c96"	
+								"9" "weapon_hdm"									
+							}
+						}
+						"category14" // Revolvers
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"1" "weapon_m1895"
+								"2" "weapon_swm10"
+								"3" "weapon_m1917"					
+							}
+						}
+						"category15" // Rifle Grenades
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m1c_riflegrenade"
+								"2" "weapon_m1g_riflegrenade"
+								"3" "weapon_m2c_riflegrenade"
+								"4" "weapon_m38_riflegrenade"
+								"5" "weapon_m91_riflegrenade"
+								"6" "weapon_m1903_riflegrenade"
+								"7" "weapon_kar98k_riflegrenade"
+							}
+						}
+						"category16" // Special Throwables (Gas, molotov and Timed Throwables)
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_dynamite"
+								"2" "weapon_molotov"					
+							}
+						}
+						"category17" // Miscellaneous(binocs,flareguns,AP mines,PTRD,VC Pistol)
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m8"
+								"2" "weapon_type97"						
+								"3" "weapon_ptrd"
+								"4" "weapon_crossbow"									
+							}
+						}
+						"category18" // Melee  
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"1" "weapon_m7_bayonet"
+								"2" "weapon_m1905_bayonet"
+								"3" "weapon_sickle"
+								"4" "weapon_m1942"
+								"5" "weapon_fists"	
+								"6" "weapon_type30_bayonet"								
+							}
+						}						
+					}
+				}
