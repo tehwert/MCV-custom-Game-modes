@@ -160,14 +160,13 @@
 							"kills" "4"
 							"weapons"
 							{
-								"1" "weapon_dual_mk22"
+								"1" "weapon_dual_hdm"
 								"2" "weapon_dual_mle1935"
 								"3" "weapon_dual_tt33"
 								"4" "weapon_dual_m1911"
 								"5" "weapon_dual_p38"
 								"6" "weapon_dual_baby_browning"
-								"7" "weapon_dual_type14"								
-								"8" "weapon_dual_hdm"		
+								"7" "weapon_dual_type14"										
 							}
 						}
 						"category12" // Dual Revolvers
@@ -185,15 +184,14 @@
 							"kills" "4"
 							"weapons"
 							{
-								"1" "weapon_mk22"
+								"1" "weapon_hdm"
 								"2" "weapon_mle1935"
 								"3" "weapon_tt33"
 								"4" "weapon_m1911"
 								"5" "weapon_p38"
 								"6" "weapon_baby_browning"
 								"7" "weapon_type14"
-								"8" "weapon_c96"	
-								"9" "weapon_hdm"									
+								"8" "weapon_c96"										
 							}
 						}
 						"category14" // Revolvers
@@ -226,7 +224,8 @@
 							"weapons"
 							{
 								"1" "weapon_dynamite"
-								"2" "weapon_molotov"					
+								"2" "weapon_molotov"	
+								"3" "weapon_mk3a2"								
 							}
 						}
 						"category17" // Miscellaneous(binocs,flareguns,AP mines,PTRD,VC Pistol)
