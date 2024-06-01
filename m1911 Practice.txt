@@ -1,7 +1,7 @@
-				"Shotgun Training" // Team-based gungame
+				"m1911 Practice" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Shotgun Training"
+					"nameID"			"#vietnam_GameMode_m1911 Practice"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -35,45 +35,53 @@
 					}
 
 					"weaponprogression"
-					{				
+					{						
 						"category1"
 						{
-							"kills" "20"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m1897"
+								"0" weapon_m1911
 							}
 						}
 						"category2"
 						{
-							"kills" "20"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m37"
+								"0" weapon_m1911
 							}
 						}
 						"category3"
 						{
-							"kills" "20"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_m870"
+								"0" weapon_m1911
 							}
 						}
 						"category4"
 						{
-							"kills" "20"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_robust"
+								"0" weapon_m1911
 							}
 						}
 						"category5"
 						{
-							"kills" "20"
+							"kills" "10"
 							"weapons"
 							{
-								"0" "weapon_robust_sog"
+								"0" weapon_m1911
+							}
+						}
+						"category6"
+						{
+							"kills" "10"
+							"weapons"
+							{
+								"0" weapon_m1911
 							}
 						}
 					}

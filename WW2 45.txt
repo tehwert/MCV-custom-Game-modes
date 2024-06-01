@@ -50,7 +50,7 @@
 						}
 						"category1"
 						{
-							"kills" "7"
+							"kills" "8"
 							"weapons"
 							{
 								"0" "weapon_m1a1"
@@ -82,7 +82,7 @@
 								"0" "weapon_kar98k"
 								"1" "weapon_m38"
 								"2" "weapon_m1903"
-								"3" "weapon_stg44"
+								"3" "weapon_m91"
 							}
 						}
 						"category4"
@@ -110,12 +110,13 @@
 						}
 						"category6"
 						{
-							"kills" "2"
+							"kills" "3"
 							"weapons"
 							{
 								"0" "weapon_m1g"
 								"1" "weapon_m1918"
 								"2" "weapon_svt40"
+								"3" "weapon_stg44"								
 							}
 						}
 						"category7"
@@ -153,7 +154,7 @@
 						}
 						"category10"
 						{
-							"kills" "8"
+							"kills" "6"
 							"weapons"
 							{
 								"0" "weapon_dual_baby_browning"
