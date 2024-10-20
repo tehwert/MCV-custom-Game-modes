@@ -1,7 +1,7 @@
-				"Template LONG" // Team-based gungame
+				"Action Grenade Launchers" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Template LONG"
+					"nameID"			"#vietnam_GameMode_Action_Grenade_Launchers"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"

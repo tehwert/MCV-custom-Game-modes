@@ -49,7 +49,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_hdm"
+								"0" "weapon_m1911"
 							}
 						}
 						"category3"
@@ -57,7 +57,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_m1911"
+								"0" "weapon_mk22"
 							}
 						}
 						"category4"
@@ -65,7 +65,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_mk22"
+								"0" "weapon_mle1935"
 							}
 						}
 						"category5"
@@ -73,7 +73,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_mk22_mod0"
+								"0" "weapon_p38"
 							}
 						}
 						"category6"
@@ -81,7 +81,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_mle1935"
+								"0" "weapon_pm"
 							}
 						}
 						"category7"
@@ -89,7 +89,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_p38"
+								"0" "weapon_tt33"
 							}
 						}
 						"category8"
@@ -97,7 +97,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_pb"
+								"0" "weapon_type14"
 							}
 						}
 						"category9"
@@ -105,7 +105,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_pm"
+								"0" "weapon_hp"
 							}
 						}
 						"category10"
@@ -113,7 +113,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_tt33"
+								"0" "weapon_pb"
 							}
 						}
 						"category11"
@@ -121,7 +121,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_type14"
+								"0" "weapon_type67"
 							}
 						}
 						"category12"
@@ -129,7 +129,7 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_type67"
+								"0" "weapon_mk22_mod0"
 							}
 						}
 						"category13"
@@ -137,10 +137,26 @@
 							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_baby_browning"
+								"0" "weapon_hdm"
 							}
 						}
 						"category14"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_ppk"
+							}
+						}
+						"category15"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_baby_browning"
+							}
+						}
+						"category16"
 						{
 							"kills" "1"
 							"weapons"

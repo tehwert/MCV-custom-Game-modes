@@ -1,7 +1,7 @@
-				"VFC" // Team-based gungame
+				"QSPR Training" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_VFC"
+					"nameID"			"#vietnam_GameMode_QSPR Training"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -20,7 +20,6 @@
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
-					"exec" "gungame60.cfg"
 					}
 					
 					// Map groups for offline modes
@@ -36,127 +35,85 @@
 					}
 
 					"weaponprogression"
-					{
-						"category0"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m9a1"
-							}
-						}
-						"category0a"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m9a1"
-							}
-						}
-						"category0b"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m9a1"
-							}
-						}
-						"category0c"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m9a1"
-							}
-						}
-						"category0d"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_m9a1"
-							}
-						}
+					{				
 						"category1"
 						{
-							"kills" "2"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_lpo50"
-							}
-						}
-						"category1a"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_lpo50"
-							}
-						}
-						"category1b"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_lpo50"
-							}
-						}
-						"category1c"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_lpo50"
-							}
-						}
-						"category1d"
-						{
-							"kills" "2"
-							"weapons"
-							{
-								"0" "weapon_lpo50"
+								"0" "weapon_qspr"
 							}
 						}
 						"category2"
 						{
-							"kills" "1"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_molotov"
+								"0" "weapon_qspr"
 							}
-							
-						}
-						"category2"
-						{
-							"kills" "1"
-							"weapons"
-							{
-								"0" "weapon_molotov"
-							}
-							
 						}
 						"category3"
 						{
-							"kills" "2"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_m8"
+								"0" "weapon_qspr"
 							}
 						}
 						"category4"
 						{
-							"kills" "2"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_type97"
+								"0" "weapon_qspr"
 							}
 						}
 						"category5"
 						{
-							"kills" "1"
+							"kills" "5"
 							"weapons"
 							{
-								"0" "weapon_xm202"
+								"0" "weapon_qspr"
+							}
+						}
+						"category6"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_qspr"
+							}
+						}
+						"category7"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_qspr"
+							}
+						}
+						"category8"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_qspr"
+							}
+						}
+						"category9"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_qspr"
+							}
+						}
+						"category10"
+						{
+							"kills" "5"
+							"weapons"
+							{
+								"0" "weapon_qspr"
 							}
 						}
 					}

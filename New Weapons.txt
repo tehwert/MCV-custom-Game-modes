@@ -1,7 +1,7 @@
-				"SMG Supremacy" // Team-based gungame
+				"New Weapons" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_SMG Supremacy"
+					"nameID"			"#vietnam_GameMode_New Weapons"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -35,53 +35,53 @@
 					}
 
 					"weaponprogression"
-					{
-						"category1"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_k50m"
-							}
-						}
-						"category2"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_m1a1"
-							}
-						}
-						"category3"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_m1a1_sog"
-							}
-						}
-						"category4"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_m3a1"
-							}
-						}
-						"category5"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_m3a1_sog"
-							}
-						}
+					{				
+//						"category1"
+//						{
+//							"kills" "4"
+//							"weapons"
+//							{
+//								"0" "weapon_l1a1"
+//							}
+//						}
+  						"category2"
+  						{
+  							"kills" "4"
+  							"weapons"
+  							{
+  								"0" "weapon_l1a1_sog"
+  							}
+  						}
+  						"category3"
+  						{
+  							"kills" "4"
+  							"weapons"
+  							{
+  								"0" "weapon_l2a1"
+  							}
+  						}
+//						"category4"
+//						{
+//							"kills" "4"
+//							"weapons"
+//							{
+//								"0" "weapon_m16_xm148"
+//							}
+//						}
+//						"category5"
+//						{
+//							"kills" "4"
+//							"weapons"
+//							{
+//								"0" "weapon_m16a1_sog"
+//							}
+//						}
 						"category6"
 						{
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m12"
+								"0" "weapon_mk4mod0"
 							}
 						}
 						"category7"
@@ -89,7 +89,7 @@
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m45"
+								"0" "weapon_type58"
 							}
 						}
 						"category8"
@@ -97,7 +97,7 @@
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m45_sog"
+								"0" "weapon_type63_sog"
 							}
 						}
 						"category9"
@@ -105,7 +105,7 @@
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m50"
+								"0" "weapon_f1"
 							}
 						}
 						"category10"
@@ -113,7 +113,7 @@
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_m1928"
+								"0" "weapon_owen_gun"
 							}
 						}
 						"category11"
@@ -121,7 +121,7 @@
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_mas38"
+								"0" "weapon_sterling"
 							}
 						}
 						"category12"
@@ -129,47 +129,55 @@
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_mat49"
+								"0" "weapon_sterling_sog"
 							}
 						}
-						"category13"
+//						"category13"
+//						{
+//							"kills" "4"
+//							"weapons"
+//							{
+//								"0" "weapon_xm148"
+//							}
+//						}
+						"category9A"
 						{
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_mat49_sog"
+								"0" "weapon_dual_pm63"
 							}
 						}
-						"category14"
+					"category9AB"
 						{
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_mp40"
+								"0" "weapon_pm63"
 							}
 						}
-						"category15"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_pps43"
-							}
-						}
-						"category16"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_ppsh41"
-							}
-						}
+//						"category14"
+//						{
+//							"kills" "4"
+//							"weapons"
+//							{
+//								"0" "weapon_dual_hp"
+//							}
+//						}
+//						"category15"
+//						{
+//							"kills" "4"
+//							"weapons"
+//							{
+//								"0" "weapon_dual_ppk"
+//							}
+//						}
 						"category17"
 						{
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_ppsh41d"
+								"0" "weapon_hp"
 							}
 						}
 						"category18"
@@ -177,63 +185,49 @@
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_stenmk2"
+								"0" "weapon_ppk"
 							}
 						}
-						"category19"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_stenmk2_sog"
-							}
-						}
-						"category20"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_swm76"
-							}
-						}
+//						"category21"
+//						{
+//							"kills" "4"
+//							"weapons"
+//							{
+//								"0" "weapon_dual_qspr"
+//							}
+//						}
 						"category21"
 						{
 							"kills" "4"
 							"weapons"
 							{
-								"0" "weapon_swm76_sog"
+								"0" "weapon_qspr"
 							}
 						}
-						"category22"
+						"category20"
 						{
-							"kills" "4"
+							"kills" "2"
 							"weapons"
 							{
-								"0" "weapon_type64"
+								"0" "weapon_welrod"
 							}
 						}
-						"category23"
+						"category21"
 						{
-							"kills" "4"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_uzi"
+								"0" "weapon_v40"
+								"1" "weapon_m34"								
 							}
 						}
-						"category24"
+						"category21"
 						{
-							"kills" "4"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_uzi_sog"
-							}
-						}
-						"category25"
-						{
-							"kills" "4"
-							"weapons"
-							{
-								"0" "weapon_vz23"
+								"0" "weapon_shovel_vc"
+								"1" "weapon_shovel_us"
 							}
 						}
 					}

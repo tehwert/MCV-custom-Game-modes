@@ -366,7 +366,8 @@
 							{
 								"0" "weapon_c4"
 								"1" "weapon_dynamite"
-								"2" "weapon_molotov"								
+								"2" "weapon_molotov"
+								"8" "weapon_m6a1"								
 							}
 						}
 						"category23"
@@ -390,8 +391,7 @@
 								"4" "weapon_m8"
 								"5" "weapon_type97"
 						//		"6" "weapon_rg42"
-						//		"7" "weapon_m16mine"
-								"8" "weapon_m6a1"
+						//		"7" "weapon_m16mine"						
 							}
 						}						
 						"category25"

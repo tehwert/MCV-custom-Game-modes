@@ -1,7 +1,7 @@
-				"Template LONG" // Team-based gungame
+				"m1917 Practice Fanning" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_Template LONG"
+					"nameID"			"#vietnam_GameMode_m1917 Practice Fanning"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -41,7 +41,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_gp25"
+								"0" weapon_m1917
 							}
 						}
 						"category2"
@@ -49,7 +49,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_gp25"
+								"0" weapon_m1917
 							}
 						}
 						"category3"
@@ -57,7 +57,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_gp25"
+								"0" weapon_m1917
 							}
 						}
 						"category4"
@@ -65,7 +65,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_gp25"
+								"0" weapon_m1917
 							}
 						}
 						"category5"
@@ -73,7 +73,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_gp25"
+								"0" weapon_m1917
 							}
 						}
 						"category6"
@@ -81,7 +81,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_gp25"
+								"0" weapon_m1917
 							}
 						}
 						"category7"
@@ -89,7 +89,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_gp25"
+								"0" weapon_m1917
 							}
 						}
 						"category8"
@@ -97,7 +97,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m203"
+								"0" weapon_m1917
 							}
 						}
 						"category9"
@@ -105,7 +105,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m203"
+								"0" weapon_m1917
 							}
 						}
 						"category10"
@@ -113,7 +113,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m203"
+								"0" weapon_m1917
 							}
 						}
 						"category11"
@@ -121,7 +121,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m203"
+								"0" weapon_m1917
 							}
 						}
 						"category12"
@@ -129,7 +129,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m203"
+								"0" weapon_m1917
 							}
 						}
 						"category13"
@@ -137,7 +137,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m203"
+								"0" weapon_m1917
 							}
 						}
 						"category14"
@@ -145,7 +145,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m203"
+								"0" weapon_m1917
 							}
 						}
 						"category15"
@@ -153,7 +153,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_xm148"
+								"0" weapon_m1917
 							}
 						}
 						"category16"
@@ -161,7 +161,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_xm148"
+								"0" weapon_m1917
 							}
 						}
 						"category17"
@@ -169,7 +169,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_xm148"
+								"0" weapon_m1917
 							}
 						}
 						"category18"
@@ -177,7 +177,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_xm148"
+								"0" weapon_m1917
 							}
 						}
 						"category19"
@@ -185,7 +185,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_xm148"
+								"0" weapon_m1917
 							}
 						}
 						"category20"
@@ -193,7 +193,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_xm148"
+								"0" weapon_m1917
 							}
 						}
 						"category21"
@@ -201,7 +201,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_xm148"
+								"0" weapon_m1917
 							}
 						}
 						"category22"
@@ -209,7 +209,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" weapon_m1917
 							}
 						}
 						"category23"
@@ -217,7 +217,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" weapon_m1917
 							}
 						}
 						"category24"
@@ -225,7 +225,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" weapon_m1917
 							}
 						}
 						"category25"
@@ -233,7 +233,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" weapon_m1917
 							}
 						}
 						"category26"
@@ -241,7 +241,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" weapon_m1917
 							}
 						}
 						"category27"
@@ -249,7 +249,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" weapon_m1917
 							}
 						}
 						"category28"
@@ -257,7 +257,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_rpg2"
+								"0" weapon_m1917
 							}
 						}
 						"category29"
@@ -265,7 +265,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category30"
@@ -273,7 +273,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category31"
@@ -281,7 +281,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category32"
@@ -289,7 +289,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category33"
@@ -297,7 +297,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category34"
@@ -305,7 +305,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category35"
@@ -313,7 +313,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category36"
@@ -321,7 +321,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category37"
@@ -329,7 +329,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category38"
@@ -337,7 +337,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category39"
@@ -345,7 +345,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" weapon_m1917
 							}
 						}
 						"category40"
@@ -353,7 +353,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category41"
@@ -361,7 +361,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category42"
@@ -369,7 +369,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category43"
@@ -377,7 +377,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category44"
@@ -385,7 +385,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category45"
@@ -393,7 +393,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category46"
@@ -401,7 +401,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category47"
@@ -409,7 +409,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category48"
@@ -417,7 +417,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category49"
@@ -425,87 +425,87 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_m79_sog"
+								"0" weapon_m1917
 							}
 						}
 						"category50"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category51"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category52"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category53"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category54"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category55"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category56"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category57"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category58"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category59"
 						{
-							"kills" "2"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 						"category60"
@@ -513,7 +513,7 @@
 							"kills" "1"
 							"weapons"
 							{
-								"0" "weapon_china_lake"
+								"0" weapon_m1917
 							}
 						}
 					}

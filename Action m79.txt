@@ -41,7 +41,7 @@
 							"kills" "54"
 							"weapons"
 							{
-								"0" "weapon_m79"
+								"0" "chicken"
 								"1" "weapon_m79"
 								"2" "weapon_m79"
 								"3" "weapon_m79"
