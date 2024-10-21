@@ -13,301 +13,826 @@
 			{
 				"primary"
 				{									
-
+					"assault_rifles"
+					{
+						"weapon_m16a1"	"#weapon_m16a1"
+						"weapon_m601"	"#weapon_m601"
+						"weapon_m16a1_m203"	"#weapon_m16a1_m203"
+						"weapon_t223"	"#weapon_t223"
+						"weapon_stoner63_r"	"#weapon_stoner63_r"
+					}
+					"battle_rifles"
+					{
+						"weapon_m1918"	"#weapon_m1918"
+						"weapon_m1g"	"#weapon_m1g"
+						"weapon_m14"	"#weapon_m14"	
+					}		
+					"bolt_actions"
+					{
+						"weapon_m1903"	"#weapon_m1903"
+					}					
+					"carbines"
+					{
+						"weapon_car15"	"#weapon_car15"
+						"weapon_xm177"	"#weapon_xm177"
+						"weapon_car15s"	"#weapon_car15s"
+						"weapon_m607"	"#weapon_m607"
+						"weapon_m607s"	"#weapon_m607s"
+						"weapon_stoner63_c"	"#weapon_stoner63_c"
+						"weapon_m2c"	"#weapon_m2c"
+						"weapon_m2c_sog"	"#weapon_m2c_sog"
+					}
+					"smgs"
+					{
+						"weapon_m1928"	"#weapon_m1928"
+					}
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18"	"#weapon_m18"
+						"weapon_m18r"	"#weapon_m18r"
+						"weapon_m6a1"	"#weapon_m6a1"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18"	"#weapon_m18"
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
+					"weapon_m9a1"	"#weapon_m9a1"
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"medic"
 			{
 				"primary"
-				{									
-				
+				{
+					"carbines"
+					{
+						"weapon_m1c"	"#weapon_m1c"
+						"weapon_m1c_sog"	"#weapon_m1c_sog"							
+					}
+					"smgs"
+					{
+						"weapon_m1a1"	"#weapon_m1a1"
+						"weapon_m1a1_sog"	"#weapon_m1a1_sog"
+						"weapon_m3a1"	"#weapon_m3a1"
+						"weapon_m3a1_sog"	"weapon_m3a1_sog"
+						"weapon_stenmk2"	"#weapon_stenmk2"
+						"weapon_stenmk2_sog"	"#weapon_stenmk2_sog"
+						"weapon_m45"	"#weapon_m45"
+						"weapon_m45_sog"	"#weapon_m45_sog"				
+						"weapon_swm76"	"#weapon_swm76"
+						"weapon_swm76_sog"	"#weapon_swm76_sog"
+						"weapon_m50"	"#weapon_m50"
+						"weapon_m12"	"#weapon_m12"
+						"weapon_uzi"	"#weapon_uzi"
+						"weapon_uzi_sog"	"#weapon_uzi_sog"					
+						"weapon_mac10"	"#weapon_mac10"
+						"weapon_mac10_sog"	"#weapon_mac10_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18r"	"#weapon_m18r"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m18"	"#weapon_m18"
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
+					"weapon_medicbox"	"#weapon_medicbox"
+					"weapon_m9a1"	"#weapon_m9a1"
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"gunner"
 			{
 				"primary"
-				{									
-				
+				{
+					"lmgs"
+					{
+						"weapon_m60"	"#weapon_m60"
+						"weapon_m60b"	"#weapon_m60b"						
+						"weapon_stoner63"	"#weapon_stoner63"
+						"weapon_stoner63_l"	"#weapon_stoner63_l"
+						"weapon_stoner63_b"	"#weapon_stoner63_b"
+						"weapon_m1918_bar"	"#weapon_m1918_bar"
+						"weapon_rpd_sog"	"#weapon_rpd_sog"
+						"weapon_m1919a6"	"#weapon_m1919a6"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_swm10"	"#weapon_swm10"
+
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"
+						"weapon_m18r"	"#weapon_m18r"	
+						"weapon_molotov" "#weapon_molotov"						
+					}
+					"slot2"
+					{
+						"weapon_m18"	"#weapon_m18"
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
+					"weapon_ammobox_us"	"#weapon_ammobox_us"
+					"weapon_m9a1"	"#weapon_m9a1"					
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"sniper"
 			{
-					"primary"
-				{									
-				
+				"primary"
+				{
+					"sniperrifles"
+					{
+						"weapon_m1903s"	"#weapon_m1903s"
+						"weapon_m21s"	"#weapon_m21s"
+						"weapon_m1gs"	"#weapon_m1gs"
+						"weapon_m40"	"#weapon_m40"
+						"weapon_m656"	"#weapon_m656"
+					}
+					"bolt_actions"
+					{
+						"weapon_m1903"	"#weapon_m1903"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_mk22_mod0"	"#weapon_mk22_mod0"
+						"weapon_hdm"		"#weapon_hdm"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+						"weapon_mk3a2"	"#weapon_mk3a2"	
+						"weapon_m18r"	"#weapon_m18r"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m18"	"#weapon_m18"
+						"weapon_molotov" "#weapon_molotov"
+					}
+
+					"limited"	"2"
 				}
 				"equipment"
 				{
-
+					"weapon_m9a1"	"#weapon_m9a1"
+					"weapon_m8"		"#weapon_m8"
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"engineer"
 			{
 				"primary"
-				{									
-				
+				{
+					"smgs"
+					{
+						"weapon_m1a1"	"#weapon_m1a1"
+						"weapon_m1a1_sog"	"#weapon_m1a1_sog"
+						"weapon_m3a1"	"#weapon_m3a1"
+						"weapon_m3a1_sog"	"weapon_m3a1_sog"
+						"weapon_stenmk2"	"#weapon_stenmk2"
+						"weapon_stenmk2_sog"	"#weapon_stenmk2_sog"
+						"weapon_m45"	"#weapon_m45"
+						"weapon_m45_sog"	"#weapon_m45_sog"				
+						"weapon_swm76"	"#weapon_swm76"
+						"weapon_swm76_sog"	"#weapon_swm76_sog"
+						"weapon_m50"	"#weapon_m50"
+						"weapon_m12"	"#weapon_m12"
+						"weapon_uzi"	"#weapon_uzi"
+						"weapon_uzi_sog"	"#weapon_uzi_sog"					
+						"weapon_mac10"	"#weapon_mac10"
+						"weapon_mac10_sog"	"#weapon_mac10_sog"
+					}
+					"shotguns"
+					{
+						"weapon_m870"	"#weapon_m870"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+
+					"limited"	"2"
 				}
 				"equipment"
 				{
-
+					"weapon_m72"	"#weapon_m72"
+					"weapon_m79"	"#weapon_m79"
+					"weapon_m79_sog"	"#weapon_m79_sog"
+					"weapon_m9a1"	"#weapon_m9a1"
+					"weapon_m16mine"	"#weapon_m16mine"
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"radioman"
 			{
 				"primary"
-				{									
-				
+				{
+					"carbines"
+					{
+						"weapon_stoner63_c"	"#weapon_stoner63_c"
+						"weapon_car15"	"#weapon_car15"
+						"weapon_xm177"	"#weapon_xm177"
+						"weapon_m607"	"#weapon_m607"
+						"weapon_m1c"	"#weapon_m1c"
+						"weapon_m1c_sog"	"#weapon_m1c_sog"
+					}	
+					"smgs"
+					{
+						"weapon_m1a1"	"#weapon_m1a1"
+						"weapon_m1a1_sog"	"#weapon_m1a1_sog"
+						"weapon_m3a1"	"#weapon_m3a1"
+						"weapon_m3a1_sog"	"weapon_m3a1_sog"
+						"weapon_stenmk2"	"#weapon_stenmk2"
+						"weapon_stenmk2_sog"	"#weapon_stenmk2_sog"
+						"weapon_m45"	"#weapon_m45"
+						"weapon_m45_sog"	"#weapon_m45_sog"				
+						"weapon_swm76"	"#weapon_swm76"
+						"weapon_swm76_sog"	"#weapon_swm76_sog"
+						"weapon_m50"	"#weapon_m50"
+						"weapon_m12"	"#weapon_m12"
+						"weapon_uzi"	"#weapon_uzi"
+						"weapon_uzi_sog"	"#weapon_uzi_sog"					
+						"weapon_mac10"	"#weapon_mac10"
+						"weapon_mac10_sog"	"#weapon_mac10_sog"
+					}
+					"shotguns"
+					{
+						"weapon_m870"	"#weapon_m870"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_mk22"	"#weapon_mk22"
+						"weapon_m1911"	"#weapon_m1911"
+						"weapon_baby_browning"	"#weapon_baby_browning"
+					}
+					"revolvers"
+					{
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_swm10"	"#weapon_swm10"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+
+					"limited"	"2"
 				}
 				"equipment"
 				{
-
+					"weapon_binoculars_us"	"#weapon_binoculars_us"
+					"weapon_m9a1"	"#weapon_m9a1"
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
+			}
 		}
 		"VC"
 		{
 			"assault"
 			{
 				"primary"
-				{									
-				
+				{
+					"assault_rifles"
+					{
+						"weapon_ak47"	"#weapon_ak47"
+						"weapon_type56"	"#weapon_type56"
+						"weapon_akm"	"#weapon_akm"
+						"weapon_md63"	"#weapon_md63"
+						"weapon_kbkg60"	"#weapon_kbkg60"
+						"weapon_vz58"	"#weapon_vz58"
+						"weapon_stg44"	"#weapon_stg44"
+						"weapon_stg44s"	"#weapon_stg44s"	
+					}
+                                        "battle_rifles"
+					{
+			                        "weapon_mas49"	"#weapon_mas49"
+						"weapon_svt40"	"#weapon_svt40"
+					}
+					"bolt_actions"
+					{
+						"weapon_m91"	"#weapon_m91"
+					}	
+					"carbines"
+					{
+						"weapon_amd65"	"#weapon_amd65"
+						"weapon_m38"	"#weapon_m38"
+						"weapon_type63"	"#weapon_type63"
+						"weapon_kar98k"	"#weapon_kar98k"
+					}
+					"smgs"
+					{
+						"weapon_ppsh41d"	"#weapon_ppsh41d"
+					}
+					"shotguns"
+					{
+						"weapon_m1897"	"#weapon_m1897"
+					}		
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}			
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_css"	"#weapon_css"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_css"	"#weapon_css"
+						"weapon_molotov" "#weapon_molotov"
+						
+					}
 				}
-				"equipment"
+				"equipment"			
 				{
-
+				"weapon_lpo50"	"#weapon_lpo50"	
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"medic"
 			{
 				"primary"
-				{									
-				
+				{
+					"carbines"
+					{
+						"weapon_sks"	"#weapon_sks"
+						"weapon_type17"	"#weapon_type17"						
+					}
+					"smgs"
+					{
+						"weapon_k50m"	"#weapon_k50m"
+						"weapon_mat49"	"#weapon_mat49"
+						"weapon_mat49_sog"	"#weapon_mat49_sog"
+						"weapon_ppsh41"	"#weapon_ppsh41"
+						"weapon_pps43"	"#weapon_pps43"						
+						"weapon_mp40"	"#weapon_mp40"
+						"weapon_mas38"	"#weapon_mas38"
+						"weapon_vz23"	"#weapon_vz23"
+						"weapon_type64"	"#weapon_type64"
+
+						"weapon_vz61e"	"#weapon_vz61e"
+						"weapon_vz61e_sog"	"#weapon_vz61e_sog"
+						"weapon_aps"	"#weapon_aps"					
+					}
+
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_css"	"#weapon_css"
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
+					"weapon_medicbox"	"#weapon_medicbox"
+					"weapon_lpo50"	"#weapon_lpo50"					
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"gunner"
 			{
 				"primary"
-				{									
-				
+				{
+					"lmgs"
+					{
+						"weapon_rpd"	"#weapon_rpd"
+						"weapon_rpk"	"#weapon_rpk"
+						"weapon_tul1"	"#weapon_tul1"
+						"weapon_dp28"	"#weapon_dp28"
+						"weapon_rp46"	"#weapon_rp46"
+						"weapon_bren"	"#weapon_bren"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_css"	"#weapon_css"
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
+					"weapon_ammobox_vc"	"#weapon_ammobox_vc"
+					"weapon_lpo50"	"#weapon_lpo50"					
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"sniper"
 			{
 				"primary"
-				{									
-				
+				{
+					"sniperrifles"
+					{
+						"weapon_kar98k_s"	"#weapon_kar98k_s"
+						"weapon_mas49s"	"#weapon_mas49s"
+						"weapon_svt40s"	"#weapon_svt40s"
+						"weapon_m38s"	"#weapon_m38s"
+						"weapon_svd"	"#weapon_svd"
+					}
+					"bolt_actions"
+					{
+						"weapon_m91"	"#weapon_m91"
+					}	
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_pb"		"#weapon_pb"
+						"weapon_type67"	"#weapon_type67"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_csg"	"#weapon_csg"
+						"weapon_csg2"	"#weapon_csg2"
+						"weapon_css"	"#weapon_css"
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_css"	"#weapon_css"
+						"weapon_molotov" "#weapon_molotov"
+					}
+
+					"limited"	"2"
 				}
 				"equipment"
 				{
-
+					"weapon_type97"	"#weapon_type97"
+					"weapon_lpo50"	"#weapon_lpo50"
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
+				}
+			}
+			"engineer"
+			{
+				"primary"
+				{
+					"smgs"
+					{
+						"weapon_k50m"	"#weapon_k50m"
+						"weapon_mat49"	"#weapon_mat49"
+						"weapon_mat49_sog"	"#weapon_mat49_sog"
+						"weapon_ppsh41"	"#weapon_ppsh41"
+						"weapon_pps43"	"#weapon_pps43"						
+						"weapon_mp40"	"#weapon_mp40"
+						"weapon_mas38"	"#weapon_mas38"
+						"weapon_vz23"	"#weapon_vz23"
+						"weapon_type64"	"#weapon_type64"
 
+						"weapon_vz61e"	"#weapon_vz61e"
+						"weapon_vz61e_sog"	"#weapon_vz61e_sog"
+						"weapon_aps"	"#weapon_aps"						
+					}
+					"shotguns"
+					{
+						"weapon_robust"	"#weapon_robust"
+					}
+				}
+				"secondary"
+				{
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+
+					"limited"	"2"
+				}
+				"equipment"
+				{
+					"weapon_rpg7"	"#weapon_rpg7"
+					"weapon_rpg2"	"#weapon_rpg2"
+					"weapon_lpo50"	"#weapon_lpo50"
+					"weapon_rg42"	"#weapon_rg42"
+					"weapon_ptrd"	"#weapon_ptrd"
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
 				}
 			}
 			"radioman"
 			{
 				"primary"
-				{									
-				
+				{
+					"assault_rifles"
+					{
+						"weapon_stg44"	"#weapon_stg44"
+						"weapon_type56"	"#weapon_type56"
+					}
+					"carbines"
+					{
+						"weapon_amd65"	"#weapon_amd65"
+						"weapon_sks"	"#weapon_sks"
+						"weapon_type17"	"#weapon_type17"						
+					}
+					"smgs"
+					{
+						"weapon_k50m"	"#weapon_k50m"
+						"weapon_mat49"	"#weapon_mat49"
+						"weapon_mat49_sog"	"#weapon_mat49_sog"
+						"weapon_ppsh41"	"#weapon_ppsh41"
+						"weapon_pps43"	"#weapon_pps43"						
+						"weapon_mp40"	"#weapon_mp40"
+						"weapon_mas38"	"#weapon_mas38"
+						"weapon_vz23"	"#weapon_vz23"
+						"weapon_type64"	"#weapon_type64"
+
+                                                "weapon_vz61e"	"#weapon_vz61e"
+						"weapon_vz61e_sog"	"#weapon_vz61e_sog"
+						"weapon_aps"	"#weapon_aps"		
+					}
+					"shotguns"
+					{
+						"weapon_robust"	"#weapon_robust"
+					}
 				}
 				"secondary"
 				{
-					
+					"pistols"
+					{
+						"weapon_pm"		"#weapon_pm"
+						"weapon_type14"	"#weapon_type14"
+						"weapon_p38"		"#weapon_p38"
+						"weapon_tt33"	"#weapon_tt33"
+						"weapon_mle1935"	"#weapon_mle1935"
+						"weapon_c96"	"#weapon_c96"
+					}
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+					}
 				}
 				"explosive"
 				{
-				
-				}
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+
+					"limited"	"2"
+				}				
 				"equipment"
 				{
-
+					"weapon_binoculars_vc"	"#weapon_binoculars_vc"
+					"weapon_lpo50"	"#weapon_lpo50"					
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
-			}|
+			}
 		}
 	}
 

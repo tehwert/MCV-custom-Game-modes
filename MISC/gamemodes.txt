@@ -1,0 +1,1338 @@
+// DO NOT MODIFY THIS FILE
+// 
+// To customize your server, see gamemodes_server.txt.example
+
+
+"GameModes.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{
+			"value"				"0"
+			"nameID"			"#SFUI_GameTypeClassic"
+
+			"gameModes"
+			{
+				"TeamDeathmatch"
+				{
+					"value"				"0"
+					"nameID"			"#vietnam_GameMode_TeamDeathmatch"
+					"descID"			"#vietnam_GameModeTDMDesc"
+					"descID_List"		"#vietnam_GameModeTDMDescList"
+					"uid"				"1"
+					"maxplayers"		"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					//	"exec" "gamemode_casual.cfg"
+					//	"exec" "gamemode_casual_server.cfg"
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"				
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"	
+					}
+				}
+				
+				"Aliens"
+				{
+					"value"				"1"
+					"nameID"			"#vietnam_GameMode_Aliens"
+					"descID"			"#vietnam_GameModeAliensDesc"
+					"descID_List"		"#vietnam_GameModeAliensDescList"
+					"uid"				"1"
+					"maxplayers"		"5"
+					
+					// Yet to be added
+					"enabled"			"0"					
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{			
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{	
+					}
+				}
+				
+				"CaptureTheFlag"
+				{
+					"value"				"2"
+					"nameID"			"#vietnam_GameMode_CaptureTheFlag"
+					"descID"			"#vietnam_GameModeCTFDesc"
+					"descID_List"		"#vietnam_GameModeCTFDescList"
+					"uid"				"1"
+					"maxplayers"		"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"ctf"	"0"				
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"ctf"	"0"		
+					}
+				}
+				
+				"Conquest"
+				{
+					"value"				"3"
+					"nameID"			"#vietnam_GameMode_Conquest"
+					"descID"			"#vietnam_GameModeConquestDesc"
+					"descID_List"			"#vietnam_GameModeConquestList"
+					"uid"				"1"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"conquest"	"0"		
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"conquest"	"1"		
+					}
+				}
+				
+				"Deathmatch"
+				{
+					"value"				"4"
+					"nameID"			"#vietnam_GameMode_Deathmatch"
+					"descID"			"#vietnam_GameModeDeathmatchDesc"
+					"descID_List"			"#vietnam_GameModeDeathmatchDescList"
+					"uid"				"1"
+					"maxplayers"			"32"
+	
+					"show_rich_presence_map_game"  "omg "
+					"show_rich_presence_map_watch" "whats "
+					"show_rich_presence_map_review" "that"
+
+					"exec"
+					{
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+				}
+				
+				"FireFight"
+				{
+					"value"				"5"
+					"nameID"			"#vietnam_GameMode_FireFight"
+					"descID"			"#vietnam_GameModeFireFightDesc"
+					"descID_List"			"#vietnam_GameModeFireFightDescList"
+					"uid"				"1"
+					"maxplayers"			"32"
+					
+					"enabled"			"0"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						"exec" "firefight.cfg"
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"				
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"		
+					}
+				}
+				
+				"LastManStanding"
+				{
+					"value"				"6"
+					"nameID"			"#vietnam_GameMode_LastManStanding"
+					"descID"			"#vietnam_GameModeLMSDesc"
+					"descID_List"			"#vietnam_GameModeLMSList"
+					"uid"				"1"
+					"maxplayers"			"32"
+					
+					"enabled"			"0"
+
+					"show_rich_presence_map_game"  "omg "
+					"show_rich_presence_map_watch" "whats "
+					"show_rich_presence_map_review" "that"
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						"exec" "lastmanstanding.cfg"
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+				}
+				
+				"GunGame" // Team-based gungame
+				{
+					"value"				"7"
+					"nameID"			"#vietnam_GameMode_Gungame"
+					"descID"			"#vietnam_GameModeGungameDesc"
+					"descID_List"			"#vietnam_GameModeGungameDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_m1a1"
+								"1" "weapon_mp40"
+								"2" "weapon_mas38"
+								"3" "weapon_mat49"
+								"4" "weapon_k50m"
+								"5" "weapon_pps43"
+								"6" "weapon_m45"
+								"7" "weapon_m3a1"
+								"8" "weapon_uzi"
+								"9" "weapon_swm76"
+								"10" "weapon_stenmk2"
+								"11" "weapon_ppsh41"
+							}
+						}
+						"category1"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_vz61e"
+								"1" "weapon_mac10"
+								"2" "weapon_ppsh41d"
+								"3" "weapon_m1928"
+							}
+						}
+
+						"category2"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10"
+								"1" "weapon_dual_vz61e"
+
+							}
+						}
+						"category3"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_type64"
+								"1" "weapon_stenmk2_sog"
+								"2" "weapon_uzi_sog"
+								"3" "weapon_m45_sog"
+								"4" "weapon_m3a1_sog"
+								"5" "weapon_mac10_sog"
+								"6" "weapon_mat49_sog"
+							}
+						}
+						"category4"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m870"
+								"1" "weapon_robust"
+							}
+						}
+						"category5"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m1897"
+								"1" "weapon_m37"
+							}
+						}
+						"category6"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+								"1" "weapon_m1g"
+								"2" "weapon_sks"
+								"3" "weapon_m1c"
+								"4" "weapon_m1c_sog"
+								"5" "weapon_type17"
+							}
+						}
+						"category7"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type63"
+								"1" "weapon_svt40"
+								"2" "weapon_m2c"
+								"3" "weapon_m2c_sog"
+								"4" "weapon_m14"
+							}
+						}
+						"category8"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m1903"
+								"1" "weapon_kar98k"
+								"2" "weapon_m38"
+								"3" "weapon_m91"
+							}
+						}
+						"category9"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_stg44"
+								"1" "weapon_ak47"
+								"2" "weapon_type56"
+								"3" "weapon_akm"
+								"4" "weapon_md63"
+								"5" "weapon_t223"
+								"6" "weapon_m16a1"
+								"7" "weapon_car15"
+								"8" "weapon_m607"
+								"9" "weapon_vz58"
+								"10" "weapon_m1918"
+								"11" "weapon_xm177"
+							}
+						}
+						"category10"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_car15s"
+								"1" "weapon_m607s"
+								"2" "weapon_stg44s"
+							}
+						}
+						"category11"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m21s"
+								"1" "weapon_mas49s"
+								"2" "weapon_m1gs"
+								"3" "weapon_svt40s"
+								"4" "weapon_svd"
+							}
+						}
+						"category12"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_kar98k_s"
+								"1" "weapon_m40"
+								"2" "weapon_m1903s"
+							}
+						}
+						"category13"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_rpd"
+								"1" "weapon_stoner63"
+								"2" "weapon_m60"
+								"3" "weapon_dp28"
+								"4" "weapon_rp46"
+								"5" "weapon_rpk"
+								"6" "weapon_m60b"
+								"7" "weapon_rpd_sog"
+								"8" "weapon_tul1"
+								"9" "weapon_m1918_bar"
+							}
+						}
+						"category14"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m72"
+								"1" "weapon_rpg7"
+								"2" "weapon_m79"
+							}
+						}
+						"category15"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_pm"
+								"1" "weapon_mk22"
+								"2" "weapon_mle1935"
+								"3" "weapon_tt33"
+								"4" "weapon_m1911"
+								"5" "weapon_p38"
+								"6" "weapon_type14"
+								"7" "weapon_c96"
+							}
+						}
+						"category16"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_pm"
+								"1" "weapon_dual_mk22"
+								"2" "weapon_dual_mle1935"
+								"3" "weapon_dual_tt33"
+								"4" "weapon_dual_m1911"
+								"5" "weapon_dual_p38"
+								"6" "weapon_dual_type14"
+							}
+						}
+						"category17"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_swm12"
+								"1" "weapon_m1895"
+								"2" "weapon_m1917"
+							}
+						}
+						"category18"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_pb"
+								"1" "weapon_dual_mk22_mod0"
+								"2" "weapon_dual_hdm"
+								"3" "weapon_dual_type67"
+							}
+						}
+						"category19"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_csg"
+								"1" "weapon_m26"
+								"2" "weapon_csg2"
+								"3" "weapon_mk3a2"
+							}
+						}
+						"category20"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m9a1"
+								"1" "weapon_lpo50"
+							}
+						}
+						"category21"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type30_bayonet"
+								"1" "weapon_m7_bayonet"
+								"2" "weapon_ak47_bayonet"
+								"3" "weapon_m1905_bayonet"
+								"4" "weapon_m1942"
+								"5" "weapon_sickle"
+							}
+						}
+					}
+				}
+				
+				"Demolition"
+				{
+					"value"				"8"
+					"nameID"			"#vietnam_GameMode_Demolition"
+					"descID"			"#vietnam_GameModeDemolitionDesc"
+					"descID_List"		"#vietnam_GameModeDemolitionDescList"
+					"uid"				"1"
+					"maxplayers"		"32"
+					
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{			
+						"demolition"	"0"	
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{	
+						"demolition"	"1"	
+					}
+				}
+
+				"Domination"
+				{
+					"value"				"9"
+					"nameID"			"#vietnam_GameMode_Domination"
+					"descID"			"#vietnam_GameModeDominationDesc"
+					"descID_List"			"#vietnam_GameModeDominationList"
+					"uid"				"1"
+					"maxplayers"		"32"
+					
+					"enabled"			"0"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"			"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						// we can execute a .cfg here which will enable random spawning, for example
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+				}
+
+				"GunGameDeathmatch"
+				{
+					"value"				"10"
+					"nameID"			"#vietnam_GameMode_GungameDeathmatch"
+					"descID"			"#vietnam_GameModeGungameDeathmatchDesc"
+					"descID_List"			"#vietnam_GameModeGungameDeathmatchDescList"
+					"uid"				"11"
+					"maxplayers"			"32"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						"exec" "gungamedeathmatch.cfg"
+					}
+					
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"
+					}
+
+					"weaponprogression"
+					{
+						"category0"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_m1a1"
+								"1" "weapon_mp40"
+								"2" "weapon_mas38"
+								"3" "weapon_mat49"
+								"4" "weapon_k50m"
+								"5" "weapon_pps43"
+								"6" "weapon_m45"
+								"7" "weapon_m3a1"
+								"8" "weapon_uzi"
+								"9" "weapon_swm76"
+								"10" "weapon_stenmk2"
+								"11" "weapon_ppsh41"
+							}
+						}
+						"category1"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_vz61e"
+								"1" "weapon_mac10"
+								"2" "weapon_ppsh41d"
+								"3" "weapon_m1928"
+							}
+						}
+
+						"category2"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_mac10"
+								"1" "weapon_dual_vz61e"
+
+							}
+						}
+						"category3"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_type64"
+								"1" "weapon_stenmk2_sog"
+								"2" "weapon_uzi_sog"
+								"3" "weapon_m45_sog"
+								"4" "weapon_m3a1_sog"
+								"5" "weapon_mac10_sog"
+								"6" "weapon_mat49_sog"
+							}
+						}
+						"category4"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m870"
+								"1" "weapon_robust"
+							}
+						}
+						"category5"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m1897"
+								"1" "weapon_m37"
+							}
+						}
+						"category6"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_mas49"
+								"1" "weapon_m1g"
+								"2" "weapon_sks"
+								"3" "weapon_m1c"
+								"4" "weapon_m1c_sog"
+							}
+						}
+						"category7"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type63"
+								"1" "weapon_svt40"
+								"2" "weapon_m2c"
+								"3" "weapon_m2c_sog"
+								"4" "weapon_m14"
+							}
+						}
+						"category8"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m1903"
+								"1" "weapon_kar98k"
+								"2" "weapon_m38"
+								"3" "weapon_m91"
+							}
+						}
+						"category9"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_stg44"
+								"1" "weapon_ak47"
+								"2" "weapon_type56"
+								"3" "weapon_akm"
+								"4" "weapon_md63"
+								"5" "weapon_t223"
+								"6" "weapon_m16a1"
+								"7" "weapon_car15"
+								"8" "weapon_m607"
+								"9" "weapon_vz58"
+								"10" "weapon_m1918"
+								"11" "weapon_xm177"
+							}
+						}
+						"category10"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_car15s"
+								"1" "weapon_m607s"
+								"2" "weapon_stg44s"
+							}
+						}
+						"category11"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m21s"
+								"1" "weapon_mas49s"
+								"2" "weapon_m1gs"
+								"3" "weapon_svt40s"
+								"4" "weapon_svd"
+							}
+						}
+						"category12"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_kar98k_s"
+								"1" "weapon_m40"
+								"2" "weapon_m1903s"
+							}
+						}
+						"category13"
+						{
+							"kills" "3"
+							"weapons"
+							{
+								"0" "weapon_rpd"
+								"1" "weapon_stoner63"
+								"2" "weapon_m60"
+								"3" "weapon_dp28"
+								"4" "weapon_rp46"
+								"5" "weapon_rpk"
+								"6" "weapon_m60b"
+								"7" "weapon_rpd_sog"
+								"8" "weapon_tul1"
+								"9" "weapon_m1918_bar"
+							}
+						}
+						"category14"
+						{
+							"kills" "2"
+							"weapons"
+							{
+								"0" "weapon_m72"
+								"1" "weapon_rpg7"
+								"2" "weapon_m79"
+							}
+						}
+						"category15"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_pm"
+								"1" "weapon_mk22"
+								"2" "weapon_mle1935"
+								"3" "weapon_tt33"
+								"4" "weapon_m1911"
+								"5" "weapon_mk22_mod0"
+								"6" "weapon_pb"
+								"7" "weapon_hdm"
+								"8" "weapon_type67"
+								"9" "weapon_p38"
+							}
+						}
+						"category16"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_pm"
+								"1" "weapon_dual_mk22"
+								"2" "weapon_dual_mle1935"
+								"3" "weapon_dual_tt33"
+								"4" "weapon_dual_m1911"
+								"5" "weapon_dual_p38"
+							}
+						}
+						"category17"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_swm12"
+								"1" "weapon_m1895"
+								"2" "weapon_m1917"
+							}
+						}
+						"category18"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_dual_pb"
+								"1" "weapon_dual_mk22_mod0"
+								"2" "weapon_dual_hdm"
+							}
+						}
+						"category19"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_csg"
+								"1" "weapon_m26"
+								"2" "weapon_csg2"
+								"3" "weapon_mk3a2"
+							}
+						}
+						"category20"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m9a1"
+								"1" "weapon_lpo50"
+							}
+						}
+						"category21"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_type30_bayonet"
+								"1" "weapon_m7_bayonet"
+								"2" "weapon_ak47_bayonet"
+								"3" "weapon_m1905_bayonet"
+							}
+						}
+					}
+				}
+
+				"LastTeamStanding"
+				{
+					"value"				"11"
+					"nameID"			"#vietnam_GameMode_LastTeamStanding"
+					"descID"			"#vietnam_GameModeLTSDesc"
+					"descID_List"			"#vietnam_GameModeLTSList"
+					"uid"				"1"
+					"maxplayers"			"32"
+					
+					"enabled"			"0"
+
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"1"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						"2"		{ "label" "#SFUI_BotsColon"				"value" "#SFUI_BotDifficulty2" }
+					}
+
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						"exec" "lastteamstanding.cfg"
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+						"all"	"0"				
+					}
+
+					// Map groups for online modes
+					"mapgroupsMP"
+					{
+						"all"	"0"		
+					}
+				}
+			}	
+		}
+        
+		"training"
+		{
+			"value"				"2"
+			"nameID"			"#SFUI_GameTypeFreestyle"
+			"singleplayeronly"	"1"
+	
+			"gameModes"
+			{
+				"training"
+				{
+					"value"				"0"
+					"nameID"			"#vietnam_GameMode_Training"
+					"descID"			"#SFUI_GameModeTrainingDesc"
+					"descID_List"		"#SFUI_GameModeTrainingDescList"
+					"showdisclaimer"	"1"
+					"uid"				"21"
+					"maxplayers"		"1"
+	
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+					//	"0"		{ "label" "#SFUI_CashColon"				"value" "$16,000" }
+					//	"1"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+					//	"2"		{ "label" "#SFUI_TimePerRoundColon"		"value" "5 #SFUI_Minutes" }
+					//	"3"		{ "label" "#SFUI_BuyTimeColon"			"value" "90 #SFUI_Seconds" }
+					//	"4"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						// Bot data is determined by user selection.
+					}
+	
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						"exec" "training.cfg"
+					//	"exec" "gamemode_training_server.cfg"
+					}
+
+					// Map groups for offline modes
+					"mapgroupsSP"
+					{
+					}
+				}
+			}
+		}
+
+		"custom"
+		{
+			"value"				"3"
+			"nameID"			"#SFUI_GameTypeCustom"
+	
+			"gameModes"
+			{
+				"custom"
+				{
+					"value"				"0"
+					"nameID"			"#vietnam_GameMode_Custom"
+					"descID"			"#SFUI_GameModeCustomDesc"
+					"descID_List"		"#SFUI_GameModeCustomDescList"
+					"showdisclaimer"	"1"
+					"uid"				"30"
+					"maxplayers"		"100"
+	
+					// These are the descriptive ui elements to display in the information box on.
+					// These key/values should be pairs of strings.  The "key" will appear in the left
+					// column, the "value" will appear in the right column.
+					"ui"
+					{
+						"0"		{ "label" "#SFUI_CashColon"				"value" "$16,000" }
+						"1"		{ "label" "#SFUI_WinMatchColon"			"value" "30 #SFUI_Minutes" }
+						"2"		{ "label" "#SFUI_TimePerRoundColon"		"value" "5 #SFUI_Minutes" }
+						"3"		{ "label" "#SFUI_BuyTimeColon"			"value" "90 #SFUI_Seconds" }
+						"4"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
+						// Bot data is determined by user selection.
+					}
+	
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						//"exec" "gamemode_custom.cfg"
+					}
+				}
+			}
+		}
+	}
+
+	"mapgroups"
+	{
+		"all"
+		{
+			"maps"
+			{
+				"mcv_depot"			""
+				"mcv_embassy"		""
+				"mcv_outpost"		""
+				"mcv_camp"			""
+				"mcv_saigon"		""
+				"mcv_siege"			""
+				"mcv_port"			""		
+				"mcv_hospital"		""
+				"mcv_citadel"		""
+				"mcv_airbase"		""
+			}
+		}
+		
+		"ctf"
+		{
+			"maps"
+			{
+				"mcv_depot"			""
+				"mcv_outpost"		""
+				"mcv_camp"			""
+				"mcv_siege"			""
+				"mcv_port"			""		
+				"mcv_hospital"		""				
+			}
+		}		
+		
+		"conquest"
+		{
+			"maps"
+			{
+				"mcv_depot"			""
+				"mcv_embassy"		""
+				"mcv_outpost"		""
+				"mcv_camp"			""
+				"mcv_saigon"		""
+				"mcv_port"			""	
+				"mcv_hospital"		""
+				"mcv_citadel"		""
+				"mcv_siege"		""
+				"mcv_airbase"		""
+			}
+		}	
+
+		"demolition"
+		{
+			"maps"
+			{
+				"mcv_depot"			""
+				"mcv_outpost"		""
+				"mcv_saigon"		""
+				"mcv_port"			""
+				"mcv_camp"			""
+				"mcv_citadel"		""
+				"mcv_airbase"		""		
+			}
+		}		
+	}
+
+	"maps"
+	{
+		//
+		// Classic Maps
+		//
+	
+		"mcv_embassy"
+		{
+			"nameID"				"#vietnam_maps_mcv_embassy"
+			"name"					"mcv_embassy"
+			"imagename"				"map-embassy-overall"
+			"default_game_mode"			"0" // TDM
+		}
+		
+		"mcv_depot"
+		{
+			"nameID"				"#vietnam_maps_mcv_depot"
+			"name"					"mcv_depot"
+			"imagename"				"map-depot-overall"
+			"default_game_mode"			"7" // GunGame
+		}
+		
+		"mcv_siege"
+		{
+			"nameID"				"#vietnam_maps_mcv_siege"
+			"name"					"mcv_shootinghouse"
+			"imagename"				"map-shoothouse-overall"
+			"default_game_mode"			"2" // CTF
+		}
+
+		"mcv_hospital"
+		{
+			"nameID"				"#vietnam_maps_mcv_hospital"
+			"name"					"mcv_hospital"
+			"imagename"				"map-hospital-overall"
+			"default_game_mode"			"2" // CTF
+		}
+
+		"mcv_saigon"
+		{
+			"nameID"				"#vietnam_maps_mcv_saigon"
+			"name"					"mcv_saigon"
+			"imagename"				"mcv_saigon-overall"
+			"default_game_mode"			"3" // Conquest
+		}
+		
+		"mcv_port"
+		{
+			"nameID"				"#vietnam_maps_mcv_port"
+			"name"					"mcv_port"
+			"imagename"				"map-port-overall"
+			"default_game_mode"			"2" // CTF
+		}
+
+		"mcv_camp"
+		{
+			"nameID"				"#vietnam_maps_mcv_camp"
+			"name"					"mcv_camp"
+			"imagename"				"map-camp-overall"
+			"default_game_mode"			"2" // CTF
+		}
+
+		"mcv_citadel"
+		{
+			"nameID"				"#vietnam_maps_mcv_citadel"
+			"name"					"mcv_citadel"
+			"imagename"				"mcv_citadel-overall"
+			"default_game_mode"			"3" // Conquest
+		}	
+	
+		"mcv_airbase"
+		{
+			"nameID"				"#vietnam_maps_mcv_airbase"
+			"name"					"mcv_airbase"
+			"imagename"				"mcv_airbase-overall"
+			"default_game_mode"			"3" // Conquest
+		}		
+	
+		"training1"
+		{
+			"nameID"				"#SFUI_Map_training1"
+			"name"					"training1"
+			"minplayers"			"1"
+			"maxplayers"			"1"
+			"extraspectators"		"2"
+			"imagename"				"map-alleyway-overall"
+			"default_game_type"		"2" // Training
+			"default_game_mode"		"0" // 
+		}
+	}
+	
+	"botDifficulty"
+	{
+		"none"
+		{
+			"nameID" "#SFUI_BotDifficulty0"
+			"value" "0"
+			"awardProgressDisabled" "1"
+			"convars"
+			{
+				"bot_difficulty"		"0"
+				"bot_dont_shoot"		"1"
+				"bot_quota"				"0"
+			}
+		}
+		
+		"dumb"
+		{
+			"nameID" "#SFUI_BotDifficulty1"
+			"value" "1"
+			"awardProgressDisabled" "1"
+			"convars"
+			{
+				"bot_difficulty"		"0"
+				"bot_dont_shoot"		"1"
+			}
+		}
+		
+		"easy"
+		{
+			"nameID" "#SFUI_BotDifficulty2"
+			"value" "2"
+			"awardProgressDisabled" "0"
+			"convars"
+			{
+				"bot_difficulty"		"0"
+				"bot_dont_shoot"		"0"
+			}
+		}
+		
+		"medium"
+		{
+			"nameID" "#SFUI_BotDifficulty3"
+			"value" "3"
+			"awardProgressDisabled" "0"
+			"convars"
+			{
+				"bot_difficulty"		"1"
+				"bot_dont_shoot"		"0"
+			}
+		}
+		
+		"hard"
+		{
+			"nameID" "#SFUI_BotDifficulty4"
+			"value" "4"
+			"awardProgressDisabled" "0"
+			"convars"
+			{
+				"bot_difficulty"		"2"
+				"bot_dont_shoot"		"0"
+			}
+		}
+		
+		"expert"
+		{
+			"nameID" "#SFUI_BotDifficulty5"
+			"value" "5"
+			"awardProgressDisabled" "0"
+			"convars"
+			{
+				"bot_difficulty"		"3"
+				"bot_dont_shoot"		"0"
+			}
+		}
+	}
+	
+	"maptypes"
+	{
+		"CaptureTheFlag"
+		{
+			"nameID" "#vietnam_GameModeCTF"
+			"imagename" "icon-overview-ctf"
+		}
+
+		"training"
+		{
+			"nameID" "#SFUI_TrainingSelectMap"
+			"imagename" "icon-overview-select"
+		}
+				
+		"unknown"
+		{
+			"nameID" "?"
+		}
+	}
+}

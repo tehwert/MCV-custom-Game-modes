@@ -12,302 +12,560 @@
 			"assault"
 			{
 				"primary"
-				{									
-
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}			
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+					"weapon_ammobox_us"	"#weapon_ammobox_us"				
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"medic"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}			
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+					"weapon_medicbox"	"#weapon_medicbox"
+					"weapon_ammobox_us"	"#weapon_ammobox_us"				
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"gunner"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"sniper"
 			{
-					"primary"
-				{									
-				
+				"primary"
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}			
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"engineer"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"radioman"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
+					"slot2"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
+			}
 		}
 		"VC"
 		{
 			"assault"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"medic"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_medicbox"	"#weapon_medicbox"
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"gunner"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"sniper"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
+				}
+			}
+			"engineer"
+			{
+				"primary"
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
+				}
+				"secondary"
+				{
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
+				}
+				"equipment"
+				{
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
+				}
+				"equipment_accessory1"
+				{
+				}
+				"equipment_accessory2"
+				{
 				}
 			}
 			"radioman"
 			{
 				"primary"
-				{									
-				
+				{													
+					"shotguns"
+					{
+						"weapon_m37"	"#weapon_m37"
+						"weapon_m870"	"#weapon_m870"
+						"weapon_m1897"	"#weapon_m1897"
+						"weapon_robust"	"#weapon_robust"
+						"weapon_robust_sog"	"#weapon_robust_sog"
+					}
 				}
 				"secondary"
 				{
-					
+					"revolvers"
+					{
+						"weapon_m1895"	"#weapon_m1895"
+						"weapon_m1917"	"#weapon_m1917"
+						"weapon_swm10"	"#weapon_swm10"
+						"weapon_swm12"	"#weapon_swm12"
+						"weapon_vcpistol"	"#weapon_vcpistol"						
+					}				
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov"	"#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_m26"	"#weapon_m26"
+					}
 				}
 				"equipment"
 				{
-
+				"weapon_ammobox_us"	"#weapon_ammobox_us"
 				}
 				"equipment_accessory1"
 				{
-				
 				}
 				"equipment_accessory2"
 				{
-
 				}
-			}|
+			}
 		}
 	}
 

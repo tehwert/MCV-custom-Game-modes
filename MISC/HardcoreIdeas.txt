@@ -1,0 +1,25 @@
+=+=Options I would like to see for Hardcore mod=+=
+I think these options would be best implemented with console commands that can be set by menu elements that you can "click and check" and enable on the pregame screen. 
+
+
+Bullet drop after X distance 
+Add a "Disable Explosive Barrels" command and vote option. (and include it in the explosive list)
+No colored outlines 
+No class tags above the head
+No hit Markers
+No names when pointing at someone
+No points or kill confirmation with name
+Award Ribbons at end of match
+Only medics can see other peoples health
+No one can see other peoples health
+Can't fire weapon if up against wall with gun not in firing position.
+No Radio Chat Log
+Can't sprint with LMG and fire at the same time
+Delayed Kill feed by X seconds
+Disable Kill feed entirely (I wouldn't play with this on but maybe other people would)
+Don't show current round count in magazine. (Still show ammo stockpile though) 
+Disable the weapon icons that are on the right hand of the screen
+Limit the length of how long you can hold your breath
+
+If you can do any of these things already with console commands, let me know.
+

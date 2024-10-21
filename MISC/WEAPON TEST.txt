@@ -1,7 +1,7 @@
-				"template" // Team-based gungame
+				"WEAPON TEST" // Team-based gungame
 				{
 					"value"				"7"
-					"nameID"			"#vietnam_GameMode_template"
+					"nameID"			"#vietnam_GameMode_WEAPON TEST"
 					"descID"			"#vietnam_GameModeGungameDesc"
 					"descID_List"			"#vietnam_GameModeGungameDescList"
 					"uid"				"11"
@@ -38,179 +38,227 @@
 					{
 						"category0"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_dual_aps"
 							}
 						}
 						"category1"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_robust_sog"
 							}
 						}
 						"category2"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_xm202"
 							}
 						}
 						"category3"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_bren"
 							}
 						}
 						"category4"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_dual_type14"
 							}
 						}
 						"category5"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_vz23"
 							}
 						}
 						"category6"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_vz61e_sog"
 							}
 						}
 						"category7"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m1a1_sog"
 							}
 						}
 						"category8"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m12"
 							}
 						}
 						"category9"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m50"
 							}
 						}
 						"category10"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m203"
 							}
 						}
 						"category11"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_c4"
 							}
 						}
 						"category12"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_dynamite"
 							}
 						}
 						"category13"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" "
+								"0" "weapon_m38s"
 							}
 						}
 						"category14"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_vcpistol"
 							}
 						}
 						"category15"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_kbkg60"
 							}
 						}
 						"category16"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_ptrd"
 							}
 						}
 						"category17"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_akm_gp25"
 							}
 						}
 						"category18"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_molotov"
 							}
 						}
 						"category19"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m16a1_m203"
 							}
 						}
 						"category20"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_m16mine"
 							}
 						}
 						"category21"
 						{
-							"kills" "10"
+							"kills" "1"
 							"weapons"
 							{
-								"0" ""
+								"0" "weapon_rg42"
 							}
 						}
+						"category22"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_fists"
+							}
+						}
+						"category23"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_vz58"
+							}
+						}
+						"category24"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_binoculars_us"
+							}
+						}
+						"category25"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_m8"
+							}
+						}
+						"category26"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_gp25"
+							}
+						}
+						"category27"
+						{
+							"kills" "1"
+							"weapons"
+							{
+								"0" "weapon_binoculars_vc"
+							}
+						}						
 					}
 				}

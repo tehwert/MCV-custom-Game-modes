@@ -13,163 +13,230 @@
 			{
 				"primary"
 				{									
-
+					"Flamethrowers"
+					{
+						"weapon_m9a1"	"#weapon_m9a1"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_m8"		"#weapon_m8"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"medic"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_m9a1"	"#weapon_m9a1"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_m8"		"#weapon_m8"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"gunner"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_m9a1"	"#weapon_m9a1"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_m8"		"#weapon_m8"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"sniper"
 			{
-					"primary"
+				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_m9a1"	"#weapon_m9a1"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_m8"		"#weapon_m8"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"engineer"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_m9a1"	"#weapon_m9a1"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_m8"		"#weapon_m8"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"radioman"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_m9a1"	"#weapon_m9a1"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_m8"		"#weapon_m8"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_us"	"#weapon_gasmask_us"
 				}
 				"equipment_accessory2"
 				{
-
 				}
+			}
 		}
 		"VC"
 		{
@@ -177,137 +244,230 @@
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_lpo50"	"#weapon_lpo50"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_type97"		"#weapon_type97"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"medic"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_lpo50"	"#weapon_lpo50"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_type97"		"#weapon_type97"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"gunner"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_lpo50"	"#weapon_lpo50"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_type97"		"#weapon_type97"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
 			}
 			"sniper"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_lpo50"	"#weapon_lpo50"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_type97"		"#weapon_type97"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
+				}
+			}
+			"engineer"
+			{
+				"primary"
+				{									
+					"Flamethrowers"
+					{
+						"weapon_lpo50"	"#weapon_lpo50"
+					}				
+				}
+				"secondary"
+				{
+					"FlareGun"
+					{
+						"weapon_type97"		"#weapon_type97"
+					}
+				}
+				"explosive"
+				{
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+				}
+				"equipment"
+				{
+				}
+				"equipment_accessory1"
+				{
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
+				}
+				"equipment_accessory2"
+				{
 				}
 			}
 			"radioman"
 			{
 				"primary"
 				{									
-				
+					"Flamethrowers"
+					{
+						"weapon_lpo50"	"#weapon_lpo50"
+					}				
 				}
 				"secondary"
 				{
-					
+					"FlareGun"
+					{
+						"weapon_type97"		"#weapon_type97"
+					}
 				}
 				"explosive"
 				{
-				
+					"slot1"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
+					"slot2"
+					{
+						"weapon_molotov" "#weapon_molotov"
+					}
 				}
 				"equipment"
 				{
-
 				}
 				"equipment_accessory1"
 				{
-				
+					"weapon_gasmask_vc"	"#weapon_gasmask_vc"
 				}
 				"equipment_accessory2"
 				{
-
 				}
-			}|
+			}
 		}
 	}
 
