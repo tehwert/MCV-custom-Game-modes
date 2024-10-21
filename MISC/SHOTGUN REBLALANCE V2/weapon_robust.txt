@@ -59,7 +59,7 @@ WeaponData
 	"DamageStomachMultiplier"		"1.25"
 	"DamageLegMultiplier"			"0.9"
 	"DamageArmMultiplier"			"0.85"
-	"DamageGeneric"					"25"	// damage for other objects (i.e. explosive barrels, breakable walls, or characters with no hitboxes set)
+	"DamageGeneric"					"23"	// damage for other objects (i.e. explosive barrels, breakable walls, or characters with no hitboxes set)
 
 	// weapon recoil
 	// minimal possible kick

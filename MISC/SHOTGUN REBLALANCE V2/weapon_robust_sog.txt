@@ -59,16 +59,16 @@ WeaponData
 	"DamageStomachMultiplier"		"1.25"
 	"DamageLegMultiplier"			"0.9"
 	"DamageArmMultiplier"			"0.85"
-	"DamageGeneric"					"25"	// damage for other objects (i.e. explosive barrels, breakable walls, or characters with no hitboxes set)
+	"DamageGeneric"					"21"	// damage for other objects (i.e. explosive barrels, breakable walls, or characters with no hitboxes set)
 
 	// weapon recoil
 	// minimal possible kick
-	//"ViewMinKickPITCH"			"5.30"	// degrees
-	//"ViewMinKickYAW"			"-1.25"	// degrees
+	//"ViewMinKickPITCH"			"7.30"	// degrees
+	//"ViewMinKickYAW"			"-2.25"	// degrees
 
 	// maximal possible kick
-	//"ViewKickPITCH"				"6.30"	// degrees
-	//"ViewKickYAW"				"1.25"	// degrees
+	//"ViewKickPITCH"				"9.30"	// degrees
+	//"ViewKickYAW"				"2.25"	// degrees
 
 	"ShakeScale"				"3"	// camera shake effect, does not affect accuracy
 	"ShakeFreq"					"30.0" 	// how many shakes per second
